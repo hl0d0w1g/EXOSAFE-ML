@@ -4,6 +4,6 @@ tmux new-session -d -s 'TFM'
 tmux new-window -t $'TFM':1
 tmux send-keys 'htop' C-m
 tmux split-window -h 
-tmux send-keys 'source venv/bin/activate' C-m 'jupyter-lab' C-m
+tmux send-keys 'source venv/bin/activate' C-m 'jupyter-lab --port=8001' C-m
 tmux split-window -v
-tmux a
+tmux -2 attach-session -d

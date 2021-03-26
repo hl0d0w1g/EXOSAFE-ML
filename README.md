@@ -49,9 +49,9 @@ git clone https://github.com/smassardi/EXOSAFE.git
 
 ## Usage
 To initialize a tmux session with the necessary information to control the resources of the computer and the development environment,
-you can use the `init.sh` bash script:
+you can use the `dev-tmux.sh` bash script:
 ```
-sh init.sh
+sh dev-tmux.sh
 ```
 
 Work In Progress
