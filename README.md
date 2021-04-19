@@ -20,8 +20,7 @@ This integration between robotic hardware and benchmarking software is expected 
 
 ## ML
 
-
-Work In Progress
+The Machine Learning task of this project aims to predict the forces that the leg is suffering, in order to be able to know the forces that a patient would suffer in an analogous way during the use of an exoskeleton.
 
 
 ## Installation
@@ -53,5 +52,3 @@ you can use the `dev-tmux.sh` bash script:
 ```
 sh dev-tmux.sh
 ```
-
-Work In Progress
