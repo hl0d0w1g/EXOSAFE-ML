@@ -3,3 +3,5 @@ data
 results
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+figures
+*/figures/*
