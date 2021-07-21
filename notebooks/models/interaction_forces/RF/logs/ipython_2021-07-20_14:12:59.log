@@ -1,0 +1,7 @@
+Model training with data: 0007_19072021
+Number of parameters combinations: 1600
+2021-07-20 14:13:01
+Parameters (0G5OCCIACE) 1/1600
+{'max_depth': 15, 'max_features': 0.05, 'min_samples_leaf': 10, 'min_samples_split': 10, 'n_estimators': 10000}
+Fold 1
+Fold 2
