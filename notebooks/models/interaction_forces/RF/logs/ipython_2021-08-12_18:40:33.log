@@ -1,0 +1,6752 @@
+Model training with data: 0013_09082021
+Number of parameters combinations: 675
+2021-08-12 18:40:34
+Parameters (3XPYXTA536) 1/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:40:51
+Parameters (Y2R0UE7RIR) 2/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:41:08
+Parameters (274G3RA3WC) 3/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:41:32
+Parameters (5XKB7ZE5CL) 4/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:41:47
+Parameters (SK3FHK0SS9) 5/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:41:53
+Parameters (F8F1UQ8QR6) 6/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:42:10
+Parameters (DUPBVUEZV6) 7/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:42:41
+Parameters (ABTN9M4JFD) 8/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:43:01
+Parameters (94O84NVIH5) 9/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:44:03
+Parameters (W1DUYOTKIV) 10/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:44:15
+Parameters (YHIGKQLF89) 11/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:44:23
+Parameters (PZ5FD6CG1W) 12/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:45:00
+Parameters (JKZAF3EY2B) 13/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:46:18
+Parameters (PC3VRY859H) 14/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:46:48
+Parameters (QEQOHE53KP) 15/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:47:13
+Parameters (VP4W1OPL14) 16/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:47:46
+Parameters (C5E447VM0C) 17/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:47:56
+Parameters (1M7AD1G0A9) 18/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:48:48
+Parameters (2UFNMO9NTV) 19/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:49:33
+Parameters (RP0BLNJUHF) 20/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:50:24
+Parameters (47TG4NHHIQ) 21/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:51:06
+Parameters (3VTT9CIKKY) 22/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:51:47
+Parameters (V70C8A8PXX) 23/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:52:00
+Parameters (7Q4ELSQJ4I) 24/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:52:41
+Parameters (8MUV4QJ7K3) 25/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:53:59
+Parameters (J7UKHZ337Y) 26/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:54:15
+Parameters (6Y2PITWV01) 27/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:54:39
+Parameters (ESRY177ICW) 28/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:55:12
+Parameters (QX2Y3P5FMY) 29/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:55:47
+Parameters (2B6OPFCDT2) 30/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:55:59
+Parameters (SX2QNB2G7R) 31/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:56:11
+Parameters (KQ3A319UA0) 32/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:56:22
+Parameters (KEXKY1QH7V) 33/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:56:35
+Parameters (UL4MBZUO29) 34/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:57:13
+Parameters (DC3GPW8QZ9) 35/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:57:25
+Parameters (XI2RXHRU8H) 36/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:58:06
+Parameters (L2TFXA96AR) 37/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:58:32
+Parameters (8J0VH9W1TK) 38/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:58:50
+Parameters (QDYV9NHCI8) 39/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:59:08
+Parameters (HNM5K1CBOH) 40/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 18:59:59
+Parameters (SJVF3006X3) 41/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:00:24
+Parameters (PKISL5N298) 42/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:00:46
+Parameters (Z1VMAQWXTU) 43/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:00:53
+Parameters (S9QBPTJA0R) 44/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:01:20
+Parameters (GS4V5CITKD) 45/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:01:53
+Parameters (D121BMYQL9) 46/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:03:36
+Parameters (A6FWWQ3AXP) 47/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:03:44
+Parameters (7CDY8JBOD7) 48/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:04:06
+Parameters (FGVJCOWK9K) 49/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:04:21
+Parameters (P7Z9KGM7RP) 50/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:04:42
+Parameters (VY5CB76GFL) 51/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:05:04
+Parameters (C8I98TJMOQ) 52/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:05:27
+Parameters (GWL917T565) 53/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:05:39
+Parameters (AA5OU0UKQ0) 54/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:06:07
+Parameters (NMBC0AGFOD) 55/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:06:18
+Parameters (JQPZHQF8TN) 56/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:07:06
+Parameters (P98PK3BD8E) 57/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:07:20
+Parameters (T797FJ19TP) 58/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:09:04
+Parameters (2IMBY5LXSZ) 59/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:09:24
+Parameters (2G835TK61Y) 60/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:10:02
+Parameters (J2EXKK1YGL) 61/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:11:38
+Parameters (ZHWLPXIGNW) 62/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:12:05
+Parameters (HIJAJN5J3D) 63/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:12:16
+Parameters (HDP8BEKWIR) 64/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:12:35
+Parameters (7FSYYSOSRB) 65/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:12:53
+Parameters (V9SUCUE8TA) 66/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:13:01
+Parameters (J22HFY6MQZ) 67/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:13:30
+Parameters (RNSDBSN55Z) 68/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:15:01
+Parameters (6PVXB4N0E8) 69/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:15:42
+Parameters (XNXIP70X02) 70/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:16:16
+Parameters (VHH4J12XVC) 71/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:16:38
+Parameters (RV092IV9BD) 72/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:17:05
+Parameters (SWTHDY9KA1) 73/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:17:16
+Parameters (42WUX6VV8R) 74/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:17:45
+Parameters (O336A16PH3) 75/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:18:04
+Parameters (WH5WU4IV6Y) 76/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:18:45
+Parameters (IZKM7DXPT1) 77/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:18:57
+Parameters (3SAK1SXGIK) 78/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:19:24
+Parameters (33PRWHYTDS) 79/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:19:53
+Parameters (HFLRHD2W5H) 80/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:20:35
+Parameters (VJ3QWLGHEB) 81/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:21:27
+Parameters (RO1F9I80RA) 82/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:21:54
+Parameters (OTRIRPDC4J) 83/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:22:04
+Parameters (B3XF00FG1U) 84/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:22:24
+Parameters (5OIHUR196T) 85/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:22:43
+Parameters (MXSG144IHB) 86/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:22:53
+Parameters (RDKAHHHTNJ) 87/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:23:07
+Parameters (5HIMYEP590) 88/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:23:38
+Parameters (AOBBMNQDMI) 89/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:25:08
+Parameters (X18EROHHCM) 90/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:25:20
+Parameters (9N4KJERWFO) 91/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:25:59
+Parameters (3IWAJBJWGS) 92/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:26:22
+Parameters (JZWRYA02SJ) 93/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:26:44
+Parameters (GKB272OSK7) 94/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:27:02
+Parameters (AZPURSFW7W) 95/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:27:32
+Parameters (3RTSYY9CW9) 96/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:27:51
+Parameters (6GPBX2QDFM) 97/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:29:08
+Parameters (9DV5IWFCR5) 98/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:29:17
+Parameters (UQV07DOHLE) 99/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:29:47
+Parameters (DSCMIFH0NV) 100/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:30:28
+Parameters (0BXWNFWL8O) 101/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:30:47
+Parameters (SABCFFZK1S) 102/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:32:32
+Parameters (SMJZLM8L1U) 103/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:32:52
+Parameters (YHXHK0P3BQ) 104/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:33:03
+Parameters (V9C6EOM01G) 105/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:33:36
+Parameters (C65OTUL17G) 106/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:34:05
+Parameters (VNMK50TA28) 107/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:34:39
+Parameters (NE687VOVT5) 108/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:35:03
+Parameters (IDC4JHG6YU) 109/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:35:28
+Parameters (VNI8CWAKSR) 110/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:35:42
+Parameters (IBFNU9AJNJ) 111/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:35:53
+Parameters (TTDXJPXMAL) 112/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:36:05
+Parameters (GUYV4KHEKX) 113/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:36:48
+Parameters (SBMUITUWVO) 114/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:37:17
+Parameters (PMEZJ6GJ0I) 115/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:37:33
+Parameters (1VEEDUN7FN) 116/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:37:45
+Parameters (08JLODNAFY) 117/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:38:04
+Parameters (U54QUFVQA8) 118/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:38:21
+Parameters (9INUNGAR51) 119/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:39:45
+Parameters (N367AVAX5N) 120/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:40:32
+Parameters (ULQ8KO98X2) 121/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:40:42
+Parameters (AZ8ZXK3B3Y) 122/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:40:55
+Parameters (ACTN6YKKPR) 123/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:41:12
+Parameters (QK06BZUEQB) 124/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:41:39
+Parameters (QZRMJ8Y5SF) 125/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:42:31
+Parameters (R13I2YX4RC) 126/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:42:51
+Parameters (ZKH5SR901J) 127/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:43:37
+Parameters (C2TGIUUHBP) 128/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:44:18
+Parameters (PKE4I0ZY4G) 129/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:44:27
+Parameters (DYQGOPUZHF) 130/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:44:48
+Parameters (2EL3AGBSN2) 131/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:46:05
+Parameters (EH3GISYQPF) 132/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:47:41
+Parameters (0BXB0R1OAL) 133/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:48:21
+Parameters (EOP680HK60) 134/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:48:41
+Parameters (OBT9Q3OG25) 135/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:49:59
+Parameters (2G8L6D6DKJ) 136/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:50:13
+Parameters (AF0YPMFPG7) 137/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:50:30
+Parameters (FCNT3SYU2T) 138/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:50:48
+Parameters (T5KPIOTZMK) 139/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:51:59
+Parameters (LGU252RTJ1) 140/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:52:16
+Parameters (QS4F7U4ALC) 141/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:53:52
+Parameters (6RN4BUR6S0) 142/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:54:44
+Parameters (WZ5M723X3M) 143/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:54:57
+Parameters (LBE1LCLLH7) 144/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:55:58
+Parameters (Y5HA2HFY35) 145/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:56:25
+Parameters (9UPBMUWPGB) 146/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:56:54
+Parameters (CADCZESVUJ) 147/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:57:27
+Parameters (8O2J9R7I9P) 148/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:57:54
+Parameters (81P3O2RAWP) 149/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:58:02
+Parameters (MQ1IUGO385) 150/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:59:04
+Parameters (NEJ9TRI7AX) 151/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:59:28
+Parameters (7O54RNNXOC) 152/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 19:59:39
+Parameters (71N7CO0K45) 153/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:01:01
+Parameters (Q75M6OCTJ3) 154/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:01:40
+Parameters (EX606QCNIR) 155/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:02:13
+Parameters (IFW9F9X4U2) 156/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:02:58
+Parameters (50YQERAJOP) 157/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:03:40
+Parameters (6YPCCIZXOL) 158/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:03:56
+Parameters (Q5Z0HK71TQ) 159/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:04:25
+Parameters (Y1Z5Q7APCX) 160/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:04:37
+Parameters (9JXIJ2VEIY) 161/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:05:00
+Parameters (0IBBJTAFQU) 162/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:05:31
+Parameters (89X4E6PG4R) 163/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:05:58
+Parameters (9BL242Z27O) 164/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:06:08
+Parameters (WADJ0H16JL) 165/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:06:18
+Parameters (BBST491ZWQ) 166/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:06:35
+Parameters (1DPD32CC5W) 167/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:07:05
+Parameters (CPC919WC67) 168/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:07:44
+Parameters (9UAJ4FB6XY) 169/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:07:50
+Parameters (V710PQO0G2) 170/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:08:05
+Parameters (LU019OSJED) 171/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:09:07
+Parameters (TXOG7JCUB2) 172/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:09:34
+Parameters (HOT41K6RON) 173/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:09:45
+Parameters (9ESPLL2BIP) 174/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:09:52
+Parameters (J5L0NZ0LSK) 175/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:09:59
+Parameters (H2TRHDG1JL) 176/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:10:41
+Parameters (T0OXCG11KG) 177/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:11:12
+Parameters (4BXK35W10J) 178/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:11:20
+Parameters (SD8ISJNKBM) 179/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:11:29
+Parameters (14IB2H8RCX) 180/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:11:51
+Parameters (C95ZYA2HPY) 181/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:12:24
+Parameters (9Y38SVSGR4) 182/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:12:42
+Parameters (MGOUT1OIKG) 183/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:14:19
+Parameters (HHWDJYCIJ3) 184/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:15:00
+Parameters (9JMBZWFOW1) 185/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:15:36
+Parameters (H2MIF82AY3) 186/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:15:59
+Parameters (YNXJ55S6BE) 187/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:17:23
+Parameters (Z363ODLN1Q) 188/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:17:54
+Parameters (TX64867SX5) 189/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:18:11
+Parameters (QFA0W2ITER) 190/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:18:23
+Parameters (ZFOW1C9IH2) 191/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:19:01
+Parameters (J27UUP5RGK) 192/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:19:48
+Parameters (R4GP3K9UD6) 193/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:20:30
+Parameters (DBA5HY1TL2) 194/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:20:42
+Parameters (WV66GC1WI4) 195/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:21:04
+Parameters (H0OARHR6PL) 196/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:21:27
+Parameters (4WV8444DXI) 197/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:21:36
+Parameters (M4KPYKFZR6) 198/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:21:43
+Parameters (MDTA92DZCD) 199/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:22:10
+Parameters (X5PBAOKZSO) 200/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:22:43
+Parameters (NNR7DRQ1F0) 201/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:23:22
+Parameters (JJA1T6LW9J) 202/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:24:33
+Parameters (T07E91J9AI) 203/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:24:47
+Parameters (8W64MIB5OS) 204/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:25:29
+Parameters (VOQ0R2ZNPO) 205/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:25:45
+Parameters (G7RA50U24T) 206/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:26:57
+Parameters (4P25U50UBE) 207/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:27:09
+Parameters (UHV4RN9UWQ) 208/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:27:51
+Parameters (RPYVE7NNVR) 209/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:28:01
+Parameters (Q1CQJ3WEOE) 210/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:28:10
+Parameters (A0OUGF1R4P) 211/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:28:17
+Parameters (5CU1UK9MZI) 212/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:28:50
+Parameters (6UUAZ98GM3) 213/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:29:00
+Parameters (MXO6IS27Z5) 214/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:29:12
+Parameters (HWTNUDYLLG) 215/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:30:23
+Parameters (QIFN29NVW9) 216/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:30:53
+Parameters (QQ309BGH5X) 217/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:31:02
+Parameters (57HI5OL3OW) 218/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:31:33
+Parameters (NRGSI6N7F4) 219/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:32:02
+Parameters (IQG6CQA049) 220/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:32:54
+Parameters (6VLXC9BMP7) 221/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:33:07
+Parameters (HREYWBAT2O) 222/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:33:22
+Parameters (8WSH8PAGOQ) 223/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:34:29
+Parameters (GG0VE00GD8) 224/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:34:53
+Parameters (IAMWG4E367) 225/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:35:06
+Parameters (EBDO7UFQWE) 226/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:35:16
+Parameters (DIJWMHHST3) 227/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:35:43
+Parameters (DDJWLYXSNF) 228/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:35:56
+Parameters (7CTQVJXOQE) 229/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:37:39
+Parameters (MQXFDIQC83) 230/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:37:46
+Parameters (U8Y2MHZELB) 231/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:38:10
+Parameters (WXA3VNMYGT) 232/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:38:18
+Parameters (BW1AW297MR) 233/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:38:52
+Parameters (R8JNGUC9HT) 234/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:38:59
+Parameters (5TA5RUJNMW) 235/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:40:43
+Parameters (MORTEWYWIR) 236/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:40:53
+Parameters (SL7Y86GS47) 237/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:41:34
+Parameters (IU6GYOAHQ3) 238/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:41:45
+Parameters (7FWEEMY8TA) 239/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:42:00
+Parameters (SVD76PHT2E) 240/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:42:13
+Parameters (DZYO75WDRL) 241/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:42:27
+Parameters (AQNNROB3S6) 242/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:43:32
+Parameters (8SWGVON4SS) 243/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:43:46
+Parameters (IT6LKTS167) 244/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:45:04
+Parameters (X4WUQ7HX79) 245/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:45:36
+Parameters (G91V6W1B0B) 246/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:45:49
+Parameters (EYTN3JA2DK) 247/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:46:06
+Parameters (50P8B9HP3E) 248/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:46:41
+Parameters (28T1FKILX2) 249/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:47:05
+Parameters (GGZ51IIEWI) 250/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:47:24
+Parameters (6A6C83M6H6) 251/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:47:34
+Parameters (SV7LUQSQVP) 252/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:48:12
+Parameters (DOKTTGBJNT) 253/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:48:49
+Parameters (SXX5TSOHAB) 254/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:49:26
+Parameters (3K67KJSB00) 255/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:49:53
+Parameters (3ZQT1FYDRL) 256/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:50:45
+Parameters (QH2M7I9FI3) 257/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:50:55
+Parameters (MMABT15GXM) 258/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:51:20
+Parameters (6Q0NACL1S7) 259/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:51:32
+Parameters (ZW1BYU5I83) 260/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:51:46
+Parameters (B9OL1NMI3O) 261/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:52:25
+Parameters (J2CPI4WOU2) 262/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:52:35
+Parameters (1VFABZ66WT) 263/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:52:44
+Parameters (PXBQ5D5S0E) 264/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:52:51
+Parameters (CXF0QA6719) 265/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:53:02
+Parameters (0EE6LS8O22) 266/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:53:49
+Parameters (KFSXT4MX1H) 267/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:54:17
+Parameters (CH8IXC28IF) 268/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:54:47
+Parameters (8HLBT7RMCL) 269/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:54:56
+Parameters (HRWASS5NRC) 270/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:56:20
+Parameters (DQ298SJK0P) 271/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:56:29
+Parameters (A7NG4AF146) 272/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:56:44
+Parameters (VIHFFR4ESS) 273/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:57:00
+Parameters (8A6PEAPX26) 274/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:57:14
+Parameters (NO0T1OSJGQ) 275/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:57:45
+Parameters (Y1P9XKGZGQ) 276/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:58:18
+Parameters (SNO8PD0WOG) 277/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:58:40
+Parameters (HG1KMHAEGN) 278/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:58:51
+Parameters (3KP1YI1RJ3) 279/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 20:59:16
+Parameters (MPZFI9006I) 280/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:00:18
+Parameters (CSKBG1FWRE) 281/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:00:46
+Parameters (W4I6NED1O7) 282/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:02:09
+Parameters (1J1C82QK95) 283/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:02:33
+Parameters (YDIMPWBM49) 284/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:03:02
+Parameters (VKGZTMB1RE) 285/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:03:11
+Parameters (EZ717LUD65) 286/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:03:28
+Parameters (4UPB34J6C4) 287/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:03:38
+Parameters (NUB7O6SLYF) 288/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:04:39
+Parameters (OODYQUWKKG) 289/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:05:11
+Parameters (Z95MZ1O3FV) 290/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:05:21
+Parameters (ZE12XKQRFO) 291/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:06:03
+Parameters (AJ8PB03ONM) 292/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:06:10
+Parameters (T3LQFNJ4PM) 293/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:06:34
+Parameters (J2BUEUC92L) 294/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:07:41
+Parameters (OCILV2PP6G) 295/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:07:52
+Parameters (4RB2OD4SOJ) 296/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:08:03
+Parameters (P86XZU1TP4) 297/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:08:21
+Parameters (O1FRSSWTA9) 298/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:08:47
+Parameters (TP47DOGRPY) 299/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:08:57
+Parameters (EEDWSBNKLB) 300/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:10:33
+Parameters (58SZS0WPWA) 301/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:10:44
+Parameters (ZHIVGQC4KG) 302/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:11:00
+Parameters (HNT3IYYJFE) 303/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:11:15
+Parameters (V5RJVT897Y) 304/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:12:02
+Parameters (1YYZIZIDSV) 305/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:12:15
+Parameters (RC8V4PW1UX) 306/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:12:23
+Parameters (KJZJM05M8A) 307/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:12:32
+Parameters (CWJJY7KMWR) 308/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:13:53
+Parameters (J2BISSJEKY) 309/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:14:17
+Parameters (VDDINI0RP2) 310/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:14:43
+Parameters (5484YY9WRE) 311/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:15:13
+Parameters (KAGOGIUI6A) 312/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:15:38
+Parameters (V0R14EQ5PT) 313/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:16:56
+Parameters (DROC38YUQ3) 314/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:17:29
+Parameters (R2QLOQEIKI) 315/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:17:46
+Parameters (QS5XIYCE3D) 316/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:18:00
+Parameters (1N15R08RIK) 317/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:18:09
+Parameters (20YWCQPFNG) 318/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:18:51
+Parameters (X1JNFCJ1GC) 319/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:20:35
+Parameters (K7KHHE5XBQ) 320/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:21:01
+Parameters (XH8491KJEG) 321/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:21:34
+Parameters (AQG4G65QZV) 322/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:21:52
+Parameters (A3N86B8DGT) 323/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:22:03
+Parameters (EOZ1I7PTL5) 324/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:22:10
+Parameters (KH4X0PDEBK) 325/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:22:56
+Parameters (HQ8RY1KBK9) 326/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:23:35
+Parameters (NAF532KKDA) 327/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:23:50
+Parameters (3OF328J0YG) 328/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:24:13
+Parameters (D6J70UG30I) 329/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:24:25
+Parameters (LQ49IA51F6) 330/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:24:40
+Parameters (KB3H8PIUYA) 331/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:24:47
+Parameters (KQ7L6LDU3X) 332/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:25:12
+Parameters (S75UYDCXGB) 333/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:25:23
+Parameters (2334HDZPM4) 334/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:25:53
+Parameters (I0DY6YY4RV) 335/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:27:04
+Parameters (U0GCTU7009) 336/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:27:22
+Parameters (XH77R688X9) 337/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:27:28
+Parameters (CRU7P0BLBW) 338/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:28:09
+Parameters (Z3F3HOAVWC) 339/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:28:33
+Parameters (RG3KNFL97A) 340/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:28:52
+Parameters (UU2IJR6VEW) 341/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:30:27
+Parameters (H0C8V8LYDX) 342/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:30:38
+Parameters (UAD6ILRAOS) 343/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:31:19
+Parameters (6FN7IAXQHH) 344/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:31:26
+Parameters (H24Z33J4AR) 345/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:31:52
+Parameters (KS7JMYP28U) 346/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:31:58
+Parameters (PFHB0HAW15) 347/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:32:17
+Parameters (C30K43SMZN) 348/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:32:29
+Parameters (A5WLPOYH8U) 349/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:33:47
+Parameters (WKYG5QYWB3) 350/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:34:20
+Parameters (S1HXJ3EW1J) 351/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:34:35
+Parameters (3RWLJ14BHE) 352/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:35:00
+Parameters (Z27BIUFLJT) 353/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:35:25
+Parameters (G4O1EIIFQ7) 354/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:36:07
+Parameters (ANJ0ARMHZ2) 355/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:36:49
+Parameters (B0OUEASMU5) 356/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:37:08
+Parameters (HHVJJC7JTJ) 357/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:37:34
+Parameters (6R5ZFCTJ4V) 358/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:38:10
+Parameters (A35I7OMC9G) 359/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:38:39
+Parameters (22YENG7SYT) 360/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:38:56
+Parameters (VWXR7TDHU9) 361/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:39:15
+Parameters (XSOPSXAC5H) 362/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:39:32
+Parameters (T4A2PPF0IU) 363/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:39:56
+Parameters (G7LHCAC47S) 364/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:40:05
+Parameters (4RIAPFG1MF) 365/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:40:25
+Parameters (RY2LGWW9NQ) 366/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:40:38
+Parameters (6E9NNZFG30) 367/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:41:50
+Parameters (3T4LNK457M) 368/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:41:56
+Parameters (KMRPE7P3HJ) 369/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:42:27
+Parameters (YSY62SROSG) 370/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:42:59
+Parameters (L8OSR8D1PI) 371/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:43:20
+Parameters (HSPERJQ3CT) 372/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:43:37
+Parameters (GKQOWUOUVU) 373/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:44:19
+Parameters (YXWYR94DTV) 374/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:45:23
+Parameters (PKZ1REQTOR) 375/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:46:15
+Parameters (Z0PW7HJ6TW) 376/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:47:07
+Parameters (VRB5BLQP4Y) 377/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:47:49
+Parameters (FDVLY34UO9) 378/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:48:14
+Parameters (Y0NPWYL31Z) 379/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:48:23
+Parameters (NXG4JHCPEB) 380/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:48:41
+Parameters (7GLA8YDUWJ) 381/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:49:18
+Parameters (M8YYRX4ZOF) 382/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:49:35
+Parameters (Q8I1DZ3LE4) 383/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:50:09
+Parameters (SP50OW03XA) 384/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:50:21
+Parameters (IHK6SZ0O7F) 385/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:51:08
+Parameters (80SD22LEBI) 386/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:51:20
+Parameters (YRMO8W3Y03) 387/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:51:56
+Parameters (BIJ9YIHM3J) 388/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:52:03
+Parameters (MKYNYK351H) 389/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:52:22
+Parameters (NG7IGB2A9E) 390/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:53:04
+Parameters (VW9HIYET5J) 391/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:53:26
+Parameters (K7DG6OQC2K) 392/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:53:37
+Parameters (WZ20EHKSG4) 393/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:54:02
+Parameters (FBZMNWSGR8) 394/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:55:03
+Parameters (OCQSODUSNO) 395/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:55:34
+Parameters (ZOKQD9WZ8A) 396/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:56:54
+Parameters (O048Z59BTR) 397/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:57:46
+Parameters (J3ZOUW2G13) 398/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:58:57
+Parameters (3D1FR0RQNG) 399/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 21:59:31
+Parameters (SYX06IMTK2) 400/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:00:08
+Parameters (M4BI6D2DU8) 401/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:00:27
+Parameters (1Y0GB7DW3Z) 402/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:00:35
+Parameters (RR5L8L32XU) 403/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:00:47
+Parameters (KX64QH7Z3I) 404/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:01:06
+Parameters (N459O7NZJL) 405/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:02:50
+Parameters (L0U38M96ED) 406/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:03:00
+Parameters (B8C5Y3L4XC) 407/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:03:25
+Parameters (1MI27PTBS5) 408/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:03:45
+Parameters (WR03RV8W51) 409/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:04:00
+Parameters (KDCVX9OH03) 410/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:05:30
+Parameters (60AL64XYCI) 411/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:05:53
+Parameters (AUSCF1F2K2) 412/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:06:09
+Parameters (23CXA3SX8D) 413/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:06:48
+Parameters (3RXA4IUTXW) 414/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:07:40
+Parameters (K9U60ST9A8) 415/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:08:20
+Parameters (KFHK9T528S) 416/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:08:37
+Parameters (OMUCPFTBVA) 417/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:08:54
+Parameters (PS5YGLTT5F) 418/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:10:01
+Parameters (45TO8H4J8S) 419/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:10:10
+Parameters (X4EDH0DLWO) 420/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:11:13
+Parameters (YXNJ63WELD) 421/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:11:30
+Parameters (NSLN0P8SPG) 422/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:11:54
+Parameters (N5R644IE0U) 423/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:12:19
+Parameters (TP4YWDPE8L) 424/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:12:34
+Parameters (HBIC5YU49Q) 425/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:12:51
+Parameters (Z3L2ZQ9RKH) 426/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:12:57
+Parameters (EYD2OBUZSY) 427/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:13:39
+Parameters (6IHABB1545) 428/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:14:16
+Parameters (QE2SKGXSRL) 429/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:14:27
+Parameters (ES5B6ZI37P) 430/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:14:37
+Parameters (GPJMT2WZ3M) 431/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:15:48
+Parameters (MFVQDISZ3G) 432/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:17:00
+Parameters (UGXTQBY6PG) 433/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:17:07
+Parameters (ELTHLHATUE) 434/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:17:37
+Parameters (K52VR6QRKH) 435/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:18:10
+Parameters (GQC18VJIXL) 436/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:18:25
+Parameters (ASNLNC3W71) 437/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:19:13
+Parameters (MMFZJ28YG8) 438/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:19:55
+Parameters (VXPXENEZKQ) 439/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:21:18
+Parameters (P2TSN6X0G7) 440/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:22:06
+Parameters (3XRDQR12KA) 441/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:22:18
+Parameters (7ON8W2PQYX) 442/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:22:29
+Parameters (HY6VOW8V6Z) 443/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:22:50
+Parameters (8L8SSCQPW1) 444/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:23:19
+Parameters (R4F88WEBZ9) 445/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:23:32
+Parameters (AQEDKSBOA2) 446/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:23:45
+Parameters (PH2DOPBK5W) 447/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:23:56
+Parameters (XS5RU8CAM3) 448/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:24:05
+Parameters (U3SGZNGD7L) 449/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:25:32
+Parameters (6AXNNRRGZW) 450/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:27:09
+Parameters (AT0MPVYF22) 451/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:27:26
+Parameters (K6CQKCJW3H) 452/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:27:57
+Parameters (4OVVBL9B5I) 453/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:28:23
+Parameters (T7FQX4K0X1) 454/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:28:32
+Parameters (W9L48ZUCEY) 455/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:28:43
+Parameters (RFY60S8YXJ) 456/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:29:20
+Parameters (XBZDZBXVCC) 457/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:29:48
+Parameters (NAYXZO2Y4O) 458/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:30:02
+Parameters (OS041QQNYL) 459/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:30:10
+Parameters (V9SXQ116YQ) 460/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:30:35
+Parameters (84W21PALE1) 461/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:31:10
+Parameters (5BOTGDK7AT) 462/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:31:43
+Parameters (ZUNBTGUDEB) 463/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:32:10
+Parameters (QNW77I9CB0) 464/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:32:38
+Parameters (XYENVCYTDX) 465/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:34:15
+Parameters (KULBE61S9P) 466/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:34:27
+Parameters (LP8V7SQUZ2) 467/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:34:41
+Parameters (KP8ADR3YLH) 468/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:35:26
+Parameters (XL5ER36XEO) 469/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:36:50
+Parameters (F6A6X5DU17) 470/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:37:03
+Parameters (U6OZ50TIOX) 471/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:38:26
+Parameters (4NCICX7KZP) 472/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:39:04
+Parameters (A3Z6VBF7B0) 473/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:39:33
+Parameters (ZWDV5YDIWG) 474/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:39:54
+Parameters (59VJZNZQDX) 475/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:41:12
+Parameters (11YGLR0WPI) 476/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:41:21
+Parameters (Y1663I4CVO) 477/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:42:24
+Parameters (5NJ9S260NO) 478/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:42:31
+Parameters (XOL12RVLH5) 479/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:43:13
+Parameters (KT7ZS6841I) 480/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:43:46
+Parameters (OGBTK6IET2) 481/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:44:12
+Parameters (QNVWBM1GDJ) 482/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:44:54
+Parameters (5YWNSMAVCJ) 483/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:45:14
+Parameters (BP29W6N236) 484/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:45:48
+Parameters (GGOIAJGWIL) 485/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:45:55
+Parameters (30TPU2YJSI) 486/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:46:06
+Parameters (FLCDUGQSZL) 487/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:46:40
+Parameters (21VUMOGUWJ) 488/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:46:48
+Parameters (68XZ9LATET) 489/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:46:58
+Parameters (7LDL80GJFP) 490/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:48:22
+Parameters (QCG6Y6VW3L) 491/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:48:31
+Parameters (O388J6ZSE8) 492/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:49:13
+Parameters (10V66VRBB3) 493/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:49:21
+Parameters (1WYHM7GCXE) 494/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:50:22
+Parameters (28URJRDZ50) 495/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:50:48
+Parameters (91JQOJZ6QA) 496/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:51:05
+Parameters (K936LQDMRU) 497/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:51:47
+Parameters (8BZX0T9PAX) 498/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:52:01
+Parameters (INEVSSEMZY) 499/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:52:43
+Parameters (U4TIXT3WQN) 500/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:52:54
+Parameters (8JVFZNNMDB) 501/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:54:21
+Parameters (3KLSNJEBSK) 502/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:54:31
+Parameters (A97YDFO5IL) 503/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:55:08
+Parameters (AMJHW1TKFD) 504/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:55:22
+Parameters (R1237LLDEI) 505/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:56:43
+Parameters (FFMG400P9X) 506/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:56:55
+Parameters (I13P41BVH8) 507/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:58:31
+Parameters (RP3K0HEVPX) 508/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:58:54
+Parameters (2XFL1W0Y6B) 509/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:59:04
+Parameters (OJ9D6RJ12T) 510/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 22:59:25
+Parameters (43P8403ICM) 511/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:00:01
+Parameters (6ENGKGWH5N) 512/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:00:16
+Parameters (79MBKXMZSD) 513/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:00:44
+Parameters (YP6K0CWNKI) 514/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:00:55
+Parameters (6YO3F2KEEM) 515/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:01:14
+Parameters (CFAI4E1WWY) 516/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:01:25
+Parameters (QO972JUBK8) 517/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:01:54
+Parameters (PMV7DHS6N7) 518/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:02:20
+Parameters (MO9SKO30PG) 519/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:02:48
+Parameters (3KF4XTGNCP) 520/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:03:08
+Parameters (ESGPW6FBSB) 521/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:03:23
+Parameters (J343NH5MP0) 522/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:04:34
+Parameters (DCLMCCO93K) 523/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:04:58
+Parameters (PA107ERY2A) 524/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:05:28
+Parameters (M9VKTQHETX) 525/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:05:42
+Parameters (YJFPA5WP2B) 526/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:06:02
+Parameters (WYQR30EVTO) 527/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:06:25
+Parameters (UR5BT46WGX) 528/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:07:03
+Parameters (BNKBFPIYFE) 529/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:07:32
+Parameters (RHVKDGBZV6) 530/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:08:11
+Parameters (TEPA53CM0A) 531/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:08:58
+Parameters (WDH81APMZV) 532/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:10:42
+Parameters (C6LK4FFRFV) 533/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:10:55
+Parameters (M1HMXQ5FJV) 534/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:11:13
+Parameters (33RK5VFZ9H) 535/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:12:20
+Parameters (AOZUEXN6BZ) 536/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:13:02
+Parameters (OZL4PVZSJQ) 537/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:13:13
+Parameters (C2RMC0PWZ1) 538/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:13:28
+Parameters (AZ2VT2QL0D) 539/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:13:49
+Parameters (H49A32DPTX) 540/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:14:34
+Parameters (NEVKSJGLSZ) 541/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:15:18
+Parameters (BAAHKVR9MU) 542/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:15:56
+Parameters (U9OEMC7UG5) 543/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:16:20
+Parameters (MW229JOAB9) 544/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:16:58
+Parameters (O4MEFH99WD) 545/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:17:25
+Parameters (INCQKK9RGP) 546/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:17:37
+Parameters (YI158DAWCS) 547/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:17:57
+Parameters (6BE73Y78OP) 548/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:18:20
+Parameters (FPANO0W6XI) 549/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:18:35
+Parameters (U9IJWVFH4I) 550/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:18:47
+Parameters (9NR5754ODP) 551/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:19:28
+Parameters (QZ4APSS1CJ) 552/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:19:59
+Parameters (U7VT7OC9J3) 553/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:21:30
+Parameters (UTVES49PUN) 554/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:21:43
+Parameters (HRQNV0D2FD) 555/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:22:09
+Parameters (S6CXGEVYNA) 556/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:23:53
+Parameters (MUSVHNYG6X) 557/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:24:27
+Parameters (VQ6XGC05ZP) 558/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:24:47
+Parameters (RA4BNBMAR3) 559/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:24:57
+Parameters (D5U5W15M3X) 560/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:26:20
+Parameters (S3GIUCKMNM) 561/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:26:32
+Parameters (F90TV3CC71) 562/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:26:44
+Parameters (XZCL69669G) 563/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:27:02
+Parameters (7PSIV20NLO) 564/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:27:11
+Parameters (M2F9Z86KWP) 565/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:27:35
+Parameters (ZPE9GKDHYH) 566/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:28:12
+Parameters (6BBIXJW31W) 567/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:28:19
+Parameters (T0ZS989TK8) 568/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:28:33
+Parameters (NI7ZV8WVYS) 569/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:28:57
+Parameters (3I8BTBVXP1) 570/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:29:06
+Parameters (QM7SBZ1SO7) 571/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:30:08
+Parameters (Q62LWWP5CD) 572/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:30:35
+Parameters (5GECCUFEB3) 573/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:31:53
+Parameters (FIC819PHGL) 574/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:32:31
+Parameters (8VE1BFAIC2) 575/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:32:43
+Parameters (IUJUTJO9VV) 576/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:32:57
+Parameters (1U9U8OFZOK) 577/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:33:22
+Parameters (7DBTU3F3OW) 578/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:33:35
+Parameters (G24U9NS60U) 579/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:33:53
+Parameters (4LIG7K9L5C) 580/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:33:59
+Parameters (Z3913O42TD) 581/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:34:20
+Parameters (VMNY0HKSE3) 582/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:36:04
+Parameters (LEVB9J4SW8) 583/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:36:26
+Parameters (F2UXUKV9D8) 584/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:36:33
+Parameters (D8U73DC0R5) 585/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:37:50
+Parameters (KE065L3C4P) 586/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:38:07
+Parameters (70BT6245Y5) 587/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:38:54
+Parameters (VRE0ZLDCQG) 588/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:39:28
+Parameters (2YG44Z4FZ3) 589/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:39:42
+Parameters (BEOA5MFPGJ) 590/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:39:51
+Parameters (W6YINBBQLW) 591/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:40:15
+Parameters (ZVTCKB7KUX) 592/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:40:33
+Parameters (GMMX8XBM4I) 593/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:41:14
+Parameters (XA0K6X767Q) 594/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:42:58
+Parameters (R7RG5J1WED) 595/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:43:26
+Parameters (TM38JB7GKL) 596/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:43:35
+Parameters (BWFH9U3KFZ) 597/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:43:45
+Parameters (66OAE5E1C4) 598/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:44:08
+Parameters (SD0UUGAEIP) 599/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:44:25
+Parameters (HJPH06V38N) 600/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:45:01
+Parameters (ZAA0GNS5CF) 601/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:45:13
+Parameters (E1Z37Z9OOV) 602/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:45:23
+Parameters (5O072QBSGQ) 603/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:46:46
+Parameters (Z9TIYP5R57) 604/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:47:01
+Parameters (CPR0FFKXN6) 605/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:48:44
+Parameters (OP54XNIAXO) 606/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:49:08
+Parameters (N3EF5Y9C3X) 607/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:49:18
+Parameters (TIFVYRC6M6) 608/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:49:43
+Parameters (GPAAU1QU8I) 609/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:50:26
+Parameters (LC7UYO7056) 610/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:51:34
+Parameters (C2LWSV359P) 611/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:52:03
+Parameters (EQ79U85OXH) 612/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:52:21
+Parameters (8N95MKILF0) 613/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:53:03
+Parameters (T2NPIE1P2J) 614/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:53:25
+Parameters (2MCGEG6O98) 615/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:53:41
+Parameters (71FFI6KZAM) 616/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:53:52
+Parameters (DE5K7X7FZJ) 617/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:54:09
+Parameters (4OVWLY3H48) 618/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:54:35
+Parameters (LPGL1CGYXR) 619/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:54:52
+Parameters (K9J32TOHJA) 620/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:55:05
+Parameters (IV2SVXJ20A) 621/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:55:18
+Parameters (6PAZF20SPH) 622/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:56:41
+Parameters (FVWEE67XHI) 623/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:57:12
+Parameters (DZ741NGU3Z) 624/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:57:33
+Parameters (4WARRKYROB) 625/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:58:05
+Parameters (OTEJ17DEQT) 626/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:58:23
+Parameters (QFXAA9N4JQ) 627/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:58:53
+Parameters (A1CQZRKULR) 628/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-12 23:59:55
+Parameters (VWLCZLKZEH) 629/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:00:06
+Parameters (GSZAK5ZX1S) 630/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:00:29
+Parameters (FNX0C1YDLT) 631/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:00:39
+Parameters (48DPFXW8WK) 632/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:01:09
+Parameters (KKDJBOIXJL) 633/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:01:21
+Parameters (T3CGUI8UQN) 634/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:01:59
+Parameters (45YLKIZZSM) 635/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:03:07
+Parameters (RADCEE13VS) 636/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:03:15
+Parameters (MNKVR629DF) 637/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:03:25
+Parameters (X47SFEXBCA) 638/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:04:57
+Parameters (VTEN8A6O95) 639/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:05:14
+Parameters (9B2FHODKBZ) 640/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:06:16
+Parameters (2TSJ4FQZJ3) 641/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:06:42
+Parameters (9T0L0QFH4Y) 642/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:07:00
+Parameters (UPU61BSDMX) 643/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:07:06
+Parameters (7VIIT6HJU9) 644/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:07:18
+Parameters (N6UICCOKAM) 645/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:07:45
+Parameters (VQXS2V0137) 646/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:08:19
+Parameters (EKCN7HVFE8) 647/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:08:37
+Parameters (6F1IE688KZ) 648/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:09:02
+Parameters (FDTDNYGVM1) 649/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:10:05
+Parameters (S6ED8F723L) 650/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:10:25
+Parameters (6CYSK0BNHR) 651/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:10:50
+Parameters (ABQ3C7JHOG) 652/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:12:08
+Parameters (S7VN4GCQ8C) 653/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:12:33
+Parameters (S93M7AICZ6) 654/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:14:09
+Parameters (IG5PWR9TG1) 655/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:14:42
+Parameters (4QQ12VDTU7) 656/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:15:01
+Parameters (QQPL9UQ72P) 657/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:15:24
+Parameters (HVIRH1GZVZ) 658/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:15:36
+Parameters (ODLR1YNPLI) 659/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:16:05
+Parameters (KT4O9APS97) 660/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:16:18
+Parameters (TBN4O2W439) 661/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:16:33
+Parameters (9MLEK7GXDD) 662/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:18:04
+Parameters (8FTEW4PESG) 663/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:18:24
+Parameters (74UI9BPP6W) 664/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:19:26
+Parameters (UBYZOLXZB6) 665/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:19:56
+Parameters (4TF9DNVIZ6) 666/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:20:22
+Parameters (SWSQGSXAZI) 667/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:20:36
+Parameters (V8QI0WZEBQ) 668/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:21:03
+Parameters (EUBXZY0MAE) 669/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:21:25
+Parameters (YZ8O2PFAM2) 670/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:21:43
+Parameters (7E4C4L5GPE) 671/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:21:52
+Parameters (AJIR4XRCE8) 672/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:22:25
+Parameters (E9E8MLFY2C) 673/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:22:36
+Parameters (7VGA6ZNTR0) 674/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+
+2021-08-13 00:22:48
+Parameters (ALC40KGV7U) 675/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+
+
+

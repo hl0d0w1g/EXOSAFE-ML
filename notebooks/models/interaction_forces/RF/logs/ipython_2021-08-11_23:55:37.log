@@ -1,0 +1,4364 @@
+Model training with data: 0012_09082021
+Number of parameters combinations: 675
+2021-08-11 23:55:43
+Parameters (P0R7XQMZCH) 1/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-11 23:56:29
+Parameters (7M7QNKVL9E) 2/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-11 23:56:42
+Parameters (ZHN0OG8PPW) 3/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-11 23:58:03
+Parameters (Y4BRJYCETL) 4/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-11 23:58:24
+Parameters (3GAYMVP646) 5/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-11 23:59:12
+Parameters (X0XG8Q1AQZ) 6/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:01:05
+Parameters (DVQNRTP801) 7/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:01:38
+Parameters (KQ4OHMQQUF) 8/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:02:30
+Parameters (A8NV7G1FH1) 9/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:03:34
+Parameters (1U07KAV0AY) 10/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:04:31
+Parameters (58G3BPEUGQ) 11/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:07:46
+Parameters (X62FOOKIJ6) 12/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:08:19
+Parameters (HLBWJ5368O) 13/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:12:36
+Parameters (43C8EGCXD1) 14/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:13:35
+Parameters (HBSJO0QMF9) 15/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:15:33
+Parameters (OLXN8C3GQR) 16/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:17:04
+Parameters (JW6JQYIYSA) 17/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:17:30
+Parameters (518IS4E9SG) 18/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:18:17
+Parameters (8X1IHFK3OK) 19/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:19:20
+Parameters (JUWOX08WT4) 20/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:19:41
+Parameters (OIP15QUC4N) 21/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:21:01
+Parameters (XFFYM52JMG) 22/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:21:17
+Parameters (43USRD1O9Y) 23/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:22:24
+Parameters (EY18AWPJU9) 24/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:23:12
+Parameters (40LCF0MOW1) 25/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:24:43
+Parameters (EYVEFK9BTI) 26/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:24:56
+Parameters (2P30MDJVXV) 27/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:26:47
+Parameters (Z535FV92MS) 28/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:29:36
+Parameters (NAJ723TLMF) 29/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:32:44
+Parameters (YQCKFI2DTT) 30/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:32:58
+Parameters (4LPM1XZSFM) 31/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:33:13
+Parameters (9RZ3S2MO1I) 32/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:36:59
+Parameters (4CHT3TP8DO) 33/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:41:13
+Parameters (HCF7L89NJB) 34/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:44:29
+Parameters (IHT2EAAKAF) 35/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:45:37
+Parameters (41KNZJ9JXS) 36/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:45:58
+Parameters (9RLAYCNT5S) 37/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:46:43
+Parameters (9MFY3U8GPA) 38/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:49:08
+Parameters (CB09GHMO2Z) 39/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:49:51
+Parameters (R1FQ115ZGA) 40/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:52:00
+Parameters (7RK5Q5YKPH) 41/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:52:14
+Parameters (KLMIAM7ZFW) 42/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:55:58
+Parameters (H87FC0MKB3) 43/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:56:39
+Parameters (135AVG6Y0L) 44/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:57:44
+Parameters (M4C3B36HCJ) 45/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:57:59
+Parameters (NLVQHTSL6N) 46/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 00:59:46
+Parameters (FLC5ZE7A7J) 47/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:01:01
+Parameters (DVFCPDR9LI) 48/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:02:12
+Parameters (UFO1JE4GRO) 49/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:03:42
+Parameters (3VGH7HYA9G) 50/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:05:00
+Parameters (YG9FFEFUYH) 51/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:05:19
+Parameters (ZH2CHO8HHE) 52/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:06:06
+Parameters (VJEEWOP4P9) 53/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:06:21
+Parameters (G2KDXEVAOR) 54/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:07:54
+Parameters (7K5KH9GDNY) 55/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:08:23
+Parameters (GOM6K9A05B) 56/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:08:46
+Parameters (SP9QXDUE8V) 57/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:09:32
+Parameters (C3VYLNJODQ) 58/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:10:02
+Parameters (IBEJVW4GI6) 59/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:12:05
+Parameters (UDJCUBLO0G) 60/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:12:47
+Parameters (UBBMKENEZ0) 61/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:13:10
+Parameters (FNDMNJ552E) 62/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:13:57
+Parameters (VKHSW6O752) 63/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:17:21
+Parameters (ATML1YIM1G) 64/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:17:48
+Parameters (95I46IQ7BO) 65/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:18:13
+Parameters (9GT1HOT8QK) 66/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:19:06
+Parameters (LQ5T8G9SOD) 67/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:19:28
+Parameters (5E39BCSBKU) 68/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:21:30
+Parameters (PO66VCK6NU) 69/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:23:01
+Parameters (BB5MH8GG0B) 70/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:23:23
+Parameters (CA4WATJKLZ) 71/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:23:50
+Parameters (AJZ5EI92OH) 72/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:24:39
+Parameters (BAH8CW5T2M) 73/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:25:45
+Parameters (0RQDGIGA7S) 74/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:26:10
+Parameters (5383B9T3FX) 75/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:27:15
+Parameters (MFWQ6MTONI) 76/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:27:44
+Parameters (0QQ4VEP1AJ) 77/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:29:47
+Parameters (842GFZGAVM) 78/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:30:09
+Parameters (1771K4LGIP) 79/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:31:14
+Parameters (MMOM38N4SF) 80/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:32:14
+Parameters (Z2FZX1YZ3I) 81/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:35:03
+Parameters (UC6RYCDA5X) 82/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:36:34
+Parameters (7N76EPXLW9) 83/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:37:49
+Parameters (BTBLZMU05T) 84/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:40:56
+Parameters (UV9TBI6AU0) 85/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:41:29
+Parameters (GURSXTBYOE) 86/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:45:16
+Parameters (ANCGIJ4W8W) 87/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:45:56
+Parameters (3BWIK2J1QY) 88/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:47:26
+Parameters (4PJ0O8ZZFF) 89/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:48:13
+Parameters (A6Q6PEIATC) 90/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:48:27
+Parameters (U1Z7WPWM0D) 91/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:48:46
+Parameters (TIUQG250S1) 92/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:49:37
+Parameters (WZU0P4LC3G) 93/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:50:59
+Parameters (8SL5VICUNR) 94/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:54:42
+Parameters (ALC1301KMR) 95/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:55:27
+Parameters (X1KSIHYFE7) 96/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:56:30
+Parameters (GP6LC8O7YL) 97/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:57:36
+Parameters (TJPYDNIA2Y) 98/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:58:19
+Parameters (6607UAE690) 99/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:58:47
+Parameters (U8EFJULDOL) 100/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 01:59:32
+Parameters (D2XY78QQZN) 101/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:00:09
+Parameters (1G8F93P6YC) 102/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:00:47
+Parameters (LJWMDNU093) 103/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:04:36
+Parameters (OHS2GCZZT8) 104/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:06:11
+Parameters (QD4YK73GCX) 105/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:06:59
+Parameters (2HK96UT69D) 106/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:07:12
+Parameters (09LLHHWMB2) 107/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:08:19
+Parameters (98YKK9YTXO) 108/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:09:37
+Parameters (JMR9WEJ5HD) 109/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:10:45
+Parameters (0AF6XQGG42) 110/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:13:34
+Parameters (FB49NZRYTD) 111/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:14:06
+Parameters (L8WZDD7VJT) 112/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:14:36
+Parameters (6UH9LT8SWD) 113/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:15:51
+Parameters (D6AKT0ZYFW) 114/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:18:17
+Parameters (IVKXMWRASU) 115/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:18:40
+Parameters (3WY1YHWF68) 116/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:20:01
+Parameters (02UW85FUNJ) 117/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:20:59
+Parameters (XGGERYSZ0Q) 118/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:21:22
+Parameters (IM1OBXIR4L) 119/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:23:46
+Parameters (DH2ICY2ER9) 120/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:24:14
+Parameters (XXG6KFBNSB) 121/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:27:30
+Parameters (I9HJRT3B5O) 122/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:28:18
+Parameters (RXZ87FO06Q) 123/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:28:40
+Parameters (170Z89V5OF) 124/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:28:59
+Parameters (2K0ZXX0LIR) 125/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:29:50
+Parameters (5G3AKPXK6N) 126/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:30:03
+Parameters (FACOM5EFOR) 127/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:31:07
+Parameters (W0CJTP5N92) 128/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:31:34
+Parameters (6LQICXJLA9) 129/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:32:48
+Parameters (MD4NMSMPMF) 130/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:33:07
+Parameters (4YYVL4LZK5) 131/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:33:40
+Parameters (SYKON0EPHQ) 132/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:35:33
+Parameters (3JKGWWC1CK) 133/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:37:24
+Parameters (SPC2LT0QAR) 134/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:39:06
+Parameters (AYM9NXI6IR) 135/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:39:47
+Parameters (HKCUGFMIWL) 136/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:41:20
+Parameters (GOI78N3U0C) 137/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:42:07
+Parameters (GPHW1YFI2A) 138/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:44:17
+Parameters (SYGIY1JBJD) 139/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:46:20
+Parameters (E55RN4FA7N) 140/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:46:44
+Parameters (FHZ8R2XEZ9) 141/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:47:17
+Parameters (G3IVURO2MN) 142/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:48:11
+Parameters (F5PKNKLXCE) 143/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:48:54
+Parameters (6GHJ7SPQ2Q) 144/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:49:46
+Parameters (LZ64UTZZJJ) 145/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:50:45
+Parameters (F87OTX1XZO) 146/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:51:07
+Parameters (9VVZ8K3FTA) 147/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:53:10
+Parameters (FPTDWZ18CL) 148/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:54:41
+Parameters (E292PS46YE) 149/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:55:24
+Parameters (895XZVNNLP) 150/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:56:35
+Parameters (RYX7IHYVNE) 151/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 02:58:59
+Parameters (MO9GURSXAZ) 152/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:01:03
+Parameters (ZR7PAA3EJK) 153/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:02:06
+Parameters (4JFC3TD2AB) 154/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:02:54
+Parameters (ZXAK1HP0S3) 155/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:03:49
+Parameters (CVCDACAD8R) 156/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:04:57
+Parameters (6WR318MZIC) 157/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:05:44
+Parameters (CDS12ONL80) 158/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:06:27
+Parameters (NAPLXMUHMA) 159/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:07:05
+Parameters (5OXOQT6SFB) 160/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:08:38
+Parameters (43HVNZD0C4) 161/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:10:36
+Parameters (MLCCN4FWFN) 162/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:11:06
+Parameters (3EIF3RJN5G) 163/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:12:28
+Parameters (QPRLC5P7WQ) 164/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:12:47
+Parameters (R146U17LPA) 165/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:16:03
+Parameters (8KI7VDKL5B) 166/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:17:22
+Parameters (F31NB4LE0Z) 167/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:19:15
+Parameters (6CAK5KD3YE) 168/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:19:42
+Parameters (YADGU4WN2Y) 169/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:20:35
+Parameters (C0UEEQK9NQ) 170/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:20:57
+Parameters (QEB6AOMFJY) 171/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:21:39
+Parameters (6617VFY9Y6) 172/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:22:08
+Parameters (WAB9KV4G9J) 173/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:23:34
+Parameters (RTM8WKBUIL) 174/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:24:11
+Parameters (M31PYKUD80) 175/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:24:26
+Parameters (KEUS5AW195) 176/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:24:59
+Parameters (F8ECIZRTJ8) 177/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:26:07
+Parameters (2QFNPO5GBB) 178/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:26:26
+Parameters (A5GV549SBG) 179/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:27:11
+Parameters (L5WR2PH2TV) 180/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:30:58
+Parameters (1V3IKX200G) 181/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:31:50
+Parameters (L3PUKDDV5T) 182/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:32:22
+Parameters (8JGORLT6X1) 183/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:33:40
+Parameters (CVCL81THAQ) 184/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:34:08
+Parameters (XP5OPY99ES) 185/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:34:55
+Parameters (ZGRV8LT9FZ) 186/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:35:50
+Parameters (G71SFDBFVM) 187/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:36:36
+Parameters (766UTHYAGJ) 188/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:37:41
+Parameters (THJP0FCQRT) 189/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:39:24
+Parameters (71DHMHP9A6) 190/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:40:12
+Parameters (RV2S24ATBG) 191/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:40:43
+Parameters (H1K241HZUR) 192/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:41:02
+Parameters (PSPM220KYS) 193/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:42:54
+Parameters (TUU6Z0CBP6) 194/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:44:09
+Parameters (J1U6CLPPUM) 195/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:45:03
+Parameters (DW1S25D64Y) 196/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:46:11
+Parameters (MHAQLK8D70) 197/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:47:16
+Parameters (H6CV70Y3P2) 198/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:47:59
+Parameters (IJEQCD5UX9) 199/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:49:39
+Parameters (760KCSZAYP) 200/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:50:06
+Parameters (VW4JW1JOW7) 201/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:50:48
+Parameters (11IXK0VQZA) 202/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:55:16
+Parameters (9H6G5BAGCH) 203/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:56:01
+Parameters (M6GCEGEA8P) 204/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:58:05
+Parameters (CLWXAL3F7K) 205/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 03:59:45
+Parameters (D663T92IFU) 206/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:00:26
+Parameters (NL4LLCSRK8) 207/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:01:24
+Parameters (75GR969RNC) 208/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:05:15
+Parameters (8R624M3LC2) 209/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:06:41
+Parameters (VXN1OUOT9C) 210/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:07:46
+Parameters (F5SB5NRGKH) 211/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:12:54
+Parameters (9NMXGTMLHE) 212/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:16:37
+Parameters (47NGY1MDQF) 213/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:18:25
+Parameters (BSN33JG2MC) 214/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:22:09
+Parameters (5KW4QSUXFW) 215/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:24:01
+Parameters (EBCZC58M4U) 216/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:24:46
+Parameters (315BDNML2T) 217/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:26:13
+Parameters (VX5M1RS8YJ) 218/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:28:06
+Parameters (HPFJOS0RF3) 219/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:31:52
+Parameters (NQ8F1N1XDT) 220/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:32:11
+Parameters (IR6CR1DUUI) 221/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:33:09
+Parameters (A03XOA69TC) 222/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:33:55
+Parameters (F7TTPAZGMZ) 223/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:34:28
+Parameters (VPBUCVANRS) 224/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:34:55
+Parameters (RAC3RQIUBY) 225/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:36:20
+Parameters (P6QJ9IJ2E6) 226/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:37:46
+Parameters (3T77VKZNE3) 227/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:38:50
+Parameters (GKRV5Q20TU) 228/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:39:40
+Parameters (MPUC3IM5RX) 229/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:41:20
+Parameters (PH1UJGA2LS) 230/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:41:53
+Parameters (Y1JF0RTIW9) 231/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:42:48
+Parameters (LXDBI3HKPH) 232/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:43:20
+Parameters (I41GND21VX) 233/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:43:46
+Parameters (D3XKLOY5JY) 234/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:44:45
+Parameters (LEZ0QUZQ8L) 235/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:46:43
+Parameters (L6R7Y7W422) 236/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:47:51
+Parameters (CTHHVBY5G6) 237/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:48:48
+Parameters (5H5FG7C491) 238/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:50:40
+Parameters (O5GFNYNAN4) 239/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:55:49
+Parameters (OYA1OKR9CN) 240/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:56:36
+Parameters (KTQMFC1ER6) 241/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:57:00
+Parameters (UN4FMJADJA) 242/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:57:45
+Parameters (0IA0DRNKT0) 243/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:58:09
+Parameters (TZKZJBR9G0) 244/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:58:39
+Parameters (4Y23UXANQ6) 245/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 04:59:24
+Parameters (BOA46AVZ7J) 246/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:03:15
+Parameters (T3YWVSGRQW) 247/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:04:22
+Parameters (HPUT9MQY26) 248/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:06:06
+Parameters (M3DVAYWN3C) 249/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:08:09
+Parameters (K3VCBNPXD8) 250/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:08:41
+Parameters (3RGDUUW9NC) 251/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:11:29
+Parameters (H0ZFAGMJHW) 252/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:13:53
+Parameters (OGHWRGK1HR) 253/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:14:59
+Parameters (KZO0EWZ5NZ) 254/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:15:13
+Parameters (DPBRH99I1C) 255/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:15:43
+Parameters (COA7F1KLP0) 256/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:15:58
+Parameters (3SMWFFBZ4S) 257/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:17:44
+Parameters (EKHOTZP5B1) 258/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:20:09
+Parameters (W6VK1E14IG) 259/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:21:31
+Parameters (44IYHEYYHQ) 260/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:22:34
+Parameters (PPZPAG9QH9) 261/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:23:00
+Parameters (UNAPMVQTPN) 262/675
+{'max_depth': 30, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:23:48
+Parameters (J9T6UOQNQ8) 263/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:24:52
+Parameters (OYM03CXHP0) 264/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:25:15
+Parameters (OWLJP53GGD) 265/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:27:06
+Parameters (NGXQOPDGFC) 266/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:27:41
+Parameters (JN0ERHSFY9) 267/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:28:33
+Parameters (SFEBCS5JVP) 268/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:29:54
+Parameters (BL3LE4WWYF) 269/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:31:10
+Parameters (11V60R4LIS) 270/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:32:17
+Parameters (JLMRM0F9EY) 271/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:33:32
+Parameters (GRUQAF9CNK) 272/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:38:37
+Parameters (JW4MND20WG) 273/675
+{'max_depth': 15, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:39:18
+Parameters (MDOBPQ31N3) 274/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:40:22
+Parameters (UVSP05XJZX) 275/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:40:45
+Parameters (VDL2FDGWOU) 276/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:42:17
+Parameters (CAKUGCRX6D) 277/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:44:03
+Parameters (QLCOHS82HB) 278/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:46:51
+Parameters (846OXOSU1C) 279/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:48:43
+Parameters (8BHBCCVEDZ) 280/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:49:02
+Parameters (9H9HMPBVJ8) 281/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:49:19
+Parameters (E0BSLJE0P0) 282/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:52:17
+Parameters (DP2HLBQ1JD) 283/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:53:23
+Parameters (TP4FKDE3WS) 284/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:58:31
+Parameters (YQ6N6J35BR) 285/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 05:59:01
+Parameters (BQ0FLHJK0B) 286/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:00:23
+Parameters (3147BZIWG9) 287/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:01:09
+Parameters (SNTOY9YQPH) 288/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:01:44
+Parameters (YGP7WAQONX) 289/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:02:31
+Parameters (H3HI9G3R52) 290/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:03:37
+Parameters (1X86UUH7C4) 291/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:04:46
+Parameters (HSPPAB05FQ) 292/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:05:18
+Parameters (RHSPCKIHW0) 293/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:07:43
+Parameters (9NXAQNYLVI) 294/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:11:34
+Parameters (L766WU5CY6) 295/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:12:10
+Parameters (JOKPS9FWTS) 296/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:13:37
+Parameters (EDNMZFWEIP) 297/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:14:24
+Parameters (OQPF99242V) 298/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:15:14
+Parameters (UBKGFWJ571) 299/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:15:37
+Parameters (ICVGA71N3V) 300/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:16:59
+Parameters (CG14R623MM) 301/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:17:46
+Parameters (GVFYU07QEW) 302/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:22:54
+Parameters (5CU5ODN90N) 303/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:27:32
+Parameters (8OYVI69QFU) 304/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:32:39
+Parameters (P881NP8S8J) 305/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:33:20
+Parameters (1OYHY7LD4S) 306/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:33:57
+Parameters (0SZ1Y5LITO) 307/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:34:24
+Parameters (03R5LMFZNO) 308/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:34:47
+Parameters (9M3SCI4FDI) 309/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:35:18
+Parameters (2OT402GOO5) 310/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:36:03
+Parameters (02FNYWJ6GU) 311/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:36:26
+Parameters (8V3M5JANY1) 312/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:41:03
+Parameters (CXJ4XZPXU0) 313/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:42:07
+Parameters (D6JNWYOHJM) 314/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:47:14
+Parameters (CX7BXYICU1) 315/675
+{'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:48:02
+Parameters (AP3TD82HAX) 316/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:50:04
+Parameters (LHNPOT95AX) 317/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:51:31
+Parameters (PELYWSZ8FG) 318/675
+{'max_depth': 30, 'max_features': 0.7, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:52:58
+Parameters (E4834H5WKA) 319/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:56:41
+Parameters (EG0YWWA2BW) 320/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 06:57:50
+Parameters (O36OLLZL7H) 321/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:00:15
+Parameters (9SJOXL0GAU) 322/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:00:47
+Parameters (IJVJKVP0AF) 323/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:02:45
+Parameters (TZN2J3FMR0) 324/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:04:16
+Parameters (VJKQOA8OZG) 325/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:04:37
+Parameters (4AQVSJJWK8) 326/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:05:14
+Parameters (K55GLGCC8S) 327/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:05:28
+Parameters (M9A195BF1L) 328/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:08:17
+Parameters (HWUSDH3426) 329/675
+{'max_depth': 20, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:08:55
+Parameters (JCM8C4TRMG) 330/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:10:54
+Parameters (OMLW1HWRK7) 331/675
+{'max_depth': 15, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:11:30
+Parameters (UQ3IVI5TY6) 332/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:12:11
+Parameters (SUT6EOTKXF) 333/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:12:30
+Parameters (PO1QIC4SLK) 334/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:14:02
+Parameters (Z7TQNS2ZY9) 335/675
+{'max_depth': 20, 'max_features': 0.3, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:15:00
+Parameters (FUZ5I82MQ1) 336/675
+{'max_depth': 50, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:15:41
+Parameters (MKKNA39VS9) 337/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:16:46
+Parameters (8OMLI6IFDK) 338/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:17:32
+Parameters (SG5IJL8JVW) 339/675
+{'max_depth': 50, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:17:45
+Parameters (K7ENVGM5JE) 340/675
+{'max_depth': 13, 'max_features': 0.1, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:18:01
+Parameters (YD3K1HCJL0) 341/675
+{'max_depth': 13, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:18:34
+Parameters (GN9V1I6OU0) 342/675
+{'max_depth': 15, 'max_features': 0.1, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:19:22
+Parameters (5R155UR3UP) 343/675
+{'max_depth': 13, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:23:25
+Parameters (VIA2D1PL5O) 344/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:25:00
+Parameters (IIN4JC1219) 345/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:28:47
+Parameters (A1QVMB6ZZ4) 346/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:29:19
+Parameters (K83F97U2YD) 347/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:32:42
+Parameters (ASILN6UMN6) 348/675
+{'max_depth': 50, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:34:09
+Parameters (4COVPIOR6U) 349/675
+{'max_depth': 30, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:34:42
+Parameters (R3YJ3J022F) 350/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:35:16
+Parameters (DE3445PDJX) 351/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:36:31
+Parameters (2X9UDQZEIS) 352/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:37:24
+Parameters (RNZEV2OWJW) 353/675
+{'max_depth': 13, 'max_features': 0.2, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:37:47
+Parameters (ZSHQBVV1CM) 354/675
+{'max_depth': 20, 'max_features': 0.7, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.0001, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:39:12
+Parameters (TVXLH9ZAKH) 355/675
+{'max_depth': 15, 'max_features': 0.7, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:40:17
+Parameters (RK306C3WF9) 356/675
+{'max_depth': 50, 'max_features': 0.2, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:42:10
+Parameters (EDBBIYAY7R) 357/675
+{'max_depth': 30, 'max_features': 0.3, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:43:56
+Parameters (X5HY4F7D4Q) 358/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 0.0001, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:45:27
+Parameters (B5HKB8Y6EW) 359/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 1000}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:46:49
+Parameters (9EHLUWGV01) 360/675
+{'max_depth': 13, 'max_features': 0.5, 'min_samples_leaf': 1e-05, 'min_samples_split': 1e-05, 'n_estimators': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:47:41
+Parameters (6DSAFC2PRW) 361/675
+{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:50:42
+Parameters (CRITLC8QJX) 362/675
+{'max_depth': 50, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 1e-05, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:53:35
+Parameters (118CJ36TLI) 363/675
+{'max_depth': 20, 'max_features': 0.1, 'min_samples_leaf': 0.0001, 'min_samples_split': 0.001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-12 07:54:35
+Parameters (55HSVRXBVV) 364/675
+{'max_depth': 30, 'max_features': 0.5, 'min_samples_leaf': 0.001, 'min_samples_split': 0.0001, 'n_estimators': 2500}
+Fold 1
+Fold 2
+Fold 3
