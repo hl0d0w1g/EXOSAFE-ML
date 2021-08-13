@@ -1,0 +1,8264 @@
+Model training with data: 0012_09082021
+Number of parameters combinations: 486
+Parameters (MFZDVMD5DO) 1/486  -  2021-08-10 19:23:52
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.3664
+Fold 2
+Training time: 1.3905
+Fold 3
+Training time: 1.8136
+Fold 4
+Training time: 2.1669
+Fold 5
+Training time: 1.6017
+Fold 6
+Training time: 1.5648
+
+
+
+Parameters (X5RMRYT1X8) 2/486  -  2021-08-10 19:24:02
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0705
+Fold 2
+Training time: 1.2522
+Fold 3
+Training time: 1.1442
+Fold 4
+Training time: 0.9336
+Fold 5
+Training time: 0.8550
+Fold 6
+Training time: 0.9093
+
+
+
+Parameters (F49XYJL6NX) 3/486  -  2021-08-10 19:24:09
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.9901
+Fold 2
+Training time: 0.6355
+Fold 3
+Training time: 0.6748
+Fold 4
+Training time: 0.6771
+Fold 5
+Training time: 0.7761
+Fold 6
+Training time: 0.6801
+
+
+
+Parameters (6RD6O7C8PT) 4/486  -  2021-08-10 19:24:13
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.9959
+Fold 2
+Training time: 0.6532
+Fold 3
+Training time: 0.7529
+Fold 4
+Training time: 0.7566
+Fold 5
+Training time: 0.6667
+Fold 6
+Training time: 0.6306
+
+
+
+Parameters (ZCKTFUL5I2) 5/486  -  2021-08-10 19:24:18
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.2970
+Fold 2
+Training time: 1.2910
+Fold 3
+Training time: 1.2426
+Fold 4
+Training time: 1.1755
+Fold 5
+Training time: 1.1413
+Fold 6
+Training time: 1.2883
+
+
+
+Parameters (VZKIQPVHJT) 6/486  -  2021-08-10 19:24:26
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.5814
+Fold 2
+Training time: 1.4212
+Fold 3
+Training time: 1.4193
+Fold 4
+Training time: 1.3852
+Fold 5
+Training time: 1.4773
+Fold 6
+Training time: 1.5084
+
+
+
+Parameters (X9V1DXF5S8) 7/486  -  2021-08-10 19:24:36
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3185
+Fold 2
+Training time: 1.2539
+Fold 3
+Training time: 1.2552
+Fold 4
+Training time: 1.2201
+Fold 5
+Training time: 1.2740
+Fold 6
+Training time: 1.3120
+
+
+
+Parameters (3FHS2EFE5Q) 8/486  -  2021-08-10 19:24:44
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6310
+Fold 2
+Training time: 1.7463
+Fold 3
+Training time: 1.6076
+Fold 4
+Training time: 1.5483
+Fold 5
+Training time: 1.6958
+Fold 6
+Training time: 1.6065
+
+
+
+Parameters (2D1R5WBEWA) 9/486  -  2021-08-10 19:24:54
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 2.1155
+Fold 2
+Training time: 2.2277
+Fold 3
+Training time: 2.0343
+Fold 4
+Training time: 1.9692
+Fold 5
+Training time: 2.0369
+Fold 6
+Training time: 2.1100
+
+
+
+Parameters (8BHTJ1WKYN) 10/486  -  2021-08-10 19:25:07
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0306
+Fold 2
+Training time: 1.1041
+Fold 3
+Training time: 1.0427
+Fold 4
+Training time: 1.0167
+Fold 5
+Training time: 1.1579
+Fold 6
+Training time: 1.2199
+
+
+
+Parameters (M29FV9KBGP) 11/486  -  2021-08-10 19:25:14
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 2.1523
+Fold 2
+Training time: 2.3133
+Fold 3
+Training time: 2.1367
+Fold 4
+Training time: 2.1443
+Fold 5
+Training time: 2.2473
+Fold 6
+Training time: 2.1531
+
+
+
+Parameters (XHRBVFT706) 12/486  -  2021-08-10 19:25:27
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9530
+Fold 2
+Training time: 0.9236
+Fold 3
+Training time: 0.9094
+Fold 4
+Training time: 0.8702
+Fold 5
+Training time: 1.0420
+Fold 6
+Training time: 1.1561
+
+
+
+Parameters (PRRPQ59IFK) 13/486  -  2021-08-10 19:25:34
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.7700
+Fold 2
+Training time: 1.5985
+Fold 3
+Training time: 1.5779
+Fold 4
+Training time: 1.4707
+Fold 5
+Training time: 1.5605
+Fold 6
+Training time: 1.5247
+
+
+
+Parameters (DQTP5BH8WC) 14/486  -  2021-08-10 19:25:44
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.5955
+Fold 2
+Training time: 1.5420
+Fold 3
+Training time: 1.6215
+Fold 4
+Training time: 1.5637
+Fold 5
+Training time: 1.5343
+Fold 6
+Training time: 1.5748
+
+
+
+Parameters (MXD0RE8OOC) 15/486  -  2021-08-10 19:25:53
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.7774
+Fold 2
+Training time: 0.8369
+Fold 3
+Training time: 0.9914
+Fold 4
+Training time: 0.7269
+Fold 5
+Training time: 0.8576
+Fold 6
+Training time: 0.8053
+
+
+
+Parameters (V2R12BIFVK) 16/486  -  2021-08-10 19:25:59
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8888
+Fold 2
+Training time: 0.9136
+Fold 3
+Training time: 0.9128
+Fold 4
+Training time: 0.8269
+Fold 5
+Training time: 1.0002
+Fold 6
+Training time: 1.0625
+
+
+
+Parameters (CRC55K94KC) 17/486  -  2021-08-10 19:26:05
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 2.6463
+Fold 2
+Training time: 2.0129
+Fold 3
+Training time: 1.9376
+Fold 4
+Training time: 1.8808
+Fold 5
+Training time: 1.9419
+Fold 6
+Training time: 2.2043
+
+
+
+Parameters (58WZQWR9W0) 18/486  -  2021-08-10 19:26:18
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6196
+Fold 2
+Training time: 0.6515
+Fold 3
+Training time: 0.6235
+Fold 4
+Training time: 0.6150
+Fold 5
+Training time: 0.6956
+Fold 6
+Training time: 1.1642
+
+
+
+Parameters (9JE6PR9J9N) 19/486  -  2021-08-10 19:26:23
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.8015
+Fold 2
+Training time: 1.5056
+Fold 3
+Training time: 1.6172
+Fold 4
+Training time: 1.4320
+Fold 5
+Training time: 1.5200
+Fold 6
+Training time: 1.5718
+
+
+
+Parameters (8CH5G80QPK) 20/486  -  2021-08-10 19:26:33
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.7222
+Fold 2
+Training time: 0.6887
+Fold 3
+Training time: 0.7231
+Fold 4
+Training time: 0.6574
+Fold 5
+Training time: 0.7246
+Fold 6
+Training time: 0.7076
+
+
+
+Parameters (3LE3VUFMSZ) 21/486  -  2021-08-10 19:26:37
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6889
+Fold 2
+Training time: 1.6395
+Fold 3
+Training time: 1.5922
+Fold 4
+Training time: 1.5171
+Fold 5
+Training time: 1.5562
+Fold 6
+Training time: 1.7430
+
+
+
+Parameters (4L22RSYC98) 22/486  -  2021-08-10 19:26:47
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.5048
+Fold 2
+Training time: 1.4870
+Fold 3
+Training time: 1.5170
+Fold 4
+Training time: 1.4617
+Fold 5
+Training time: 1.5285
+Fold 6
+Training time: 1.4981
+
+
+
+Parameters (ZMDUSO77Y8) 23/486  -  2021-08-10 19:26:57
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.8316
+Fold 2
+Training time: 0.8863
+Fold 3
+Training time: 0.7965
+Fold 4
+Training time: 0.8190
+Fold 5
+Training time: 0.7890
+Fold 6
+Training time: 0.8610
+
+
+
+Parameters (CJ6I6NZAX5) 24/486  -  2021-08-10 19:27:02
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.4285
+Fold 2
+Training time: 1.4084
+Fold 3
+Training time: 1.4007
+Fold 4
+Training time: 1.3687
+Fold 5
+Training time: 1.4313
+Fold 6
+Training time: 1.4575
+
+
+
+Parameters (GI2SRT3BPN) 25/486  -  2021-08-10 19:27:11
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1570
+Fold 2
+Training time: 1.1271
+Fold 3
+Training time: 1.1960
+Fold 4
+Training time: 1.1329
+Fold 5
+Training time: 1.1912
+Fold 6
+Training time: 1.1476
+
+
+
+Parameters (OKUNNLYT2Y) 26/486  -  2021-08-10 19:27:18
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.7992
+Fold 2
+Training time: 1.7479
+Fold 3
+Training time: 1.7780
+Fold 4
+Training time: 1.7488
+Fold 5
+Training time: 1.7263
+Fold 6
+Training time: 1.7284
+
+
+
+Parameters (HB8Q6ZH0Q6) 27/486  -  2021-08-10 19:27:29
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.7455
+Fold 2
+Training time: 1.8374
+Fold 3
+Training time: 1.6561
+Fold 4
+Training time: 1.5738
+Fold 5
+Training time: 1.6554
+Fold 6
+Training time: 1.6805
+
+
+
+Parameters (PE7Q1Z3ULI) 28/486  -  2021-08-10 19:27:40
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0683
+Fold 2
+Training time: 1.0628
+Fold 3
+Training time: 1.0098
+Fold 4
+Training time: 1.0105
+Fold 5
+Training time: 1.0297
+Fold 6
+Training time: 1.0053
+
+
+
+Parameters (SXOZK8HO29) 29/486  -  2021-08-10 19:27:47
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6870
+Fold 2
+Training time: 1.6017
+Fold 3
+Training time: 1.5849
+Fold 4
+Training time: 1.6170
+Fold 5
+Training time: 1.5784
+Fold 6
+Training time: 1.7119
+
+
+
+Parameters (SEF33AULRR) 30/486  -  2021-08-10 19:27:57
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0747
+Fold 2
+Training time: 0.9991
+Fold 3
+Training time: 1.0634
+Fold 4
+Training time: 0.9820
+Fold 5
+Training time: 1.0076
+Fold 6
+Training time: 1.0672
+
+
+
+Parameters (U5N583XTO4) 31/486  -  2021-08-10 19:28:03
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.2195
+Fold 2
+Training time: 1.1681
+Fold 3
+Training time: 1.1517
+Fold 4
+Training time: 1.0921
+Fold 5
+Training time: 1.1348
+Fold 6
+Training time: 1.1989
+
+
+
+Parameters (7ZC42JYFZT) 32/486  -  2021-08-10 19:28:11
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.4410
+Fold 2
+Training time: 1.3946
+Fold 3
+Training time: 1.3768
+Fold 4
+Training time: 1.2248
+Fold 5
+Training time: 1.4067
+Fold 6
+Training time: 1.3969
+
+
+
+Parameters (YUK6BD7KMA) 33/486  -  2021-08-10 19:28:19
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1776
+Fold 2
+Training time: 1.1615
+Fold 3
+Training time: 1.2116
+Fold 4
+Training time: 1.0883
+Fold 5
+Training time: 1.1784
+Fold 6
+Training time: 1.1932
+
+
+
+Parameters (1CYNWLC0T4) 34/486  -  2021-08-10 19:28:27
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2768
+Fold 2
+Training time: 1.2270
+Fold 3
+Training time: 1.2228
+Fold 4
+Training time: 1.1543
+Fold 5
+Training time: 1.2862
+Fold 6
+Training time: 1.2798
+
+
+
+Parameters (RLGRTSMLA4) 35/486  -  2021-08-10 19:28:34
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0833
+Fold 2
+Training time: 1.0369
+Fold 3
+Training time: 1.0285
+Fold 4
+Training time: 0.9797
+Fold 5
+Training time: 1.0511
+Fold 6
+Training time: 0.9937
+
+
+
+Parameters (QU01U1I40S) 36/486  -  2021-08-10 19:28:41
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.4068
+Fold 2
+Training time: 1.4466
+Fold 3
+Training time: 1.4502
+Fold 4
+Training time: 1.4156
+Fold 5
+Training time: 1.4543
+Fold 6
+Training time: 1.4481
+
+
+
+Parameters (VRVZZH9HDH) 37/486  -  2021-08-10 19:28:50
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9056
+Fold 2
+Training time: 0.8538
+Fold 3
+Training time: 0.8939
+Fold 4
+Training time: 0.8660
+Fold 5
+Training time: 0.8280
+Fold 6
+Training time: 0.8970
+
+
+
+Parameters (ZZSESM7V38) 38/486  -  2021-08-10 19:28:56
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.9024
+Fold 2
+Training time: 0.9399
+Fold 3
+Training time: 0.9391
+Fold 4
+Training time: 0.8239
+Fold 5
+Training time: 0.9357
+Fold 6
+Training time: 0.8992
+
+
+
+Parameters (LUX2R7HD8W) 39/486  -  2021-08-10 19:29:02
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1644
+Fold 2
+Training time: 1.1786
+Fold 3
+Training time: 1.1770
+Fold 4
+Training time: 1.0923
+Fold 5
+Training time: 1.1401
+Fold 6
+Training time: 1.1789
+
+
+
+Parameters (UCK5CVL7TN) 40/486  -  2021-08-10 19:29:09
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0336
+Fold 2
+Training time: 1.0079
+Fold 3
+Training time: 0.9892
+Fold 4
+Training time: 0.9691
+Fold 5
+Training time: 0.9764
+Fold 6
+Training time: 0.9862
+
+
+
+Parameters (B6M99JZLOA) 41/486  -  2021-08-10 19:29:15
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8637
+Fold 2
+Training time: 0.8356
+Fold 3
+Training time: 0.9062
+Fold 4
+Training time: 0.8327
+Fold 5
+Training time: 0.8283
+Fold 6
+Training time: 0.8675
+
+
+
+Parameters (MFRC0WECWI) 42/486  -  2021-08-10 19:29:21
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.4445
+Fold 2
+Training time: 1.4334
+Fold 3
+Training time: 1.4342
+Fold 4
+Training time: 1.3603
+Fold 5
+Training time: 1.4507
+Fold 6
+Training time: 1.4098
+
+
+
+Parameters (ZDVHQ7HGX9) 43/486  -  2021-08-10 19:29:30
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.4194
+Fold 2
+Training time: 1.7213
+Fold 3
+Training time: 1.4140
+Fold 4
+Training time: 1.3724
+Fold 5
+Training time: 1.4878
+Fold 6
+Training time: 1.4680
+
+
+
+Parameters (9BJH3IH5RD) 44/486  -  2021-08-10 19:29:39
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.4419
+Fold 2
+Training time: 1.4878
+Fold 3
+Training time: 1.4618
+Fold 4
+Training time: 1.4549
+Fold 5
+Training time: 1.4629
+Fold 6
+Training time: 1.5362
+
+
+
+Parameters (KTKXLQZV74) 45/486  -  2021-08-10 19:29:48
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6787
+Fold 2
+Training time: 1.6207
+Fold 3
+Training time: 1.6113
+Fold 4
+Training time: 1.5335
+Fold 5
+Training time: 1.6146
+Fold 6
+Training time: 1.8058
+
+
+
+Parameters (16SDNKI3LW) 46/486  -  2021-08-10 19:29:58
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5054
+Fold 2
+Training time: 0.5655
+Fold 3
+Training time: 0.4901
+Fold 4
+Training time: 0.4844
+Fold 5
+Training time: 0.5284
+Fold 6
+Training time: 0.5457
+
+
+
+Parameters (9RFEH8S95D) 47/486  -  2021-08-10 19:30:02
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0975
+Fold 2
+Training time: 1.0183
+Fold 3
+Training time: 0.9455
+Fold 4
+Training time: 0.9619
+Fold 5
+Training time: 1.0755
+Fold 6
+Training time: 1.0046
+
+
+
+Parameters (W97JFJR38A) 48/486  -  2021-08-10 19:30:08
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1717
+Fold 2
+Training time: 1.1693
+Fold 3
+Training time: 1.1792
+Fold 4
+Training time: 1.0614
+Fold 5
+Training time: 1.1076
+Fold 6
+Training time: 1.1776
+
+
+
+Parameters (H2GGJKFAF3) 49/486  -  2021-08-10 19:30:16
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.7292
+Fold 2
+Training time: 0.6991
+Fold 3
+Training time: 0.6580
+Fold 4
+Training time: 0.6060
+Fold 5
+Training time: 0.7059
+Fold 6
+Training time: 0.7255
+
+
+
+Parameters (B1QSQ4JO1F) 50/486  -  2021-08-10 19:30:20
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.8193
+Fold 2
+Training time: 0.8404
+Fold 3
+Training time: 0.8482
+Fold 4
+Training time: 0.7756
+Fold 5
+Training time: 0.8586
+Fold 6
+Training time: 0.8190
+
+
+
+Parameters (BUC86Q3FZA) 51/486  -  2021-08-10 19:30:25
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2678
+Fold 2
+Training time: 1.3033
+Fold 3
+Training time: 1.2655
+Fold 4
+Training time: 1.2378
+Fold 5
+Training time: 1.2917
+Fold 6
+Training time: 1.2342
+
+
+
+Parameters (1018T983ZV) 52/486  -  2021-08-10 19:30:33
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.4748
+Fold 2
+Training time: 1.4701
+Fold 3
+Training time: 1.5160
+Fold 4
+Training time: 1.4449
+Fold 5
+Training time: 1.4929
+Fold 6
+Training time: 1.5174
+
+
+
+Parameters (8L38YDXG1W) 53/486  -  2021-08-10 19:30:43
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.8486
+Fold 2
+Training time: 0.8346
+Fold 3
+Training time: 0.7723
+Fold 4
+Training time: 0.8134
+Fold 5
+Training time: 0.8298
+Fold 6
+Training time: 0.8432
+
+
+
+Parameters (1JO3UZE6F9) 54/486  -  2021-08-10 19:30:48
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6813
+Fold 2
+Training time: 1.7148
+Fold 3
+Training time: 1.6587
+Fold 4
+Training time: 1.5594
+Fold 5
+Training time: 1.6198
+Fold 6
+Training time: 1.7373
+
+
+
+Parameters (V5M7DHUN0J) 55/486  -  2021-08-10 19:30:58
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.8439
+Fold 2
+Training time: 0.8658
+Fold 3
+Training time: 0.7988
+Fold 4
+Training time: 0.8229
+Fold 5
+Training time: 0.8063
+Fold 6
+Training time: 0.8614
+
+
+
+Parameters (MP7B1FL5RR) 56/486  -  2021-08-10 19:31:04
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1744
+Fold 2
+Training time: 1.1355
+Fold 3
+Training time: 1.2229
+Fold 4
+Training time: 1.0961
+Fold 5
+Training time: 1.1758
+Fold 6
+Training time: 1.1925
+
+
+
+Parameters (7ZMVGPEPKM) 57/486  -  2021-08-10 19:31:11
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 2.0190
+Fold 2
+Training time: 1.9795
+Fold 3
+Training time: 2.0403
+Fold 4
+Training time: 1.9690
+Fold 5
+Training time: 2.0331
+Fold 6
+Training time: 2.2757
+
+
+
+Parameters (M99VY8LB7D) 58/486  -  2021-08-10 19:31:24
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2032
+Fold 2
+Training time: 1.2581
+Fold 3
+Training time: 1.2549
+Fold 4
+Training time: 1.2277
+Fold 5
+Training time: 1.3217
+Fold 6
+Training time: 1.2580
+
+
+
+Parameters (79CP8EWSKA) 59/486  -  2021-08-10 19:31:32
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5669
+Fold 2
+Training time: 0.8063
+Fold 3
+Training time: 0.5308
+Fold 4
+Training time: 0.5236
+Fold 5
+Training time: 0.5844
+Fold 6
+Training time: 0.5472
+
+
+
+Parameters (AH0UH71VRX) 60/486  -  2021-08-10 19:31:36
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6752
+Fold 2
+Training time: 0.6497
+Fold 3
+Training time: 0.6502
+Fold 4
+Training time: 0.6084
+Fold 5
+Training time: 0.6222
+Fold 6
+Training time: 0.6594
+
+
+
+Parameters (EFDN4HF82G) 61/486  -  2021-08-10 19:31:40
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.7619
+Fold 2
+Training time: 1.7810
+Fold 3
+Training time: 2.0581
+Fold 4
+Training time: 1.7183
+Fold 5
+Training time: 1.7328
+Fold 6
+Training time: 1.7627
+
+
+
+Parameters (IIPJS6KAI1) 62/486  -  2021-08-10 19:31:51
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6775
+Fold 2
+Training time: 0.6347
+Fold 3
+Training time: 0.6124
+Fold 4
+Training time: 0.6148
+Fold 5
+Training time: 0.6246
+Fold 6
+Training time: 0.6491
+
+
+
+Parameters (ES9YEKUPHV) 63/486  -  2021-08-10 19:31:55
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.4981
+Fold 2
+Training time: 0.5725
+Fold 3
+Training time: 0.5703
+Fold 4
+Training time: 0.5583
+Fold 5
+Training time: 0.5911
+Fold 6
+Training time: 0.5301
+
+
+
+Parameters (GVYBC9IK8V) 64/486  -  2021-08-10 19:31:59
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2111
+Fold 2
+Training time: 1.2354
+Fold 3
+Training time: 1.2793
+Fold 4
+Training time: 1.0598
+Fold 5
+Training time: 1.1995
+Fold 6
+Training time: 1.2551
+
+
+
+Parameters (MEY3UXEN5B) 65/486  -  2021-08-10 19:32:07
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.5219
+Fold 2
+Training time: 1.5054
+Fold 3
+Training time: 1.5172
+Fold 4
+Training time: 1.4918
+Fold 5
+Training time: 1.5298
+Fold 6
+Training time: 1.5789
+
+
+
+Parameters (I1HJEPOOEY) 66/486  -  2021-08-10 19:32:16
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8954
+Fold 2
+Training time: 0.8473
+Fold 3
+Training time: 0.8712
+Fold 4
+Training time: 0.8131
+Fold 5
+Training time: 0.8802
+Fold 6
+Training time: 0.9045
+
+
+
+Parameters (2EEX8WU141) 67/486  -  2021-08-10 19:32:22
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.5352
+Fold 2
+Training time: 1.5047
+Fold 3
+Training time: 1.5126
+Fold 4
+Training time: 1.5104
+Fold 5
+Training time: 1.5274
+Fold 6
+Training time: 1.5402
+
+
+
+Parameters (BOMLJOICIQ) 68/486  -  2021-08-10 19:32:31
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.4788
+Fold 2
+Training time: 1.3770
+Fold 3
+Training time: 1.3883
+Fold 4
+Training time: 1.3033
+Fold 5
+Training time: 1.4315
+Fold 6
+Training time: 1.4144
+
+
+
+Parameters (MQ4WAET8L9) 69/486  -  2021-08-10 19:32:40
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3517
+Fold 2
+Training time: 1.4023
+Fold 3
+Training time: 1.3602
+Fold 4
+Training time: 1.3002
+Fold 5
+Training time: 1.3604
+Fold 6
+Training time: 1.3820
+
+
+
+Parameters (W9J3RVC7L4) 70/486  -  2021-08-10 19:32:49
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6302
+Fold 2
+Training time: 0.6775
+Fold 3
+Training time: 0.6437
+Fold 4
+Training time: 0.6490
+Fold 5
+Training time: 0.6486
+Fold 6
+Training time: 0.6719
+
+
+
+Parameters (9N93DFFENR) 71/486  -  2021-08-10 19:32:53
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6907
+Fold 2
+Training time: 0.7120
+Fold 3
+Training time: 0.6520
+Fold 4
+Training time: 0.6170
+Fold 5
+Training time: 0.7005
+Fold 6
+Training time: 0.7072
+
+
+
+Parameters (9XKWW7FCUZ) 72/486  -  2021-08-10 19:32:57
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 2.1358
+Fold 2
+Training time: 2.0012
+Fold 3
+Training time: 1.9540
+Fold 4
+Training time: 1.9231
+Fold 5
+Training time: 1.9587
+Fold 6
+Training time: 2.0454
+
+
+
+Parameters (7G0IRGXDUI) 73/486  -  2021-08-10 19:33:10
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.8553
+Fold 2
+Training time: 0.8601
+Fold 3
+Training time: 0.8316
+Fold 4
+Training time: 0.8119
+Fold 5
+Training time: 0.8115
+Fold 6
+Training time: 0.8673
+
+
+
+Parameters (Y0TU8OCIT3) 74/486  -  2021-08-10 19:33:15
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6821
+Fold 2
+Training time: 0.7323
+Fold 3
+Training time: 0.7094
+Fold 4
+Training time: 0.7137
+Fold 5
+Training time: 0.6886
+Fold 6
+Training time: 0.7372
+
+
+
+Parameters (VPGZSS952D) 75/486  -  2021-08-10 19:33:20
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7898
+Fold 2
+Training time: 0.8507
+Fold 3
+Training time: 0.8396
+Fold 4
+Training time: 0.7605
+Fold 5
+Training time: 0.8263
+Fold 6
+Training time: 0.8119
+
+
+
+Parameters (2PLMQ0N03O) 76/486  -  2021-08-10 19:33:25
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.4048
+Fold 2
+Training time: 1.5156
+Fold 3
+Training time: 1.4300
+Fold 4
+Training time: 1.4281
+Fold 5
+Training time: 1.6959
+Fold 6
+Training time: 1.4472
+
+
+
+Parameters (MBIR179J9M) 77/486  -  2021-08-10 19:33:34
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.7898
+Fold 2
+Training time: 1.7290
+Fold 3
+Training time: 1.6922
+Fold 4
+Training time: 1.6573
+Fold 5
+Training time: 1.7845
+Fold 6
+Training time: 1.7356
+
+
+
+Parameters (J1YWVXYGU7) 78/486  -  2021-08-10 19:33:45
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.9426
+Fold 2
+Training time: 0.8935
+Fold 3
+Training time: 0.9043
+Fold 4
+Training time: 0.8105
+Fold 5
+Training time: 0.9060
+Fold 6
+Training time: 0.9368
+
+
+
+Parameters (BJ99R5W75L) 79/486  -  2021-08-10 19:33:51
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5048
+Fold 2
+Training time: 0.5652
+Fold 3
+Training time: 0.5581
+Fold 4
+Training time: 0.4933
+Fold 5
+Training time: 0.5734
+Fold 6
+Training time: 0.5297
+
+
+
+Parameters (HCW8IILB1I) 80/486  -  2021-08-10 19:33:54
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.7113
+Fold 2
+Training time: 0.7073
+Fold 3
+Training time: 0.6844
+Fold 4
+Training time: 0.6814
+Fold 5
+Training time: 0.7109
+Fold 6
+Training time: 0.7091
+
+
+
+Parameters (3CLTI0KMJI) 81/486  -  2021-08-10 19:33:59
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9115
+Fold 2
+Training time: 0.8562
+Fold 3
+Training time: 0.9326
+Fold 4
+Training time: 0.8280
+Fold 5
+Training time: 0.8709
+Fold 6
+Training time: 0.9008
+
+
+
+Parameters (4Z7FIA7QSK) 82/486  -  2021-08-10 19:34:05
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2707
+Fold 2
+Training time: 1.3344
+Fold 3
+Training time: 1.2873
+Fold 4
+Training time: 1.2279
+Fold 5
+Training time: 1.2825
+Fold 6
+Training time: 1.3127
+
+
+
+Parameters (S8041LVX5H) 83/486  -  2021-08-10 19:34:13
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0329
+Fold 2
+Training time: 0.9871
+Fold 3
+Training time: 0.9889
+Fold 4
+Training time: 0.9912
+Fold 5
+Training time: 0.9975
+Fold 6
+Training time: 1.0621
+
+
+
+Parameters (QCEVQK9F7A) 84/486  -  2021-08-10 19:34:19
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.9510
+Fold 2
+Training time: 2.0089
+Fold 3
+Training time: 1.9183
+Fold 4
+Training time: 1.8231
+Fold 5
+Training time: 1.8945
+Fold 6
+Training time: 2.0197
+
+
+
+Parameters (RPXZ2XMDN4) 85/486  -  2021-08-10 19:34:31
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.9047
+Fold 2
+Training time: 0.9308
+Fold 3
+Training time: 0.9370
+Fold 4
+Training time: 0.8200
+Fold 5
+Training time: 0.9358
+Fold 6
+Training time: 0.9345
+
+
+
+Parameters (FJ5BTC8EI7) 86/486  -  2021-08-10 19:34:37
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8875
+Fold 2
+Training time: 0.8586
+Fold 3
+Training time: 0.8344
+Fold 4
+Training time: 0.8290
+Fold 5
+Training time: 0.8557
+Fold 6
+Training time: 0.8976
+
+
+
+Parameters (WI3XVQY6F4) 87/486  -  2021-08-10 19:34:43
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.8974
+Fold 2
+Training time: 1.8978
+Fold 3
+Training time: 1.9775
+Fold 4
+Training time: 1.7997
+Fold 5
+Training time: 1.9424
+Fold 6
+Training time: 1.9573
+
+
+
+Parameters (5EOKNN0FNB) 88/486  -  2021-08-10 19:34:55
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0285
+Fold 2
+Training time: 1.0582
+Fold 3
+Training time: 1.1002
+Fold 4
+Training time: 1.0027
+Fold 5
+Training time: 1.0823
+Fold 6
+Training time: 1.1094
+
+
+
+Parameters (LDAF2YAMKN) 89/486  -  2021-08-10 19:35:01
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.7617
+Fold 2
+Training time: 1.7117
+Fold 3
+Training time: 1.7132
+Fold 4
+Training time: 1.6646
+Fold 5
+Training time: 1.7823
+Fold 6
+Training time: 1.7762
+
+
+
+Parameters (SDPXAVIWCG) 90/486  -  2021-08-10 19:35:12
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8885
+Fold 2
+Training time: 0.9343
+Fold 3
+Training time: 0.9478
+Fold 4
+Training time: 0.8364
+Fold 5
+Training time: 0.9460
+Fold 6
+Training time: 0.9177
+
+
+
+Parameters (31TIBUBD6G) 91/486  -  2021-08-10 19:35:18
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1858
+Fold 2
+Training time: 1.2317
+Fold 3
+Training time: 1.3051
+Fold 4
+Training time: 1.2428
+Fold 5
+Training time: 1.2722
+Fold 6
+Training time: 1.2681
+
+
+
+Parameters (99YZNTB28B) 92/486  -  2021-08-10 19:35:26
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.4349
+Fold 2
+Training time: 1.3376
+Fold 3
+Training time: 1.4168
+Fold 4
+Training time: 1.3567
+Fold 5
+Training time: 1.6320
+Fold 6
+Training time: 1.3801
+
+
+
+Parameters (SL9NGIVPC1) 93/486  -  2021-08-10 19:35:35
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0489
+Fold 2
+Training time: 1.0606
+Fold 3
+Training time: 1.0393
+Fold 4
+Training time: 1.0305
+Fold 5
+Training time: 1.0573
+Fold 6
+Training time: 1.0537
+
+
+
+Parameters (32OS2993WW) 94/486  -  2021-08-10 19:35:42
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0426
+Fold 2
+Training time: 1.0421
+Fold 3
+Training time: 1.0417
+Fold 4
+Training time: 0.9459
+Fold 5
+Training time: 1.0270
+Fold 6
+Training time: 1.0703
+
+
+
+Parameters (2NR853RWDZ) 95/486  -  2021-08-10 19:35:48
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5175
+Fold 2
+Training time: 0.5919
+Fold 3
+Training time: 0.5224
+Fold 4
+Training time: 0.5063
+Fold 5
+Training time: 0.5746
+Fold 6
+Training time: 0.5392
+
+
+
+Parameters (RSJVMJG69M) 96/486  -  2021-08-10 19:35:52
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9216
+Fold 2
+Training time: 0.8429
+Fold 3
+Training time: 0.8882
+Fold 4
+Training time: 0.7650
+Fold 5
+Training time: 0.8401
+Fold 6
+Training time: 0.8700
+
+
+
+Parameters (J2MZ8MW4F4) 97/486  -  2021-08-10 19:35:57
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.7359
+Fold 2
+Training time: 0.7371
+Fold 3
+Training time: 0.6985
+Fold 4
+Training time: 0.7099
+Fold 5
+Training time: 0.6814
+Fold 6
+Training time: 0.7728
+
+
+
+Parameters (O3BO2Z7NX9) 98/486  -  2021-08-10 19:36:02
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.8207
+Fold 2
+Training time: 0.8598
+Fold 3
+Training time: 0.8178
+Fold 4
+Training time: 0.8161
+Fold 5
+Training time: 0.8106
+Fold 6
+Training time: 0.9309
+
+
+
+Parameters (ZBC2A3Z9O2) 99/486  -  2021-08-10 19:36:07
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.7578
+Fold 2
+Training time: 1.7579
+Fold 3
+Training time: 1.7725
+Fold 4
+Training time: 1.6828
+Fold 5
+Training time: 1.7354
+Fold 6
+Training time: 1.8207
+
+
+
+Parameters (2NZFAX3FMK) 100/486  -  2021-08-10 19:36:18
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.4526
+Fold 2
+Training time: 1.4093
+Fold 3
+Training time: 1.6732
+Fold 4
+Training time: 1.3196
+Fold 5
+Training time: 1.3870
+Fold 6
+Training time: 1.4410
+
+
+
+Parameters (0P6OT914G3) 101/486  -  2021-08-10 19:36:28
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.4946
+Fold 2
+Training time: 1.5031
+Fold 3
+Training time: 1.4599
+Fold 4
+Training time: 1.3929
+Fold 5
+Training time: 1.4901
+Fold 6
+Training time: 1.5041
+
+
+
+Parameters (XWJSY6M97Z) 102/486  -  2021-08-10 19:36:37
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1805
+Fold 2
+Training time: 1.1242
+Fold 3
+Training time: 1.1037
+Fold 4
+Training time: 1.0731
+Fold 5
+Training time: 1.1413
+Fold 6
+Training time: 1.1672
+
+
+
+Parameters (6NYLH9TM7C) 103/486  -  2021-08-10 19:36:44
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.1914
+Fold 2
+Training time: 1.2296
+Fold 3
+Training time: 1.2076
+Fold 4
+Training time: 1.1294
+Fold 5
+Training time: 1.2173
+Fold 6
+Training time: 1.2194
+
+
+
+Parameters (GS07IQ2UCS) 104/486  -  2021-08-10 19:36:52
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.7047
+Fold 2
+Training time: 1.6943
+Fold 3
+Training time: 1.6442
+Fold 4
+Training time: 1.6847
+Fold 5
+Training time: 1.6347
+Fold 6
+Training time: 1.7303
+
+
+
+Parameters (IP1TK9KI8D) 105/486  -  2021-08-10 19:37:02
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6678
+Fold 2
+Training time: 0.6336
+Fold 3
+Training time: 0.6154
+Fold 4
+Training time: 0.6458
+Fold 5
+Training time: 0.6336
+Fold 6
+Training time: 0.6579
+
+
+
+Parameters (YDOQJE07EE) 106/486  -  2021-08-10 19:37:06
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.1202
+Fold 2
+Training time: 1.0125
+Fold 3
+Training time: 1.5200
+Fold 4
+Training time: 1.0242
+Fold 5
+Training time: 1.1566
+Fold 6
+Training time: 1.0198
+
+
+
+Parameters (U94DFYE5E5) 107/486  -  2021-08-10 19:37:14
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6929
+Fold 2
+Training time: 0.6676
+Fold 3
+Training time: 0.7479
+Fold 4
+Training time: 0.6237
+Fold 5
+Training time: 0.7310
+Fold 6
+Training time: 0.6695
+
+
+
+Parameters (RJNEMV83XH) 108/486  -  2021-08-10 19:37:18
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.9819
+Fold 2
+Training time: 1.9600
+Fold 3
+Training time: 1.8787
+Fold 4
+Training time: 1.7918
+Fold 5
+Training time: 1.8290
+Fold 6
+Training time: 1.9454
+
+
+
+Parameters (TEPPJQP0EM) 109/486  -  2021-08-10 19:37:30
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.8142
+Fold 2
+Training time: 0.8719
+Fold 3
+Training time: 1.0784
+Fold 4
+Training time: 0.7732
+Fold 5
+Training time: 0.8367
+Fold 6
+Training time: 0.8162
+
+
+
+Parameters (OCVLRI41BJ) 110/486  -  2021-08-10 19:37:35
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0081
+Fold 2
+Training time: 1.0352
+Fold 3
+Training time: 1.0188
+Fold 4
+Training time: 0.9106
+Fold 5
+Training time: 1.0482
+Fold 6
+Training time: 1.0460
+
+
+
+Parameters (UYL02EA2XJ) 111/486  -  2021-08-10 19:37:42
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.9087
+Fold 2
+Training time: 0.9108
+Fold 3
+Training time: 0.8636
+Fold 4
+Training time: 0.8488
+Fold 5
+Training time: 0.9009
+Fold 6
+Training time: 0.9313
+
+
+
+Parameters (KH10AEX4NA) 112/486  -  2021-08-10 19:37:48
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.7799
+Fold 2
+Training time: 1.7936
+Fold 3
+Training time: 1.7439
+Fold 4
+Training time: 1.7418
+Fold 5
+Training time: 1.8345
+Fold 6
+Training time: 1.8504
+
+
+
+Parameters (M5NRCF1WW8) 113/486  -  2021-08-10 19:37:59
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9031
+Fold 2
+Training time: 0.8620
+Fold 3
+Training time: 0.8439
+Fold 4
+Training time: 0.8524
+Fold 5
+Training time: 0.8528
+Fold 6
+Training time: 0.8957
+
+
+
+Parameters (W7HLZOU1XG) 114/486  -  2021-08-10 19:38:04
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.4756
+Fold 2
+Training time: 1.4457
+Fold 3
+Training time: 1.4483
+Fold 4
+Training time: 1.3830
+Fold 5
+Training time: 1.4739
+Fold 6
+Training time: 1.4324
+
+
+
+Parameters (TT2D472FRA) 115/486  -  2021-08-10 19:38:14
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1787
+Fold 2
+Training time: 1.2292
+Fold 3
+Training time: 1.2288
+Fold 4
+Training time: 1.1847
+Fold 5
+Training time: 1.2937
+Fold 6
+Training time: 1.2584
+
+
+
+Parameters (TQUU3L348J) 116/486  -  2021-08-10 19:38:21
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.7697
+Fold 2
+Training time: 1.7179
+Fold 3
+Training time: 1.6836
+Fold 4
+Training time: 1.7186
+Fold 5
+Training time: 1.7517
+Fold 6
+Training time: 1.7835
+
+
+
+Parameters (B9CE5K5V7J) 117/486  -  2021-08-10 19:38:32
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.4889
+Fold 2
+Training time: 1.4969
+Fold 3
+Training time: 1.5001
+Fold 4
+Training time: 1.5120
+Fold 5
+Training time: 1.5062
+Fold 6
+Training time: 1.5429
+
+
+
+Parameters (4MI7OIEAUP) 118/486  -  2021-08-10 19:38:42
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.7192
+Fold 2
+Training time: 0.7193
+Fold 3
+Training time: 0.6842
+Fold 4
+Training time: 0.6801
+Fold 5
+Training time: 0.6871
+Fold 6
+Training time: 0.7135
+
+
+
+Parameters (38SAEP5FTL) 119/486  -  2021-08-10 19:38:46
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2384
+Fold 2
+Training time: 1.1942
+Fold 3
+Training time: 1.2451
+Fold 4
+Training time: 1.1329
+Fold 5
+Training time: 1.2554
+Fold 6
+Training time: 1.2497
+
+
+
+Parameters (PQOOKFVWW4) 120/486  -  2021-08-10 19:38:54
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.4634
+Fold 2
+Training time: 1.3980
+Fold 3
+Training time: 1.4400
+Fold 4
+Training time: 1.3291
+Fold 5
+Training time: 1.4045
+Fold 6
+Training time: 1.4452
+
+
+
+Parameters (3V0A64PK8L) 121/486  -  2021-08-10 19:39:03
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.4353
+Fold 2
+Training time: 1.3844
+Fold 3
+Training time: 1.4372
+Fold 4
+Training time: 1.3401
+Fold 5
+Training time: 1.4076
+Fold 6
+Training time: 1.4276
+
+
+
+Parameters (NITQ2TEP3U) 122/486  -  2021-08-10 19:39:12
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6833
+Fold 2
+Training time: 0.6142
+Fold 3
+Training time: 0.6015
+Fold 4
+Training time: 0.5975
+Fold 5
+Training time: 0.6317
+Fold 6
+Training time: 0.6583
+
+
+
+Parameters (YY0E9P3IJI) 123/486  -  2021-08-10 19:39:16
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8869
+Fold 2
+Training time: 0.9309
+Fold 3
+Training time: 0.9026
+Fold 4
+Training time: 0.8340
+Fold 5
+Training time: 0.9152
+Fold 6
+Training time: 0.9172
+
+
+
+Parameters (87ZFU8ZHBX) 124/486  -  2021-08-10 19:39:22
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.7418
+Fold 2
+Training time: 0.6747
+Fold 3
+Training time: 0.7046
+Fold 4
+Training time: 0.6568
+Fold 5
+Training time: 0.7106
+Fold 6
+Training time: 0.6808
+
+
+
+Parameters (K2G4VMGHML) 125/486  -  2021-08-10 19:39:26
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6814
+Fold 2
+Training time: 1.6626
+Fold 3
+Training time: 1.6025
+Fold 4
+Training time: 1.7208
+Fold 5
+Training time: 1.6545
+Fold 6
+Training time: 1.6814
+
+
+
+Parameters (SBKDWIBL9E) 126/486  -  2021-08-10 19:39:37
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6973
+Fold 2
+Training time: 0.7111
+Fold 3
+Training time: 0.6934
+Fold 4
+Training time: 0.7100
+Fold 5
+Training time: 0.6779
+Fold 6
+Training time: 0.7190
+
+
+
+Parameters (W3OPDX8RTV) 127/486  -  2021-08-10 19:39:41
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.7309
+Fold 2
+Training time: 1.6052
+Fold 3
+Training time: 1.5841
+Fold 4
+Training time: 1.6113
+Fold 5
+Training time: 1.5929
+Fold 6
+Training time: 1.6980
+
+
+
+Parameters (T72Z8ISR2B) 128/486  -  2021-08-10 19:39:51
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0331
+Fold 2
+Training time: 1.0049
+Fold 3
+Training time: 0.9999
+Fold 4
+Training time: 0.9127
+Fold 5
+Training time: 1.0193
+Fold 6
+Training time: 1.0787
+
+
+
+Parameters (QLNKJTMDJO) 129/486  -  2021-08-10 19:39:58
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6346
+Fold 2
+Training time: 0.6678
+Fold 3
+Training time: 0.6413
+Fold 4
+Training time: 0.6047
+Fold 5
+Training time: 0.6612
+Fold 6
+Training time: 0.6420
+
+
+
+Parameters (HVN5UY8IV7) 130/486  -  2021-08-10 19:40:02
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.7482
+Fold 2
+Training time: 0.6818
+Fold 3
+Training time: 0.6825
+Fold 4
+Training time: 0.6500
+Fold 5
+Training time: 0.6980
+Fold 6
+Training time: 0.6759
+
+
+
+Parameters (OO030OXMAJ) 131/486  -  2021-08-10 19:40:07
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8912
+Fold 2
+Training time: 0.8391
+Fold 3
+Training time: 0.9098
+Fold 4
+Training time: 0.8563
+Fold 5
+Training time: 0.8513
+Fold 6
+Training time: 0.9171
+
+
+
+Parameters (T1KW5PJV6P) 132/486  -  2021-08-10 19:40:12
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6790
+Fold 2
+Training time: 1.7045
+Fold 3
+Training time: 1.6546
+Fold 4
+Training time: 1.5989
+Fold 5
+Training time: 1.6257
+Fold 6
+Training time: 1.7465
+
+
+
+Parameters (WNNEMZI0AP) 133/486  -  2021-08-10 19:40:23
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0177
+Fold 2
+Training time: 1.0497
+Fold 3
+Training time: 1.0061
+Fold 4
+Training time: 0.9578
+Fold 5
+Training time: 1.0681
+Fold 6
+Training time: 1.0626
+
+
+
+Parameters (3LPM95XKV9) 134/486  -  2021-08-10 19:40:29
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.2209
+Fold 2
+Training time: 1.1948
+Fold 3
+Training time: 1.2658
+Fold 4
+Training time: 1.1776
+Fold 5
+Training time: 1.1983
+Fold 6
+Training time: 1.2439
+
+
+
+Parameters (06OYQDH8Z8) 135/486  -  2021-08-10 19:40:37
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.7248
+Fold 2
+Training time: 0.7198
+Fold 3
+Training time: 0.7076
+Fold 4
+Training time: 0.7225
+Fold 5
+Training time: 0.6945
+Fold 6
+Training time: 0.7152
+
+
+
+Parameters (PHB1MKEYQJ) 136/486  -  2021-08-10 19:40:42
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.4841
+Fold 2
+Training time: 1.4341
+Fold 3
+Training time: 1.4520
+Fold 4
+Training time: 1.3647
+Fold 5
+Training time: 1.4247
+Fold 6
+Training time: 1.4397
+
+
+
+Parameters (TYZDCU1G1O) 137/486  -  2021-08-10 19:40:51
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0666
+Fold 2
+Training time: 1.0964
+Fold 3
+Training time: 1.0740
+Fold 4
+Training time: 0.9855
+Fold 5
+Training time: 1.0780
+Fold 6
+Training time: 1.1077
+
+
+
+Parameters (HHJZF3BNGH) 138/486  -  2021-08-10 19:40:57
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2307
+Fold 2
+Training time: 1.2054
+Fold 3
+Training time: 1.2524
+Fold 4
+Training time: 1.1357
+Fold 5
+Training time: 1.2349
+Fold 6
+Training time: 1.2796
+
+
+
+Parameters (2S3BQL37TR) 139/486  -  2021-08-10 19:41:05
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0459
+Fold 2
+Training time: 1.1667
+Fold 3
+Training time: 1.1575
+Fold 4
+Training time: 1.0671
+Fold 5
+Training time: 1.0658
+Fold 6
+Training time: 1.1224
+
+
+
+Parameters (UNOGYT9J84) 140/486  -  2021-08-10 19:41:12
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.7549
+Fold 2
+Training time: 0.6949
+Fold 3
+Training time: 0.7453
+Fold 4
+Training time: 0.6502
+Fold 5
+Training time: 0.7498
+Fold 6
+Training time: 0.6968
+
+
+
+Parameters (8LJ4ZQJ3VA) 141/486  -  2021-08-10 19:41:17
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.2070
+Fold 2
+Training time: 0.6987
+Fold 3
+Training time: 0.6837
+Fold 4
+Training time: 0.6389
+Fold 5
+Training time: 0.6665
+Fold 6
+Training time: 0.9561
+
+
+
+Parameters (OBUOB8A4YL) 142/486  -  2021-08-10 19:41:22
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1983
+Fold 2
+Training time: 1.1780
+Fold 3
+Training time: 1.2832
+Fold 4
+Training time: 1.1748
+Fold 5
+Training time: 1.2608
+Fold 6
+Training time: 1.2366
+
+
+
+Parameters (U9T2HTU5RC) 143/486  -  2021-08-10 19:41:30
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6597
+Fold 2
+Training time: 1.9311
+Fold 3
+Training time: 1.6790
+Fold 4
+Training time: 1.6283
+Fold 5
+Training time: 1.6890
+Fold 6
+Training time: 1.7530
+
+
+
+Parameters (PV3W2GM719) 144/486  -  2021-08-10 19:41:41
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0003
+Fold 2
+Training time: 1.0214
+Fold 3
+Training time: 1.0368
+Fold 4
+Training time: 0.9613
+Fold 5
+Training time: 1.0317
+Fold 6
+Training time: 1.0170
+
+
+
+Parameters (WN1ICMUZ7Z) 145/486  -  2021-08-10 19:41:47
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.0924
+Fold 2
+Training time: 1.1131
+Fold 3
+Training time: 1.0957
+Fold 4
+Training time: 1.1681
+Fold 5
+Training time: 1.0588
+Fold 6
+Training time: 1.1287
+
+
+
+Parameters (M0Y5UB8V9X) 146/486  -  2021-08-10 19:41:54
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1169
+Fold 2
+Training time: 1.1742
+Fold 3
+Training time: 1.0563
+Fold 4
+Training time: 1.1135
+Fold 5
+Training time: 1.1601
+Fold 6
+Training time: 1.1860
+
+
+
+Parameters (9FI4U6QLT3) 147/486  -  2021-08-10 19:42:01
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2388
+Fold 2
+Training time: 1.2025
+Fold 3
+Training time: 1.2442
+Fold 4
+Training time: 1.2059
+Fold 5
+Training time: 1.2307
+Fold 6
+Training time: 1.2439
+
+
+
+Parameters (S01628SW5I) 148/486  -  2021-08-10 19:42:09
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6193
+Fold 2
+Training time: 0.6466
+Fold 3
+Training time: 0.5779
+Fold 4
+Training time: 0.5525
+Fold 5
+Training time: 0.6422
+Fold 6
+Training time: 0.5896
+
+
+
+Parameters (DD3K2F79N0) 149/486  -  2021-08-10 19:42:13
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0173
+Fold 2
+Training time: 0.9897
+Fold 3
+Training time: 0.9910
+Fold 4
+Training time: 0.9863
+Fold 5
+Training time: 0.9697
+Fold 6
+Training time: 0.9803
+
+
+
+Parameters (MVP1KO3F5Y) 150/486  -  2021-08-10 19:42:19
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.7687
+Fold 2
+Training time: 1.7062
+Fold 3
+Training time: 1.6485
+Fold 4
+Training time: 1.6298
+Fold 5
+Training time: 1.7898
+Fold 6
+Training time: 1.7173
+
+
+
+Parameters (R1MPB2TFEU) 151/486  -  2021-08-10 19:42:30
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 2.0726
+Fold 2
+Training time: 1.9511
+Fold 3
+Training time: 1.8815
+Fold 4
+Training time: 1.8339
+Fold 5
+Training time: 1.8966
+Fold 6
+Training time: 1.9814
+
+
+
+Parameters (VV4BMMBIT5) 152/486  -  2021-08-10 19:42:42
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.3470
+Fold 2
+Training time: 1.4560
+Fold 3
+Training time: 1.3714
+Fold 4
+Training time: 1.2969
+Fold 5
+Training time: 1.3779
+Fold 6
+Training time: 1.3410
+
+
+
+Parameters (GGPMGR69LL) 153/486  -  2021-08-10 19:42:51
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1806
+Fold 2
+Training time: 1.1624
+Fold 3
+Training time: 1.1722
+Fold 4
+Training time: 1.1637
+Fold 5
+Training time: 1.1435
+Fold 6
+Training time: 1.2338
+
+
+
+Parameters (WMPPT0TOTK) 154/486  -  2021-08-10 19:42:58
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5162
+Fold 2
+Training time: 0.5183
+Fold 3
+Training time: 0.5139
+Fold 4
+Training time: 0.5090
+Fold 5
+Training time: 0.5060
+Fold 6
+Training time: 0.5098
+
+
+
+Parameters (7OAM5JRN9S) 155/486  -  2021-08-10 19:43:01
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1559
+Fold 2
+Training time: 1.1336
+Fold 3
+Training time: 1.1282
+Fold 4
+Training time: 1.0242
+Fold 5
+Training time: 1.1199
+Fold 6
+Training time: 1.1550
+
+
+
+Parameters (33LZRJ73IP) 156/486  -  2021-08-10 19:43:08
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2051
+Fold 2
+Training time: 1.1536
+Fold 3
+Training time: 1.2102
+Fold 4
+Training time: 1.0754
+Fold 5
+Training time: 1.1724
+Fold 6
+Training time: 1.2152
+
+
+
+Parameters (3XWB6WJ2LC) 157/486  -  2021-08-10 19:43:16
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.7072
+Fold 2
+Training time: 1.7329
+Fold 3
+Training time: 1.7263
+Fold 4
+Training time: 1.7110
+Fold 5
+Training time: 1.7288
+Fold 6
+Training time: 1.7280
+
+
+
+Parameters (2G6DMYF0R3) 158/486  -  2021-08-10 19:43:27
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2258
+Fold 2
+Training time: 1.2157
+Fold 3
+Training time: 1.1968
+Fold 4
+Training time: 1.2014
+Fold 5
+Training time: 1.2576
+Fold 6
+Training time: 1.2224
+
+
+
+Parameters (IMPUNWNS9M) 159/486  -  2021-08-10 19:43:34
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6035
+Fold 2
+Training time: 0.6085
+Fold 3
+Training time: 0.6402
+Fold 4
+Training time: 0.5749
+Fold 5
+Training time: 0.6414
+Fold 6
+Training time: 0.6049
+
+
+
+Parameters (FVHZO1OPRA) 160/486  -  2021-08-10 19:43:38
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5016
+Fold 2
+Training time: 0.5613
+Fold 3
+Training time: 0.5230
+Fold 4
+Training time: 0.5259
+Fold 5
+Training time: 0.5150
+Fold 6
+Training time: 0.5180
+
+
+
+Parameters (DR7XE9A6WR) 161/486  -  2021-08-10 19:43:42
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.4151
+Fold 2
+Training time: 1.3481
+Fold 3
+Training time: 1.3264
+Fold 4
+Training time: 1.2594
+Fold 5
+Training time: 1.3504
+Fold 6
+Training time: 1.3850
+
+
+
+Parameters (CH7AO0V5OU) 162/486  -  2021-08-10 19:43:50
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7591
+Fold 2
+Training time: 0.8301
+Fold 3
+Training time: 0.7774
+Fold 4
+Training time: 0.7919
+Fold 5
+Training time: 0.7747
+Fold 6
+Training time: 0.8238
+
+
+
+Parameters (N7U3H5FZU2) 163/486  -  2021-08-10 19:43:55
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2965
+Fold 2
+Training time: 1.4417
+Fold 3
+Training time: 1.4077
+Fold 4
+Training time: 1.2914
+Fold 5
+Training time: 1.3757
+Fold 6
+Training time: 1.4133
+
+
+
+Parameters (6FW6KBRF9C) 164/486  -  2021-08-10 19:44:04
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6846
+Fold 2
+Training time: 1.6656
+Fold 3
+Training time: 1.6411
+Fold 4
+Training time: 1.6182
+Fold 5
+Training time: 1.6551
+Fold 6
+Training time: 1.6882
+
+
+
+Parameters (7J69N2PBOX) 165/486  -  2021-08-10 19:44:14
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0338
+Fold 2
+Training time: 0.9757
+Fold 3
+Training time: 1.0386
+Fold 4
+Training time: 0.9874
+Fold 5
+Training time: 1.0259
+Fold 6
+Training time: 1.5769
+
+
+
+Parameters (3LPMUE9GZF) 166/486  -  2021-08-10 19:44:21
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3077
+Fold 2
+Training time: 1.3658
+Fold 3
+Training time: 1.3441
+Fold 4
+Training time: 1.3128
+Fold 5
+Training time: 1.3038
+Fold 6
+Training time: 1.3857
+
+
+
+Parameters (7RGJUL55GL) 167/486  -  2021-08-10 19:44:30
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1300
+Fold 2
+Training time: 1.0715
+Fold 3
+Training time: 1.0869
+Fold 4
+Training time: 1.0361
+Fold 5
+Training time: 1.0773
+Fold 6
+Training time: 1.0962
+
+
+
+Parameters (EEB1S66GCO) 168/486  -  2021-08-10 19:44:37
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.7254
+Fold 2
+Training time: 1.6933
+Fold 3
+Training time: 1.6063
+Fold 4
+Training time: 1.5949
+Fold 5
+Training time: 1.7188
+Fold 6
+Training time: 1.6911
+
+
+
+Parameters (LUU95VNEYA) 169/486  -  2021-08-10 19:44:47
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1310
+Fold 2
+Training time: 1.1447
+Fold 3
+Training time: 1.1288
+Fold 4
+Training time: 1.0851
+Fold 5
+Training time: 1.1385
+Fold 6
+Training time: 1.1669
+
+
+
+Parameters (QA0NACRKZG) 170/486  -  2021-08-10 19:44:54
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1197
+Fold 2
+Training time: 1.1379
+Fold 3
+Training time: 1.1292
+Fold 4
+Training time: 1.1070
+Fold 5
+Training time: 1.1059
+Fold 6
+Training time: 1.1678
+
+
+
+Parameters (PNSWXVF4N0) 171/486  -  2021-08-10 19:45:01
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6875
+Fold 2
+Training time: 0.6672
+Fold 3
+Training time: 0.6838
+Fold 4
+Training time: 0.6460
+Fold 5
+Training time: 0.6600
+Fold 6
+Training time: 0.6916
+
+
+
+Parameters (BMQR4ENQPZ) 172/486  -  2021-08-10 19:45:06
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6712
+Fold 2
+Training time: 0.6837
+Fold 3
+Training time: 0.6718
+Fold 4
+Training time: 0.6347
+Fold 5
+Training time: 0.6796
+Fold 6
+Training time: 0.7144
+
+
+
+Parameters (HU4FBD5B7R) 173/486  -  2021-08-10 19:45:10
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2355
+Fold 2
+Training time: 1.2031
+Fold 3
+Training time: 1.2410
+Fold 4
+Training time: 1.2167
+Fold 5
+Training time: 1.2294
+Fold 6
+Training time: 1.2358
+
+
+
+Parameters (R7SN4AHBXF) 174/486  -  2021-08-10 19:45:18
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1729
+Fold 2
+Training time: 1.1495
+Fold 3
+Training time: 1.1401
+Fold 4
+Training time: 1.1010
+Fold 5
+Training time: 1.1409
+Fold 6
+Training time: 1.1358
+
+
+
+Parameters (X81GWYW5BS) 175/486  -  2021-08-10 19:45:25
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.3892
+Fold 2
+Training time: 1.3508
+Fold 3
+Training time: 1.3340
+Fold 4
+Training time: 1.2641
+Fold 5
+Training time: 1.3773
+Fold 6
+Training time: 1.6014
+
+
+
+Parameters (QL8GZWEIZV) 176/486  -  2021-08-10 19:45:34
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.2421
+Fold 2
+Training time: 1.2628
+Fold 3
+Training time: 1.2848
+Fold 4
+Training time: 1.1999
+Fold 5
+Training time: 1.3069
+Fold 6
+Training time: 1.3354
+
+
+
+Parameters (IDOD0KPR7F) 177/486  -  2021-08-10 19:45:42
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6487
+Fold 2
+Training time: 1.6238
+Fold 3
+Training time: 1.5424
+Fold 4
+Training time: 1.5710
+Fold 5
+Training time: 1.6011
+Fold 6
+Training time: 1.6457
+
+
+
+Parameters (6V5HVSFTNA) 178/486  -  2021-08-10 19:45:52
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5193
+Fold 2
+Training time: 0.5180
+Fold 3
+Training time: 0.5509
+Fold 4
+Training time: 0.5042
+Fold 5
+Training time: 0.5199
+Fold 6
+Training time: 0.5371
+
+
+
+Parameters (N9MDSJ3XEN) 179/486  -  2021-08-10 19:45:55
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.4321
+Fold 2
+Training time: 1.4709
+Fold 3
+Training time: 1.4094
+Fold 4
+Training time: 1.3907
+Fold 5
+Training time: 1.4500
+Fold 6
+Training time: 1.4694
+
+
+
+Parameters (P9XFF09DJ6) 180/486  -  2021-08-10 19:46:04
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6026
+Fold 2
+Training time: 0.6082
+Fold 3
+Training time: 0.6444
+Fold 4
+Training time: 0.6025
+Fold 5
+Training time: 0.6400
+Fold 6
+Training time: 0.6177
+
+
+
+Parameters (GPGA4WV60Z) 181/486  -  2021-08-10 19:46:08
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.9260
+Fold 2
+Training time: 1.9605
+Fold 3
+Training time: 1.9169
+Fold 4
+Training time: 1.9360
+Fold 5
+Training time: 1.9928
+Fold 6
+Training time: 1.9554
+
+
+
+Parameters (NVOPDYPXJW) 182/486  -  2021-08-10 19:46:20
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6574
+Fold 2
+Training time: 0.9430
+Fold 3
+Training time: 1.0917
+Fold 4
+Training time: 0.6544
+Fold 5
+Training time: 0.6961
+Fold 6
+Training time: 0.6719
+
+
+
+Parameters (1OD7YRKBDH) 183/486  -  2021-08-10 19:46:25
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.4071
+Fold 2
+Training time: 1.3993
+Fold 3
+Training time: 1.4006
+Fold 4
+Training time: 1.3086
+Fold 5
+Training time: 1.3313
+Fold 6
+Training time: 1.3782
+
+
+
+Parameters (XS4KTPNHNF) 184/486  -  2021-08-10 19:46:34
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1192
+Fold 2
+Training time: 1.1527
+Fold 3
+Training time: 1.1567
+Fold 4
+Training time: 1.1099
+Fold 5
+Training time: 1.1212
+Fold 6
+Training time: 1.1571
+
+
+
+Parameters (U26J66ZQ4R) 185/486  -  2021-08-10 19:46:41
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3457
+Fold 2
+Training time: 1.3327
+Fold 3
+Training time: 1.3315
+Fold 4
+Training time: 1.2377
+Fold 5
+Training time: 1.2964
+Fold 6
+Training time: 1.3235
+
+
+
+Parameters (1SAQ8JH346) 186/486  -  2021-08-10 19:46:49
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.3740
+Fold 2
+Training time: 1.4016
+Fold 3
+Training time: 1.4037
+Fold 4
+Training time: 1.3574
+Fold 5
+Training time: 1.3919
+Fold 6
+Training time: 1.3950
+
+
+
+Parameters (RDZMH3ELQD) 187/486  -  2021-08-10 19:46:58
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6311
+Fold 2
+Training time: 0.6083
+Fold 3
+Training time: 0.6288
+Fold 4
+Training time: 0.6134
+Fold 5
+Training time: 0.6005
+Fold 6
+Training time: 0.6375
+
+
+
+Parameters (EP67ZDKWQL) 188/486  -  2021-08-10 19:47:02
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6914
+Fold 2
+Training time: 1.6598
+Fold 3
+Training time: 1.6592
+Fold 4
+Training time: 1.6105
+Fold 5
+Training time: 1.6677
+Fold 6
+Training time: 1.6988
+
+
+
+Parameters (D3C2PL8QB0) 189/486  -  2021-08-10 19:47:13
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3470
+Fold 2
+Training time: 1.4352
+Fold 3
+Training time: 1.3916
+Fold 4
+Training time: 1.3913
+Fold 5
+Training time: 1.4260
+Fold 6
+Training time: 1.4200
+
+
+
+Parameters (XOQODY2UGD) 190/486  -  2021-08-10 19:47:21
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.7180
+Fold 2
+Training time: 0.6564
+Fold 3
+Training time: 0.6568
+Fold 4
+Training time: 0.6348
+Fold 5
+Training time: 0.6498
+Fold 6
+Training time: 0.6825
+
+
+
+Parameters (K7NNIS09ZV) 191/486  -  2021-08-10 19:47:26
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6061
+Fold 2
+Training time: 1.5986
+Fold 3
+Training time: 1.5544
+Fold 4
+Training time: 1.5045
+Fold 5
+Training time: 1.5706
+Fold 6
+Training time: 1.6987
+
+
+
+Parameters (3K8E8S3JQ2) 192/486  -  2021-08-10 19:47:36
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.1478
+Fold 2
+Training time: 1.1860
+Fold 3
+Training time: 1.2161
+Fold 4
+Training time: 1.0474
+Fold 5
+Training time: 1.1505
+Fold 6
+Training time: 1.2168
+
+
+
+Parameters (XCD3DGNA8H) 193/486  -  2021-08-10 19:47:43
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0355
+Fold 2
+Training time: 1.0130
+Fold 3
+Training time: 1.0384
+Fold 4
+Training time: 0.9903
+Fold 5
+Training time: 1.0000
+Fold 6
+Training time: 1.0422
+
+
+
+Parameters (K8D00KHBXN) 194/486  -  2021-08-10 19:47:50
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0174
+Fold 2
+Training time: 1.0140
+Fold 3
+Training time: 0.9900
+Fold 4
+Training time: 0.9756
+Fold 5
+Training time: 1.0325
+Fold 6
+Training time: 0.9803
+
+
+
+Parameters (1NBUSVSFTK) 195/486  -  2021-08-10 19:47:56
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5364
+Fold 2
+Training time: 0.5206
+Fold 3
+Training time: 0.5221
+Fold 4
+Training time: 0.5822
+Fold 5
+Training time: 0.5375
+Fold 6
+Training time: 0.5350
+
+
+
+Parameters (QQD6SCBJAS) 196/486  -  2021-08-10 19:48:00
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9917
+Fold 2
+Training time: 1.0005
+Fold 3
+Training time: 1.0156
+Fold 4
+Training time: 0.9418
+Fold 5
+Training time: 1.0081
+Fold 6
+Training time: 1.0306
+
+
+
+Parameters (ABHXR4R4XA) 197/486  -  2021-08-10 19:48:06
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3162
+Fold 2
+Training time: 1.3522
+Fold 3
+Training time: 1.3575
+Fold 4
+Training time: 1.2318
+Fold 5
+Training time: 1.3165
+Fold 6
+Training time: 1.3581
+
+
+
+Parameters (16UZ824VC2) 198/486  -  2021-08-10 19:48:14
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1937
+Fold 2
+Training time: 1.1629
+Fold 3
+Training time: 1.1288
+Fold 4
+Training time: 1.1418
+Fold 5
+Training time: 1.1367
+Fold 6
+Training time: 1.1571
+
+
+
+Parameters (3QH619QRUV) 199/486  -  2021-08-10 19:48:21
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.8093
+Fold 2
+Training time: 0.8418
+Fold 3
+Training time: 0.7916
+Fold 4
+Training time: 0.7909
+Fold 5
+Training time: 0.8023
+Fold 6
+Training time: 0.8309
+
+
+
+Parameters (M1NC02MN1H) 200/486  -  2021-08-10 19:48:27
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0805
+Fold 2
+Training time: 1.0078
+Fold 3
+Training time: 1.0206
+Fold 4
+Training time: 0.9711
+Fold 5
+Training time: 0.9895
+Fold 6
+Training time: 1.0302
+
+
+
+Parameters (PK6QSHIKH5) 201/486  -  2021-08-10 19:48:33
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.7370
+Fold 2
+Training time: 1.7284
+Fold 3
+Training time: 1.7036
+Fold 4
+Training time: 1.6964
+Fold 5
+Training time: 1.7679
+Fold 6
+Training time: 1.7628
+
+
+
+Parameters (P7G9I85KEC) 202/486  -  2021-08-10 19:48:44
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6056
+Fold 2
+Training time: 0.6306
+Fold 3
+Training time: 0.6112
+Fold 4
+Training time: 0.6128
+Fold 5
+Training time: 0.6047
+Fold 6
+Training time: 0.6493
+
+
+
+Parameters (JQ3ZIAN1TK) 203/486  -  2021-08-10 19:48:48
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.9907
+Fold 2
+Training time: 1.0144
+Fold 3
+Training time: 1.0849
+Fold 4
+Training time: 0.9371
+Fold 5
+Training time: 0.9892
+Fold 6
+Training time: 1.0379
+
+
+
+Parameters (H6RDVA5HZ1) 204/486  -  2021-08-10 19:48:54
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6705
+Fold 2
+Training time: 0.6814
+Fold 3
+Training time: 0.6289
+Fold 4
+Training time: 0.6353
+Fold 5
+Training time: 0.6713
+Fold 6
+Training time: 0.6523
+
+
+
+Parameters (MDLJ11RC06) 205/486  -  2021-08-10 19:48:59
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.4348
+Fold 2
+Training time: 1.4500
+Fold 3
+Training time: 1.3888
+Fold 4
+Training time: 1.3623
+Fold 5
+Training time: 1.4724
+Fold 6
+Training time: 1.4544
+
+
+
+Parameters (SLS6PKXIUX) 206/486  -  2021-08-10 19:49:08
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0959
+Fold 2
+Training time: 1.1746
+Fold 3
+Training time: 1.0536
+Fold 4
+Training time: 1.0689
+Fold 5
+Training time: 1.1271
+Fold 6
+Training time: 1.1868
+
+
+
+Parameters (QGZ41GDMS3) 207/486  -  2021-08-10 19:49:15
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1249
+Fold 2
+Training time: 1.0798
+Fold 3
+Training time: 1.1054
+Fold 4
+Training time: 0.9860
+Fold 5
+Training time: 1.0540
+Fold 6
+Training time: 1.1591
+
+
+
+Parameters (DK3VA90EZU) 208/486  -  2021-08-10 19:49:22
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.2006
+Fold 2
+Training time: 1.1775
+Fold 3
+Training time: 1.1843
+Fold 4
+Training time: 1.1278
+Fold 5
+Training time: 1.1804
+Fold 6
+Training time: 1.2080
+
+
+
+Parameters (KRT4RAELYH) 209/486  -  2021-08-10 19:49:29
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7972
+Fold 2
+Training time: 0.7900
+Fold 3
+Training time: 0.8003
+Fold 4
+Training time: 0.7926
+Fold 5
+Training time: 0.7989
+Fold 6
+Training time: 0.7638
+
+
+
+Parameters (H33WI9R9VA) 210/486  -  2021-08-10 19:49:34
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8518
+Fold 2
+Training time: 0.8289
+Fold 3
+Training time: 0.8581
+Fold 4
+Training time: 0.8246
+Fold 5
+Training time: 0.8133
+Fold 6
+Training time: 0.8522
+
+
+
+Parameters (50GQOISU4D) 211/486  -  2021-08-10 19:49:40
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5189
+Fold 2
+Training time: 0.5186
+Fold 3
+Training time: 0.5465
+Fold 4
+Training time: 0.4942
+Fold 5
+Training time: 0.5543
+Fold 6
+Training time: 0.5202
+
+
+
+Parameters (YXV4UGLD5T) 212/486  -  2021-08-10 19:49:43
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.4154
+Fold 2
+Training time: 1.3863
+Fold 3
+Training time: 1.4131
+Fold 4
+Training time: 1.3424
+Fold 5
+Training time: 1.3886
+Fold 6
+Training time: 1.3901
+
+
+
+Parameters (A1KY5UQ5NM) 213/486  -  2021-08-10 19:49:52
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.3549
+Fold 2
+Training time: 1.4014
+Fold 3
+Training time: 1.3581
+Fold 4
+Training time: 1.3059
+Fold 5
+Training time: 1.4047
+Fold 6
+Training time: 1.4200
+
+
+
+Parameters (L0XFNO5DQR) 214/486  -  2021-08-10 19:50:01
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.2089
+Fold 2
+Training time: 1.1751
+Fold 3
+Training time: 1.1834
+Fold 4
+Training time: 1.1192
+Fold 5
+Training time: 1.1817
+Fold 6
+Training time: 1.2180
+
+
+
+Parameters (TKX84E2PNM) 215/486  -  2021-08-10 19:50:08
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.5994
+Fold 2
+Training time: 0.6199
+Fold 3
+Training time: 0.5911
+Fold 4
+Training time: 0.5638
+Fold 5
+Training time: 0.6329
+Fold 6
+Training time: 0.5883
+
+
+
+Parameters (Z3DJS54ZPT) 216/486  -  2021-08-10 19:50:12
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8369
+Fold 2
+Training time: 0.8097
+Fold 3
+Training time: 0.8326
+Fold 4
+Training time: 0.7841
+Fold 5
+Training time: 0.8238
+Fold 6
+Training time: 0.8409
+
+
+
+Parameters (OQ6VX6VWJZ) 217/486  -  2021-08-10 19:50:17
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.9024
+Fold 2
+Training time: 1.9078
+Fold 3
+Training time: 1.8709
+Fold 4
+Training time: 1.8767
+Fold 5
+Training time: 1.9199
+Fold 6
+Training time: 1.9643
+
+
+
+Parameters (K8FWWNYIE1) 218/486  -  2021-08-10 19:50:29
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.8220
+Fold 2
+Training time: 0.7888
+Fold 3
+Training time: 0.8186
+Fold 4
+Training time: 0.7893
+Fold 5
+Training time: 0.8281
+Fold 6
+Training time: 0.8279
+
+
+
+Parameters (PRGA17534Y) 219/486  -  2021-08-10 19:50:34
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7881
+Fold 2
+Training time: 0.7967
+Fold 3
+Training time: 0.7414
+Fold 4
+Training time: 0.7793
+Fold 5
+Training time: 0.7854
+Fold 6
+Training time: 0.8258
+
+
+
+Parameters (8A1I9C3OAB) 220/486  -  2021-08-10 19:50:39
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8685
+Fold 2
+Training time: 0.9074
+Fold 3
+Training time: 0.9196
+Fold 4
+Training time: 0.8289
+Fold 5
+Training time: 0.9147
+Fold 6
+Training time: 0.8808
+
+
+
+Parameters (4BO89Y70C1) 221/486  -  2021-08-10 19:50:45
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0165
+Fold 2
+Training time: 1.0083
+Fold 3
+Training time: 0.9959
+Fold 4
+Training time: 0.9793
+Fold 5
+Training time: 1.0172
+Fold 6
+Training time: 1.0276
+
+
+
+Parameters (MHWWDBIDF4) 222/486  -  2021-08-10 19:50:51
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6497
+Fold 2
+Training time: 0.6491
+Fold 3
+Training time: 0.6842
+Fold 4
+Training time: 0.6074
+Fold 5
+Training time: 0.6825
+Fold 6
+Training time: 0.6592
+
+
+
+Parameters (EUDBUQO4SH) 223/486  -  2021-08-10 19:50:56
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2919
+Fold 2
+Training time: 1.4467
+Fold 3
+Training time: 1.4372
+Fold 4
+Training time: 1.2915
+Fold 5
+Training time: 1.3551
+Fold 6
+Training time: 1.4465
+
+
+
+Parameters (PMH01LQ2FA) 224/486  -  2021-08-10 19:51:04
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9431
+Fold 2
+Training time: 0.9955
+Fold 3
+Training time: 0.9759
+Fold 4
+Training time: 0.8861
+Fold 5
+Training time: 1.0010
+Fold 6
+Training time: 1.0024
+
+
+
+Parameters (8DEGDN5NL8) 225/486  -  2021-08-10 19:51:10
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6038
+Fold 2
+Training time: 0.6400
+Fold 3
+Training time: 0.5786
+Fold 4
+Training time: 0.5490
+Fold 5
+Training time: 0.6167
+Fold 6
+Training time: 0.5846
+
+
+
+Parameters (9Y2WGXR0UY) 226/486  -  2021-08-10 19:51:14
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3075
+Fold 2
+Training time: 1.3418
+Fold 3
+Training time: 1.3096
+Fold 4
+Training time: 1.2493
+Fold 5
+Training time: 1.2870
+Fold 6
+Training time: 1.5054
+
+
+
+Parameters (072AFVR60A) 227/486  -  2021-08-10 19:51:23
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9819
+Fold 2
+Training time: 1.0021
+Fold 3
+Training time: 1.0294
+Fold 4
+Training time: 0.9194
+Fold 5
+Training time: 1.0312
+Fold 6
+Training time: 1.0301
+
+
+
+Parameters (ATQT3Q4YGZ) 228/486  -  2021-08-10 19:51:29
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8922
+Fold 2
+Training time: 0.9152
+Fold 3
+Training time: 0.8865
+Fold 4
+Training time: 1.0827
+Fold 5
+Training time: 0.9050
+Fold 6
+Training time: 0.8799
+
+
+
+Parameters (OH98VQMUY0) 229/486  -  2021-08-10 19:51:35
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.8930
+Fold 2
+Training time: 1.8636
+Fold 3
+Training time: 1.8155
+Fold 4
+Training time: 1.7578
+Fold 5
+Training time: 1.8558
+Fold 6
+Training time: 1.9274
+
+
+
+Parameters (AZOZ5K4RAX) 230/486  -  2021-08-10 19:51:46
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.4282
+Fold 2
+Training time: 1.4389
+Fold 3
+Training time: 1.4783
+Fold 4
+Training time: 1.4305
+Fold 5
+Training time: 1.4537
+Fold 6
+Training time: 1.4601
+
+
+
+Parameters (FVLING7RE4) 231/486  -  2021-08-10 19:51:55
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1783
+Fold 2
+Training time: 1.2247
+Fold 3
+Training time: 1.2397
+Fold 4
+Training time: 1.1458
+Fold 5
+Training time: 1.1648
+Fold 6
+Training time: 1.1882
+
+
+
+Parameters (H7Z27W10F5) 232/486  -  2021-08-10 19:52:03
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.4158
+Fold 2
+Training time: 1.4301
+Fold 3
+Training time: 1.3934
+Fold 4
+Training time: 1.3749
+Fold 5
+Training time: 1.4475
+Fold 6
+Training time: 1.4321
+
+
+
+Parameters (MK2P2XFMR5) 233/486  -  2021-08-10 19:52:12
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8455
+Fold 2
+Training time: 0.8004
+Fold 3
+Training time: 0.8528
+Fold 4
+Training time: 0.7722
+Fold 5
+Training time: 0.8695
+Fold 6
+Training time: 0.8307
+
+
+
+Parameters (WFU4EDWNUG) 234/486  -  2021-08-10 19:52:17
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 2.0197
+Fold 2
+Training time: 1.9367
+Fold 3
+Training time: 1.9112
+Fold 4
+Training time: 1.8276
+Fold 5
+Training time: 1.9108
+Fold 6
+Training time: 1.9186
+
+
+
+Parameters (28RASQWY9J) 235/486  -  2021-08-10 19:52:29
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.9792
+Fold 2
+Training time: 1.9690
+Fold 3
+Training time: 1.9515
+Fold 4
+Training time: 1.8646
+Fold 5
+Training time: 2.0278
+Fold 6
+Training time: 2.0029
+
+
+
+Parameters (7B7REXUEZS) 236/486  -  2021-08-10 19:52:41
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6579
+Fold 2
+Training time: 0.6713
+Fold 3
+Training time: 0.6302
+Fold 4
+Training time: 0.6126
+Fold 5
+Training time: 0.6589
+Fold 6
+Training time: 0.6901
+
+
+
+Parameters (D6SFYFGTGC) 237/486  -  2021-08-10 19:52:46
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6904
+Fold 2
+Training time: 1.7227
+Fold 3
+Training time: 1.6935
+Fold 4
+Training time: 1.6849
+Fold 5
+Training time: 1.7313
+Fold 6
+Training time: 1.7307
+
+
+
+Parameters (0XCT6KSN5Y) 238/486  -  2021-08-10 19:52:56
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.8675
+Fold 2
+Training time: 1.9125
+Fold 3
+Training time: 1.8591
+Fold 4
+Training time: 1.8272
+Fold 5
+Training time: 1.9225
+Fold 6
+Training time: 1.9328
+
+
+
+Parameters (4W5U55L36X) 239/486  -  2021-08-10 19:53:08
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.4901
+Fold 2
+Training time: 0.5367
+Fold 3
+Training time: 0.4897
+Fold 4
+Training time: 0.4794
+Fold 5
+Training time: 0.5518
+Fold 6
+Training time: 0.5119
+
+
+
+Parameters (U8ZX1AVUJE) 240/486  -  2021-08-10 19:53:11
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6926
+Fold 2
+Training time: 0.6542
+Fold 3
+Training time: 0.6767
+Fold 4
+Training time: 0.6345
+Fold 5
+Training time: 0.6811
+Fold 6
+Training time: 0.6639
+
+
+
+Parameters (0ZYREAK6L8) 241/486  -  2021-08-10 19:53:16
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6026
+Fold 2
+Training time: 0.6338
+Fold 3
+Training time: 0.6105
+Fold 4
+Training time: 0.6078
+Fold 5
+Training time: 0.6071
+Fold 6
+Training time: 0.6330
+
+
+
+Parameters (64WYAEZMEZ) 242/486  -  2021-08-10 19:53:20
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6726
+Fold 2
+Training time: 0.6879
+Fold 3
+Training time: 0.6695
+Fold 4
+Training time: 0.6856
+Fold 5
+Training time: 0.6612
+Fold 6
+Training time: 0.6666
+
+
+
+Parameters (4UDBZYB81P) 243/486  -  2021-08-10 19:53:24
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.2923
+Fold 2
+Training time: 1.3555
+Fold 3
+Training time: 1.3494
+Fold 4
+Training time: 1.2576
+Fold 5
+Training time: 1.2945
+Fold 6
+Training time: 1.5504
+
+
+
+Parameters (OXNFD42VGY) 244/486  -  2021-08-10 19:53:33
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8622
+Fold 2
+Training time: 0.8208
+Fold 3
+Training time: 0.8737
+Fold 4
+Training time: 0.8014
+Fold 5
+Training time: 0.8454
+Fold 6
+Training time: 0.8391
+
+
+
+Parameters (PO00E4RMI5) 245/486  -  2021-08-10 19:53:38
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6287
+Fold 2
+Training time: 1.6467
+Fold 3
+Training time: 1.5682
+Fold 4
+Training time: 1.5511
+Fold 5
+Training time: 1.5798
+Fold 6
+Training time: 1.6609
+
+
+
+Parameters (TKGT489PGL) 246/486  -  2021-08-10 19:53:48
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.4951
+Fold 2
+Training time: 0.5628
+Fold 3
+Training time: 0.4813
+Fold 4
+Training time: 0.4738
+Fold 5
+Training time: 0.5293
+Fold 6
+Training time: 0.5021
+
+
+
+Parameters (TPHPAHZ0H5) 247/486  -  2021-08-10 19:53:52
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6628
+Fold 2
+Training time: 0.6917
+Fold 3
+Training time: 0.6515
+Fold 4
+Training time: 0.6687
+Fold 5
+Training time: 0.6593
+Fold 6
+Training time: 0.7046
+
+
+
+Parameters (8U5QFW6KGN) 248/486  -  2021-08-10 19:53:56
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6524
+Fold 2
+Training time: 0.6795
+Fold 3
+Training time: 0.6963
+Fold 4
+Training time: 0.6384
+Fold 5
+Training time: 0.6491
+Fold 6
+Training time: 0.6879
+
+
+
+Parameters (0V30852F7H) 249/486  -  2021-08-10 19:54:00
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0215
+Fold 2
+Training time: 1.0305
+Fold 3
+Training time: 1.0451
+Fold 4
+Training time: 0.9615
+Fold 5
+Training time: 1.0215
+Fold 6
+Training time: 1.0379
+
+
+
+Parameters (S8NHH14PG6) 250/486  -  2021-08-10 19:54:07
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.3610
+Fold 2
+Training time: 1.3377
+Fold 3
+Training time: 1.2654
+Fold 4
+Training time: 1.2501
+Fold 5
+Training time: 1.3183
+Fold 6
+Training time: 1.3733
+
+
+
+Parameters (CASF2ZXCY3) 251/486  -  2021-08-10 19:54:15
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6649
+Fold 2
+Training time: 0.6981
+Fold 3
+Training time: 0.6793
+Fold 4
+Training time: 0.6301
+Fold 5
+Training time: 0.6710
+Fold 6
+Training time: 0.7062
+
+
+
+Parameters (XPD9UF9JRD) 252/486  -  2021-08-10 19:54:19
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.4035
+Fold 2
+Training time: 1.3888
+Fold 3
+Training time: 1.3969
+Fold 4
+Training time: 1.3494
+Fold 5
+Training time: 1.3573
+Fold 6
+Training time: 1.3912
+
+
+
+Parameters (GHN25Q6GCQ) 253/486  -  2021-08-10 19:54:28
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8633
+Fold 2
+Training time: 0.8395
+Fold 3
+Training time: 0.8515
+Fold 4
+Training time: 0.8197
+Fold 5
+Training time: 0.8200
+Fold 6
+Training time: 0.8666
+
+
+
+Parameters (ZBBTCSOD02) 254/486  -  2021-08-10 19:54:34
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8647
+Fold 2
+Training time: 0.8661
+Fold 3
+Training time: 0.8515
+Fold 4
+Training time: 0.8038
+Fold 5
+Training time: 0.8659
+Fold 6
+Training time: 0.8790
+
+
+
+Parameters (MIJEN8TOX3) 255/486  -  2021-08-10 19:54:39
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.9938
+Fold 2
+Training time: 1.0111
+Fold 3
+Training time: 1.0072
+Fold 4
+Training time: 1.0073
+Fold 5
+Training time: 1.0059
+Fold 6
+Training time: 1.0246
+
+
+
+Parameters (HMLD6S62WI) 256/486  -  2021-08-10 19:54:45
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8774
+Fold 2
+Training time: 0.8629
+Fold 3
+Training time: 0.8390
+Fold 4
+Training time: 0.8216
+Fold 5
+Training time: 0.8525
+Fold 6
+Training time: 0.9155
+
+
+
+Parameters (MRHBYEMOGI) 257/486  -  2021-08-10 19:54:51
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.8578
+Fold 2
+Training time: 1.9050
+Fold 3
+Training time: 1.7983
+Fold 4
+Training time: 1.7741
+Fold 5
+Training time: 1.7924
+Fold 6
+Training time: 1.9107
+
+
+
+Parameters (857JGPBYPM) 258/486  -  2021-08-10 19:55:02
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1000
+Fold 2
+Training time: 1.1214
+Fold 3
+Training time: 1.1421
+Fold 4
+Training time: 1.0513
+Fold 5
+Training time: 1.1306
+Fold 6
+Training time: 1.1505
+
+
+
+Parameters (79R00YM5WA) 259/486  -  2021-08-10 19:55:09
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.9107
+Fold 2
+Training time: 0.8722
+Fold 3
+Training time: 0.9240
+Fold 4
+Training time: 0.8232
+Fold 5
+Training time: 0.9125
+Fold 6
+Training time: 0.8898
+
+
+
+Parameters (QJRU8A1GMT) 260/486  -  2021-08-10 19:55:15
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9945
+Fold 2
+Training time: 1.0147
+Fold 3
+Training time: 1.0203
+Fold 4
+Training time: 0.9408
+Fold 5
+Training time: 1.0267
+Fold 6
+Training time: 1.0210
+
+
+
+Parameters (1O68ES8TW4) 261/486  -  2021-08-10 19:55:22
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7951
+Fold 2
+Training time: 0.8113
+Fold 3
+Training time: 0.7522
+Fold 4
+Training time: 0.7796
+Fold 5
+Training time: 0.7602
+Fold 6
+Training time: 0.8057
+
+
+
+Parameters (1BXENYY9TB) 262/486  -  2021-08-10 19:55:27
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1335
+Fold 2
+Training time: 1.0947
+Fold 3
+Training time: 1.1338
+Fold 4
+Training time: 1.0499
+Fold 5
+Training time: 1.1335
+Fold 6
+Training time: 1.1465
+
+
+
+Parameters (4BURGDCVWH) 263/486  -  2021-08-10 19:55:34
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.1935
+Fold 2
+Training time: 1.1970
+Fold 3
+Training time: 1.2077
+Fold 4
+Training time: 1.1587
+Fold 5
+Training time: 1.1987
+Fold 6
+Training time: 1.2086
+
+
+
+Parameters (NI7ESWIJF2) 264/486  -  2021-08-10 19:55:41
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.8528
+Fold 2
+Training time: 1.8637
+Fold 3
+Training time: 1.8148
+Fold 4
+Training time: 1.7343
+Fold 5
+Training time: 1.7064
+Fold 6
+Training time: 1.9356
+
+
+
+Parameters (N7JT21AOCL) 265/486  -  2021-08-10 19:55:53
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8158
+Fold 2
+Training time: 0.8335
+Fold 3
+Training time: 0.8086
+Fold 4
+Training time: 0.7600
+Fold 5
+Training time: 0.7815
+Fold 6
+Training time: 0.9057
+
+
+
+Parameters (59D0J5KZ88) 266/486  -  2021-08-10 19:55:58
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.9323
+Fold 2
+Training time: 0.8934
+Fold 3
+Training time: 0.9149
+Fold 4
+Training time: 0.8357
+Fold 5
+Training time: 0.9082
+Fold 6
+Training time: 0.9205
+
+
+
+Parameters (KLOH1OU0A4) 267/486  -  2021-08-10 19:56:04
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2292
+Fold 2
+Training time: 1.2066
+Fold 3
+Training time: 1.2299
+Fold 4
+Training time: 1.1906
+Fold 5
+Training time: 1.2602
+Fold 6
+Training time: 1.2581
+
+
+
+Parameters (Y46HXNK968) 268/486  -  2021-08-10 19:56:11
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7804
+Fold 2
+Training time: 0.7982
+Fold 3
+Training time: 0.7420
+Fold 4
+Training time: 0.7828
+Fold 5
+Training time: 0.7854
+Fold 6
+Training time: 0.8333
+
+
+
+Parameters (JO6L81IZ7D) 269/486  -  2021-08-10 19:56:16
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6031
+Fold 2
+Training time: 0.6256
+Fold 3
+Training time: 0.5942
+Fold 4
+Training time: 0.6076
+Fold 5
+Training time: 0.5965
+Fold 6
+Training time: 0.6085
+
+
+
+Parameters (4C537NDDWG) 270/486  -  2021-08-10 19:56:20
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.4560
+Fold 2
+Training time: 1.3897
+Fold 3
+Training time: 1.2062
+Fold 4
+Training time: 1.1883
+Fold 5
+Training time: 1.2353
+Fold 6
+Training time: 1.2529
+
+
+
+Parameters (ZNJRI2LFCO) 271/486  -  2021-08-10 19:56:29
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6693
+Fold 2
+Training time: 1.6977
+Fold 3
+Training time: 1.6864
+Fold 4
+Training time: 1.5682
+Fold 5
+Training time: 1.6842
+Fold 6
+Training time: 1.7137
+
+
+
+Parameters (1ED52RFB1I) 272/486  -  2021-08-10 19:56:39
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6918
+Fold 2
+Training time: 0.6417
+Fold 3
+Training time: 0.6565
+Fold 4
+Training time: 0.5974
+Fold 5
+Training time: 0.6939
+Fold 6
+Training time: 0.6566
+
+
+
+Parameters (RFSBVOC78N) 273/486  -  2021-08-10 19:56:43
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6712
+Fold 2
+Training time: 0.7031
+Fold 3
+Training time: 0.6683
+Fold 4
+Training time: 0.6746
+Fold 5
+Training time: 0.6666
+Fold 6
+Training time: 0.7091
+
+
+
+Parameters (9T1HZLAKXC) 274/486  -  2021-08-10 19:56:48
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0259
+Fold 2
+Training time: 0.9715
+Fold 3
+Training time: 0.9911
+Fold 4
+Training time: 0.9404
+Fold 5
+Training time: 0.9906
+Fold 6
+Training time: 1.0188
+
+
+
+Parameters (7THVPLIWSC) 275/486  -  2021-08-10 19:56:54
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8763
+Fold 2
+Training time: 0.9029
+Fold 3
+Training time: 0.9189
+Fold 4
+Training time: 0.8577
+Fold 5
+Training time: 0.9143
+Fold 6
+Training time: 0.9159
+
+
+
+Parameters (7O85N2EVQ7) 276/486  -  2021-08-10 19:57:00
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9582
+Fold 2
+Training time: 0.9915
+Fold 3
+Training time: 0.9697
+Fold 4
+Training time: 0.8967
+Fold 5
+Training time: 0.9444
+Fold 6
+Training time: 0.9548
+
+
+
+Parameters (XLQ2EMZV97) 277/486  -  2021-08-10 19:57:06
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5456
+Fold 2
+Training time: 0.5229
+Fold 3
+Training time: 0.5152
+Fold 4
+Training time: 0.4907
+Fold 5
+Training time: 0.5167
+Fold 6
+Training time: 0.5797
+
+
+
+Parameters (B6X49A184I) 278/486  -  2021-08-10 19:57:09
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7704
+Fold 2
+Training time: 0.8004
+Fold 3
+Training time: 0.7962
+Fold 4
+Training time: 0.7726
+Fold 5
+Training time: 0.7855
+Fold 6
+Training time: 0.8256
+
+
+
+Parameters (K7WNGQFH85) 279/486  -  2021-08-10 19:57:14
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.4546
+Fold 2
+Training time: 1.4564
+Fold 3
+Training time: 1.4084
+Fold 4
+Training time: 1.3860
+Fold 5
+Training time: 1.4761
+Fold 6
+Training time: 1.4580
+
+
+
+Parameters (YL2EDLCB2W) 280/486  -  2021-08-10 19:57:23
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2194
+Fold 2
+Training time: 1.1744
+Fold 3
+Training time: 1.1946
+Fold 4
+Training time: 1.1568
+Fold 5
+Training time: 1.2199
+Fold 6
+Training time: 1.2210
+
+
+
+Parameters (4IQCVLEL45) 281/486  -  2021-08-10 19:57:31
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6004
+Fold 2
+Training time: 0.6166
+Fold 3
+Training time: 0.7831
+Fold 4
+Training time: 0.5791
+Fold 5
+Training time: 0.6189
+Fold 6
+Training time: 0.6075
+
+
+
+Parameters (GATVAN22H5) 282/486  -  2021-08-10 19:57:35
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1193
+Fold 2
+Training time: 1.0938
+Fold 3
+Training time: 1.0798
+Fold 4
+Training time: 1.0043
+Fold 5
+Training time: 1.1204
+Fold 6
+Training time: 1.1393
+
+
+
+Parameters (GXLG9JK4R1) 283/486  -  2021-08-10 19:57:42
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.2200
+Fold 2
+Training time: 1.2858
+Fold 3
+Training time: 1.3121
+Fold 4
+Training time: 1.2220
+Fold 5
+Training time: 1.3115
+Fold 6
+Training time: 1.3409
+
+
+
+Parameters (CZCADL8R7P) 284/486  -  2021-08-10 19:57:50
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6571
+Fold 2
+Training time: 0.6875
+Fold 3
+Training time: 0.6628
+Fold 4
+Training time: 0.6447
+Fold 5
+Training time: 0.6524
+Fold 6
+Training time: 0.6912
+
+
+
+Parameters (RV91PR6RJ3) 285/486  -  2021-08-10 19:57:54
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6349
+Fold 2
+Training time: 1.6311
+Fold 3
+Training time: 1.5393
+Fold 4
+Training time: 1.5618
+Fold 5
+Training time: 1.5847
+Fold 6
+Training time: 1.6503
+
+
+
+Parameters (K8YQJ37SAR) 286/486  -  2021-08-10 19:58:04
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.9318
+Fold 2
+Training time: 1.9580
+Fold 3
+Training time: 1.9380
+Fold 4
+Training time: 1.9059
+Fold 5
+Training time: 1.9335
+Fold 6
+Training time: 1.9609
+
+
+
+Parameters (1YG22FC8S9) 287/486  -  2021-08-10 19:58:16
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8632
+Fold 2
+Training time: 0.9014
+Fold 3
+Training time: 0.9040
+Fold 4
+Training time: 0.8296
+Fold 5
+Training time: 0.8850
+Fold 6
+Training time: 0.8744
+
+
+
+Parameters (44OIZ36SEG) 288/486  -  2021-08-10 19:58:22
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9804
+Fold 2
+Training time: 0.9766
+Fold 3
+Training time: 0.9305
+Fold 4
+Training time: 0.9150
+Fold 5
+Training time: 0.9443
+Fold 6
+Training time: 0.9877
+
+
+
+Parameters (YGDRIV6BFF) 289/486  -  2021-08-10 19:58:28
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2031
+Fold 2
+Training time: 1.1940
+Fold 3
+Training time: 1.1785
+Fold 4
+Training time: 1.1394
+Fold 5
+Training time: 1.2110
+Fold 6
+Training time: 1.2226
+
+
+
+Parameters (TIZ35DO411) 290/486  -  2021-08-10 19:58:36
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6517
+Fold 2
+Training time: 1.5714
+Fold 3
+Training time: 1.5427
+Fold 4
+Training time: 1.5693
+Fold 5
+Training time: 1.5653
+Fold 6
+Training time: 1.6759
+
+
+
+Parameters (G7ZALP2KR6) 291/486  -  2021-08-10 19:58:46
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2826
+Fold 2
+Training time: 1.4109
+Fold 3
+Training time: 1.3928
+Fold 4
+Training time: 1.2855
+Fold 5
+Training time: 1.3614
+Fold 6
+Training time: 1.4300
+
+
+
+Parameters (8G37LEDB4L) 292/486  -  2021-08-10 19:58:54
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.2383
+Fold 2
+Training time: 1.2203
+Fold 3
+Training time: 1.2035
+Fold 4
+Training time: 1.1922
+Fold 5
+Training time: 1.2488
+Fold 6
+Training time: 1.2338
+
+
+
+Parameters (92CYH4NH7K) 293/486  -  2021-08-10 19:59:02
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7631
+Fold 2
+Training time: 0.7981
+Fold 3
+Training time: 0.7529
+Fold 4
+Training time: 0.7598
+Fold 5
+Training time: 0.7869
+Fold 6
+Training time: 0.7907
+
+
+
+Parameters (5LH9UZ4LTP) 294/486  -  2021-08-10 19:59:07
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6912
+Fold 2
+Training time: 0.6421
+Fold 3
+Training time: 0.6337
+Fold 4
+Training time: 0.6258
+Fold 5
+Training time: 0.6704
+Fold 6
+Training time: 0.7034
+
+
+
+Parameters (2T50FP3EIG) 295/486  -  2021-08-10 19:59:11
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.4646
+Fold 2
+Training time: 1.4288
+Fold 3
+Training time: 1.4101
+Fold 4
+Training time: 1.3818
+Fold 5
+Training time: 1.4557
+Fold 6
+Training time: 1.4645
+
+
+
+Parameters (3MDJHJFPPK) 296/486  -  2021-08-10 19:59:20
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8771
+Fold 2
+Training time: 0.9001
+Fold 3
+Training time: 0.9148
+Fold 4
+Training time: 0.8261
+Fold 5
+Training time: 0.9045
+Fold 6
+Training time: 0.8820
+
+
+
+Parameters (LFU88J6SJL) 297/486  -  2021-08-10 19:59:26
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7924
+Fold 2
+Training time: 0.7741
+Fold 3
+Training time: 0.7802
+Fold 4
+Training time: 0.7346
+Fold 5
+Training time: 0.7964
+Fold 6
+Training time: 0.8280
+
+
+
+Parameters (2W52X65EUS) 298/486  -  2021-08-10 19:59:31
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8841
+Fold 2
+Training time: 1.1019
+Fold 3
+Training time: 0.8914
+Fold 4
+Training time: 0.8153
+Fold 5
+Training time: 0.9065
+Fold 6
+Training time: 0.8851
+
+
+
+Parameters (LXQLM745UR) 299/486  -  2021-08-10 19:59:37
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1354
+Fold 2
+Training time: 1.0960
+Fold 3
+Training time: 1.0868
+Fold 4
+Training time: 0.9631
+Fold 5
+Training time: 1.0924
+Fold 6
+Training time: 1.1487
+
+
+
+Parameters (0UR39D9AIB) 300/486  -  2021-08-10 19:59:43
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.4163
+Fold 2
+Training time: 1.4324
+Fold 3
+Training time: 1.3776
+Fold 4
+Training time: 1.3328
+Fold 5
+Training time: 1.4458
+Fold 6
+Training time: 1.4131
+
+
+
+Parameters (WDYQ2PL1HO) 301/486  -  2021-08-10 19:59:52
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5229
+Fold 2
+Training time: 0.5257
+Fold 3
+Training time: 0.4725
+Fold 4
+Training time: 0.5049
+Fold 5
+Training time: 0.5028
+Fold 6
+Training time: 0.5423
+
+
+
+Parameters (F7TQUZ0GHH) 302/486  -  2021-08-10 19:59:56
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3694
+Fold 2
+Training time: 1.4162
+Fold 3
+Training time: 1.3922
+Fold 4
+Training time: 1.3866
+Fold 5
+Training time: 1.5032
+Fold 6
+Training time: 1.3691
+
+
+
+Parameters (CTGCWKHDGT) 303/486  -  2021-08-10 20:00:04
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1663
+Fold 2
+Training time: 1.1830
+Fold 3
+Training time: 1.2175
+Fold 4
+Training time: 1.1360
+Fold 5
+Training time: 1.2231
+Fold 6
+Training time: 1.1876
+
+
+
+Parameters (ZC5VLV0TCH) 304/486  -  2021-08-10 20:00:12
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6018
+Fold 2
+Training time: 1.5741
+Fold 3
+Training time: 1.5606
+Fold 4
+Training time: 1.4500
+Fold 5
+Training time: 1.5903
+Fold 6
+Training time: 1.6329
+
+
+
+Parameters (KS4RS9T2N9) 305/486  -  2021-08-10 20:00:22
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1418
+Fold 2
+Training time: 1.1011
+Fold 3
+Training time: 1.0598
+Fold 4
+Training time: 0.9835
+Fold 5
+Training time: 1.0747
+Fold 6
+Training time: 1.1408
+
+
+
+Parameters (H1HH72M4PN) 306/486  -  2021-08-10 20:00:29
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8333
+Fold 2
+Training time: 0.8583
+Fold 3
+Training time: 0.8282
+Fold 4
+Training time: 0.8271
+Fold 5
+Training time: 0.8749
+Fold 6
+Training time: 0.8565
+
+
+
+Parameters (4J7ZQEUQ5K) 307/486  -  2021-08-10 20:00:34
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5484
+Fold 2
+Training time: 0.5190
+Fold 3
+Training time: 0.5158
+Fold 4
+Training time: 0.5218
+Fold 5
+Training time: 0.5186
+Fold 6
+Training time: 0.5205
+
+
+
+Parameters (7IZ5B0XWMN) 308/486  -  2021-08-10 20:00:37
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.7023
+Fold 2
+Training time: 0.6693
+Fold 3
+Training time: 0.7069
+Fold 4
+Training time: 0.6400
+Fold 5
+Training time: 0.6965
+Fold 6
+Training time: 0.6707
+
+
+
+Parameters (SPCA2WVXN5) 309/486  -  2021-08-10 20:00:42
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.3804
+Fold 2
+Training time: 1.4047
+Fold 3
+Training time: 1.3448
+Fold 4
+Training time: 1.3265
+Fold 5
+Training time: 1.3431
+Fold 6
+Training time: 1.4063
+
+
+
+Parameters (CJXNW6QWCQ) 310/486  -  2021-08-10 20:00:50
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.1972
+Fold 2
+Training time: 1.1574
+Fold 3
+Training time: 1.2012
+Fold 4
+Training time: 1.1649
+Fold 5
+Training time: 1.1986
+Fold 6
+Training time: 1.2763
+
+
+
+Parameters (OBHVMJ2KAU) 311/486  -  2021-08-10 20:00:58
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8837
+Fold 2
+Training time: 0.9204
+Fold 3
+Training time: 0.8778
+Fold 4
+Training time: 0.8648
+Fold 5
+Training time: 0.8906
+Fold 6
+Training time: 0.8814
+
+
+
+Parameters (WJ398W6D6F) 312/486  -  2021-08-10 20:01:04
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0039
+Fold 2
+Training time: 0.9927
+Fold 3
+Training time: 0.9598
+Fold 4
+Training time: 0.9155
+Fold 5
+Training time: 0.9599
+Fold 6
+Training time: 1.0171
+
+
+
+Parameters (8ZUV3PKV8Y) 313/486  -  2021-08-10 20:01:10
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8485
+Fold 2
+Training time: 0.8098
+Fold 3
+Training time: 0.8248
+Fold 4
+Training time: 0.7658
+Fold 5
+Training time: 0.8561
+Fold 6
+Training time: 0.8364
+
+
+
+Parameters (U65VXSJCCD) 314/486  -  2021-08-10 20:01:15
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.8466
+Fold 2
+Training time: 1.8740
+Fold 3
+Training time: 1.8343
+Fold 4
+Training time: 1.9832
+Fold 5
+Training time: 1.7439
+Fold 6
+Training time: 1.9230
+
+
+
+Parameters (LCWL860SPE) 315/486  -  2021-08-10 20:01:27
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2589
+Fold 2
+Training time: 1.1946
+Fold 3
+Training time: 1.2019
+Fold 4
+Training time: 1.1672
+Fold 5
+Training time: 1.4056
+Fold 6
+Training time: 1.2520
+
+
+
+Parameters (RYN5EH86JL) 316/486  -  2021-08-10 20:01:35
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5171
+Fold 2
+Training time: 0.5512
+Fold 3
+Training time: 0.5157
+Fold 4
+Training time: 0.5340
+Fold 5
+Training time: 0.5165
+Fold 6
+Training time: 0.5229
+
+
+
+Parameters (JKCJRCHC5H) 317/486  -  2021-08-10 20:01:38
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5028
+Fold 2
+Training time: 0.5150
+Fold 3
+Training time: 0.4767
+Fold 4
+Training time: 0.5018
+Fold 5
+Training time: 0.5050
+Fold 6
+Training time: 0.5082
+
+
+
+Parameters (8URQID6P3Q) 318/486  -  2021-08-10 20:01:42
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5439
+Fold 2
+Training time: 0.5288
+Fold 3
+Training time: 0.5537
+Fold 4
+Training time: 0.5066
+Fold 5
+Training time: 0.5179
+Fold 6
+Training time: 0.5586
+
+
+
+Parameters (QTGLGEGEFE) 319/486  -  2021-08-10 20:01:45
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6515
+Fold 2
+Training time: 0.6838
+Fold 3
+Training time: 0.6638
+Fold 4
+Training time: 0.6314
+Fold 5
+Training time: 0.6486
+Fold 6
+Training time: 0.6722
+
+
+
+Parameters (P33PBKF0VP) 320/486  -  2021-08-10 20:01:49
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9850
+Fold 2
+Training time: 0.9980
+Fold 3
+Training time: 1.0282
+Fold 4
+Training time: 0.9192
+Fold 5
+Training time: 0.9788
+Fold 6
+Training time: 1.0122
+
+
+
+Parameters (UT8EX6A2S6) 321/486  -  2021-08-10 20:01:56
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.9941
+Fold 2
+Training time: 1.0417
+Fold 3
+Training time: 1.0114
+Fold 4
+Training time: 0.9254
+Fold 5
+Training time: 1.0074
+Fold 6
+Training time: 0.9975
+
+
+
+Parameters (ECSZNQLA32) 322/486  -  2021-08-10 20:02:02
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.4929
+Fold 2
+Training time: 0.5223
+Fold 3
+Training time: 0.5404
+Fold 4
+Training time: 0.4685
+Fold 5
+Training time: 0.5112
+Fold 6
+Training time: 0.5377
+
+
+
+Parameters (D8Y4KJ7UMO) 323/486  -  2021-08-10 20:02:05
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0230
+Fold 2
+Training time: 0.9837
+Fold 3
+Training time: 1.0166
+Fold 4
+Training time: 1.0131
+Fold 5
+Training time: 0.9919
+Fold 6
+Training time: 1.0130
+
+
+
+Parameters (DG21MIZMNG) 324/486  -  2021-08-10 20:02:12
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3822
+Fold 2
+Training time: 1.4231
+Fold 3
+Training time: 1.4420
+Fold 4
+Training time: 1.3874
+Fold 5
+Training time: 1.4782
+Fold 6
+Training time: 1.4226
+
+
+
+Parameters (9RQ6SC1HMR) 325/486  -  2021-08-10 20:02:21
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6769
+Fold 2
+Training time: 0.6903
+Fold 3
+Training time: 0.6591
+Fold 4
+Training time: 0.6552
+Fold 5
+Training time: 0.6721
+Fold 6
+Training time: 0.6626
+
+
+
+Parameters (6A15UBI7SA) 326/486  -  2021-08-10 20:02:25
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6200
+Fold 2
+Training time: 0.5990
+Fold 3
+Training time: 0.5923
+Fold 4
+Training time: 0.5513
+Fold 5
+Training time: 0.6373
+Fold 6
+Training time: 0.5891
+
+
+
+Parameters (NCAOB1MP4N) 327/486  -  2021-08-10 20:02:29
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.9067
+Fold 2
+Training time: 0.8775
+Fold 3
+Training time: 0.9174
+Fold 4
+Training time: 0.8204
+Fold 5
+Training time: 0.9040
+Fold 6
+Training time: 0.9122
+
+
+
+Parameters (7HYN7VS542) 328/486  -  2021-08-10 20:02:35
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6555
+Fold 2
+Training time: 0.6828
+Fold 3
+Training time: 0.6512
+Fold 4
+Training time: 0.6030
+Fold 5
+Training time: 0.6777
+Fold 6
+Training time: 0.6561
+
+
+
+Parameters (OCGWALX50M) 329/486  -  2021-08-10 20:02:39
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1219
+Fold 2
+Training time: 1.1137
+Fold 3
+Training time: 1.0756
+Fold 4
+Training time: 0.9991
+Fold 5
+Training time: 1.1017
+Fold 6
+Training time: 1.1460
+
+
+
+Parameters (WE62LYNZJY) 330/486  -  2021-08-10 20:02:46
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0304
+Fold 2
+Training time: 0.9826
+Fold 3
+Training time: 1.0462
+Fold 4
+Training time: 0.9534
+Fold 5
+Training time: 0.9993
+Fold 6
+Training time: 1.0400
+
+
+
+Parameters (00CZ0QL41B) 331/486  -  2021-08-10 20:02:52
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8595
+Fold 2
+Training time: 0.8217
+Fold 3
+Training time: 0.8503
+Fold 4
+Training time: 0.7332
+Fold 5
+Training time: 0.8043
+Fold 6
+Training time: 0.7951
+
+
+
+Parameters (XX21JRGZMT) 332/486  -  2021-08-10 20:02:58
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0422
+Fold 2
+Training time: 1.0112
+Fold 3
+Training time: 0.9616
+Fold 4
+Training time: 0.9632
+Fold 5
+Training time: 1.0057
+Fold 6
+Training time: 0.9918
+
+
+
+Parameters (KMUW5R7GQ5) 333/486  -  2021-08-10 20:03:04
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6181
+Fold 2
+Training time: 0.6102
+Fold 3
+Training time: 0.6139
+Fold 4
+Training time: 0.5685
+Fold 5
+Training time: 0.6045
+Fold 6
+Training time: 0.6315
+
+
+
+Parameters (AS8Q19OQV1) 334/486  -  2021-08-10 20:03:08
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.9262
+Fold 2
+Training time: 1.9063
+Fold 3
+Training time: 1.8891
+Fold 4
+Training time: 1.8465
+Fold 5
+Training time: 1.8888
+Fold 6
+Training time: 1.9339
+
+
+
+Parameters (OCYD230P6J) 335/486  -  2021-08-10 20:03:20
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6418
+Fold 2
+Training time: 0.6022
+Fold 3
+Training time: 0.6273
+Fold 4
+Training time: 0.5862
+Fold 5
+Training time: 0.6317
+Fold 6
+Training time: 0.6151
+
+
+
+Parameters (8R57LJ0JID) 336/486  -  2021-08-10 20:03:24
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.8146
+Fold 2
+Training time: 0.8001
+Fold 3
+Training time: 0.8363
+Fold 4
+Training time: 0.8222
+Fold 5
+Training time: 0.8632
+Fold 6
+Training time: 0.8001
+
+
+
+Parameters (K9V6S1FXFP) 337/486  -  2021-08-10 20:03:29
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.7492
+Fold 2
+Training time: 1.9395
+Fold 3
+Training time: 1.6949
+Fold 4
+Training time: 1.6745
+Fold 5
+Training time: 1.7272
+Fold 6
+Training time: 1.7265
+
+
+
+Parameters (SAP97LVMBF) 338/486  -  2021-08-10 20:03:40
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.3724
+Fold 2
+Training time: 1.3531
+Fold 3
+Training time: 1.4109
+Fold 4
+Training time: 1.3033
+Fold 5
+Training time: 1.3457
+Fold 6
+Training time: 1.3679
+
+
+
+Parameters (M47KZGQH1N) 339/486  -  2021-08-10 20:03:48
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5143
+Fold 2
+Training time: 0.5505
+Fold 3
+Training time: 0.5363
+Fold 4
+Training time: 0.4963
+Fold 5
+Training time: 0.5508
+Fold 6
+Training time: 0.5206
+
+
+
+Parameters (KSZKEV9XUF) 340/486  -  2021-08-10 20:03:52
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5314
+Fold 2
+Training time: 0.5230
+Fold 3
+Training time: 0.4971
+Fold 4
+Training time: 0.5245
+Fold 5
+Training time: 0.5220
+Fold 6
+Training time: 0.5238
+
+
+
+Parameters (B1DBUP2G38) 341/486  -  2021-08-10 20:03:55
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.4390
+Fold 2
+Training time: 1.4746
+Fold 3
+Training time: 1.4218
+Fold 4
+Training time: 1.3852
+Fold 5
+Training time: 1.4318
+Fold 6
+Training time: 1.4444
+
+
+
+Parameters (IWLXEHPPG9) 342/486  -  2021-08-10 20:04:04
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.7233
+Fold 2
+Training time: 1.6437
+Fold 3
+Training time: 1.5990
+Fold 4
+Training time: 1.6546
+Fold 5
+Training time: 1.7120
+Fold 6
+Training time: 1.6750
+
+
+
+Parameters (QAOLLI58Z6) 343/486  -  2021-08-10 20:04:15
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3340
+Fold 2
+Training time: 1.3530
+Fold 3
+Training time: 1.3040
+Fold 4
+Training time: 1.2795
+Fold 5
+Training time: 1.3474
+Fold 6
+Training time: 1.3902
+
+
+
+Parameters (JBUVQMJM2Z) 344/486  -  2021-08-10 20:04:23
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6370
+Fold 2
+Training time: 1.6975
+Fold 3
+Training time: 1.6482
+Fold 4
+Training time: 1.6191
+Fold 5
+Training time: 1.6816
+Fold 6
+Training time: 1.7104
+
+
+
+Parameters (UKCWRGTOBC) 345/486  -  2021-08-10 20:04:33
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7898
+Fold 2
+Training time: 0.8114
+Fold 3
+Training time: 0.7737
+Fold 4
+Training time: 0.7878
+Fold 5
+Training time: 0.7687
+Fold 6
+Training time: 0.8071
+
+
+
+Parameters (0HJWGC376X) 346/486  -  2021-08-10 20:04:38
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.3924
+Fold 2
+Training time: 1.3815
+Fold 3
+Training time: 1.4086
+Fold 4
+Training time: 1.3051
+Fold 5
+Training time: 1.3836
+Fold 6
+Training time: 1.3881
+
+
+
+Parameters (AI3SPXZON3) 347/486  -  2021-08-10 20:04:47
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.9938
+Fold 2
+Training time: 1.0053
+Fold 3
+Training time: 1.0210
+Fold 4
+Training time: 0.9546
+Fold 5
+Training time: 1.0252
+Fold 6
+Training time: 1.0186
+
+
+
+Parameters (4EDI7XTFJG) 348/486  -  2021-08-10 20:04:53
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8343
+Fold 2
+Training time: 0.8629
+Fold 3
+Training time: 0.8413
+Fold 4
+Training time: 0.8218
+Fold 5
+Training time: 0.8839
+Fold 6
+Training time: 0.8575
+
+
+
+Parameters (GSDK4QWNFD) 349/486  -  2021-08-10 20:04:59
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6426
+Fold 2
+Training time: 1.6425
+Fold 3
+Training time: 1.5693
+Fold 4
+Training time: 1.5387
+Fold 5
+Training time: 1.5832
+Fold 6
+Training time: 1.7129
+
+
+
+Parameters (AP905F2W5B) 350/486  -  2021-08-10 20:05:09
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1214
+Fold 2
+Training time: 1.1330
+Fold 3
+Training time: 1.1431
+Fold 4
+Training time: 1.0585
+Fold 5
+Training time: 1.2409
+Fold 6
+Training time: 1.1563
+
+
+
+Parameters (AKVFIE6UOI) 351/486  -  2021-08-10 20:05:16
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0208
+Fold 2
+Training time: 1.0292
+Fold 3
+Training time: 0.9710
+Fold 4
+Training time: 0.9545
+Fold 5
+Training time: 1.0009
+Fold 6
+Training time: 1.0053
+
+
+
+Parameters (R9AFZ05ZE7) 352/486  -  2021-08-10 20:05:22
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6376
+Fold 2
+Training time: 1.6065
+Fold 3
+Training time: 1.5268
+Fold 4
+Training time: 1.4839
+Fold 5
+Training time: 1.5237
+Fold 6
+Training time: 1.6375
+
+
+
+Parameters (8YEYPDZ6HX) 353/486  -  2021-08-10 20:05:32
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9971
+Fold 2
+Training time: 0.8118
+Fold 3
+Training time: 0.8235
+Fold 4
+Training time: 0.7951
+Fold 5
+Training time: 0.7980
+Fold 6
+Training time: 0.8114
+
+
+
+Parameters (PBDZYB3YW2) 354/486  -  2021-08-10 20:05:38
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8371
+Fold 2
+Training time: 0.8360
+Fold 3
+Training time: 0.8703
+Fold 4
+Training time: 0.7954
+Fold 5
+Training time: 0.8629
+Fold 6
+Training time: 0.8368
+
+
+
+Parameters (SBNB3G3RBT) 355/486  -  2021-08-10 20:05:43
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.3815
+Fold 2
+Training time: 1.3468
+Fold 3
+Training time: 1.4075
+Fold 4
+Training time: 1.3002
+Fold 5
+Training time: 1.3329
+Fold 6
+Training time: 1.3695
+
+
+
+Parameters (VYRFASROUR) 356/486  -  2021-08-10 20:05:51
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8781
+Fold 2
+Training time: 0.8921
+Fold 3
+Training time: 0.9605
+Fold 4
+Training time: 0.8433
+Fold 5
+Training time: 0.9210
+Fold 6
+Training time: 0.9235
+
+
+
+Parameters (UATUAR84YR) 357/486  -  2021-08-10 20:05:57
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0123
+Fold 2
+Training time: 1.0145
+Fold 3
+Training time: 1.1662
+Fold 4
+Training time: 0.9250
+Fold 5
+Training time: 1.0078
+Fold 6
+Training time: 1.0351
+
+
+
+Parameters (CUKWTIY1IO) 358/486  -  2021-08-10 20:06:04
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.9849
+Fold 2
+Training time: 1.0012
+Fold 3
+Training time: 1.0014
+Fold 4
+Training time: 0.8902
+Fold 5
+Training time: 0.9987
+Fold 6
+Training time: 1.0121
+
+
+
+Parameters (KLB1MZFUS8) 359/486  -  2021-08-10 20:06:10
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3703
+Fold 2
+Training time: 1.3740
+Fold 3
+Training time: 1.2947
+Fold 4
+Training time: 1.2754
+Fold 5
+Training time: 1.3390
+Fold 6
+Training time: 1.4012
+
+
+
+Parameters (O3IPHIEUVU) 360/486  -  2021-08-10 20:06:18
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.9812
+Fold 2
+Training time: 2.6212
+Fold 3
+Training time: 2.0861
+Fold 4
+Training time: 1.8236
+Fold 5
+Training time: 1.9342
+Fold 6
+Training time: 1.9137
+
+
+
+Parameters (G02AQD21SK) 361/486  -  2021-08-10 20:06:31
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.7113
+Fold 2
+Training time: 0.6729
+Fold 3
+Training time: 0.7013
+Fold 4
+Training time: 0.6177
+Fold 5
+Training time: 0.7008
+Fold 6
+Training time: 0.6572
+
+
+
+Parameters (I60R38WP22) 362/486  -  2021-08-10 20:06:36
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.8121
+Fold 2
+Training time: 0.8028
+Fold 3
+Training time: 0.8210
+Fold 4
+Training time: 0.8025
+Fold 5
+Training time: 0.8133
+Fold 6
+Training time: 0.7870
+
+
+
+Parameters (0DPIBZRPG3) 363/486  -  2021-08-10 20:06:41
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7655
+Fold 2
+Training time: 0.8048
+Fold 3
+Training time: 0.7640
+Fold 4
+Training time: 0.7805
+Fold 5
+Training time: 0.7786
+Fold 6
+Training time: 0.8233
+
+
+
+Parameters (9PX27JSHVW) 364/486  -  2021-08-10 20:06:46
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0002
+Fold 2
+Training time: 1.0436
+Fold 3
+Training time: 1.0179
+Fold 4
+Training time: 0.9988
+Fold 5
+Training time: 0.9920
+Fold 6
+Training time: 1.0478
+
+
+
+Parameters (Z7D8UZZW7B) 365/486  -  2021-08-10 20:06:52
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.4964
+Fold 2
+Training time: 0.5412
+Fold 3
+Training time: 0.4989
+Fold 4
+Training time: 0.4754
+Fold 5
+Training time: 0.5413
+Fold 6
+Training time: 0.5169
+
+
+
+Parameters (LIPQAE1JB5) 366/486  -  2021-08-10 20:06:56
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1278
+Fold 2
+Training time: 1.1862
+Fold 3
+Training time: 1.1713
+Fold 4
+Training time: 1.1323
+Fold 5
+Training time: 1.2026
+Fold 6
+Training time: 1.2065
+
+
+
+Parameters (ECOZP39ZGB) 367/486  -  2021-08-10 20:07:03
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3887
+Fold 2
+Training time: 1.3505
+Fold 3
+Training time: 1.3594
+Fold 4
+Training time: 1.3155
+Fold 5
+Training time: 1.8112
+Fold 6
+Training time: 1.4384
+
+
+
+Parameters (ONWBMV9ANT) 368/486  -  2021-08-10 20:07:12
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6665
+Fold 2
+Training time: 0.6907
+Fold 3
+Training time: 0.6754
+Fold 4
+Training time: 0.6350
+Fold 5
+Training time: 0.6966
+Fold 6
+Training time: 0.6747
+
+
+
+Parameters (25D1OKLQRQ) 369/486  -  2021-08-10 20:07:17
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.3670
+Fold 2
+Training time: 1.3256
+Fold 3
+Training time: 1.2759
+Fold 4
+Training time: 1.2737
+Fold 5
+Training time: 1.3117
+Fold 6
+Training time: 1.3574
+
+
+
+Parameters (OXJ1R9VOW9) 370/486  -  2021-08-10 20:07:25
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.3213
+Fold 2
+Training time: 1.4023
+Fold 3
+Training time: 1.3604
+Fold 4
+Training time: 1.2241
+Fold 5
+Training time: 1.3443
+Fold 6
+Training time: 1.5312
+
+
+
+Parameters (UCGOF9HIFZ) 371/486  -  2021-08-10 20:07:33
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.3115
+Fold 2
+Training time: 1.3467
+Fold 3
+Training time: 1.3507
+Fold 4
+Training time: 1.2278
+Fold 5
+Training time: 1.3439
+Fold 6
+Training time: 1.3360
+
+
+
+Parameters (41HXVI4XLQ) 372/486  -  2021-08-10 20:07:42
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.9839
+Fold 2
+Training time: 1.9828
+Fold 3
+Training time: 1.9352
+Fold 4
+Training time: 1.9087
+Fold 5
+Training time: 2.0021
+Fold 6
+Training time: 1.9920
+
+
+
+Parameters (WA06WPGSJX) 373/486  -  2021-08-10 20:07:54
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6982
+Fold 2
+Training time: 1.7119
+Fold 3
+Training time: 1.6999
+Fold 4
+Training time: 1.6917
+Fold 5
+Training time: 1.7540
+Fold 6
+Training time: 1.7693
+
+
+
+Parameters (KT7L9VHXZH) 374/486  -  2021-08-10 20:08:05
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6615
+Fold 2
+Training time: 1.6162
+Fold 3
+Training time: 1.5805
+Fold 4
+Training time: 1.5206
+Fold 5
+Training time: 1.5600
+Fold 6
+Training time: 1.6802
+
+
+
+Parameters (LMG5YKTB3Q) 375/486  -  2021-08-10 20:08:15
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.2996
+Fold 2
+Training time: 1.3706
+Fold 3
+Training time: 1.3400
+Fold 4
+Training time: 1.3092
+Fold 5
+Training time: 1.3074
+Fold 6
+Training time: 1.3901
+
+
+
+Parameters (GQ3HKQ9AF0) 376/486  -  2021-08-10 20:08:23
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6525
+Fold 2
+Training time: 0.6796
+Fold 3
+Training time: 0.6258
+Fold 4
+Training time: 0.6323
+Fold 5
+Training time: 0.6611
+Fold 6
+Training time: 0.6764
+
+
+
+Parameters (KP08AO7C8R) 377/486  -  2021-08-10 20:08:27
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.4075
+Fold 2
+Training time: 1.3065
+Fold 3
+Training time: 1.3172
+Fold 4
+Training time: 1.2493
+Fold 5
+Training time: 1.3414
+Fold 6
+Training time: 1.3972
+
+
+
+Parameters (S81SGH6FXJ) 378/486  -  2021-08-10 20:08:36
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6350
+Fold 2
+Training time: 1.6586
+Fold 3
+Training time: 1.6676
+Fold 4
+Training time: 1.5851
+Fold 5
+Training time: 1.6366
+Fold 6
+Training time: 1.7186
+
+
+
+Parameters (8551E6HNZE) 379/486  -  2021-08-10 20:08:46
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3954
+Fold 2
+Training time: 1.3240
+Fold 3
+Training time: 1.3644
+Fold 4
+Training time: 1.3382
+Fold 5
+Training time: 1.3889
+Fold 6
+Training time: 1.3627
+
+
+
+Parameters (F7SFJGMYLF) 380/486  -  2021-08-10 20:08:55
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6134
+Fold 2
+Training time: 0.6219
+Fold 3
+Training time: 0.6057
+Fold 4
+Training time: 0.6107
+Fold 5
+Training time: 0.6198
+Fold 6
+Training time: 0.6422
+
+
+
+Parameters (4YPZZCXJKA) 381/486  -  2021-08-10 20:08:59
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9896
+Fold 2
+Training time: 1.0161
+Fold 3
+Training time: 1.0069
+Fold 4
+Training time: 0.9377
+Fold 5
+Training time: 1.0095
+Fold 6
+Training time: 1.0313
+
+
+
+Parameters (9NNFUJ64WN) 382/486  -  2021-08-10 20:09:05
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8727
+Fold 2
+Training time: 0.9001
+Fold 3
+Training time: 0.9204
+Fold 4
+Training time: 0.8228
+Fold 5
+Training time: 0.9187
+Fold 6
+Training time: 0.8830
+
+
+
+Parameters (GEGM4T9ZE9) 383/486  -  2021-08-10 20:09:11
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7899
+Fold 2
+Training time: 0.7930
+Fold 3
+Training time: 0.8054
+Fold 4
+Training time: 0.7514
+Fold 5
+Training time: 0.7786
+Fold 6
+Training time: 0.8202
+
+
+
+Parameters (W1XIEV0MNV) 384/486  -  2021-08-10 20:09:16
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.5990
+Fold 2
+Training time: 0.6312
+Fold 3
+Training time: 0.6132
+Fold 4
+Training time: 0.5799
+Fold 5
+Training time: 0.6385
+Fold 6
+Training time: 0.6145
+
+
+
+Parameters (FUCCZ3AJZJ) 385/486  -  2021-08-10 20:09:20
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0360
+Fold 2
+Training time: 1.0466
+Fold 3
+Training time: 1.0111
+Fold 4
+Training time: 1.0020
+Fold 5
+Training time: 1.0589
+Fold 6
+Training time: 1.0128
+
+
+
+Parameters (MEZKWRR0F7) 386/486  -  2021-08-10 20:09:26
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2566
+Fold 2
+Training time: 1.2298
+Fold 3
+Training time: 1.2239
+Fold 4
+Training time: 1.2057
+Fold 5
+Training time: 1.4064
+Fold 6
+Training time: 1.2327
+
+
+
+Parameters (NDFUHUH0H1) 387/486  -  2021-08-10 20:09:34
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8514
+Fold 2
+Training time: 0.8887
+Fold 3
+Training time: 0.8687
+Fold 4
+Training time: 0.8192
+Fold 5
+Training time: 0.8670
+Fold 6
+Training time: 0.9128
+
+
+
+Parameters (RAPQPJ8FWU) 388/486  -  2021-08-10 20:09:40
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0181
+Fold 2
+Training time: 0.9517
+Fold 3
+Training time: 0.9993
+Fold 4
+Training time: 0.9235
+Fold 5
+Training time: 0.9738
+Fold 6
+Training time: 0.9987
+
+
+
+Parameters (P9SO17GI9I) 389/486  -  2021-08-10 20:09:46
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.3844
+Fold 2
+Training time: 1.3621
+Fold 3
+Training time: 1.3772
+Fold 4
+Training time: 1.3246
+Fold 5
+Training time: 1.3853
+Fold 6
+Training time: 1.4124
+
+
+
+Parameters (OF8SVQ5KJW) 390/486  -  2021-08-10 20:09:54
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6311
+Fold 2
+Training time: 1.6986
+Fold 3
+Training time: 1.6676
+Fold 4
+Training time: 1.5839
+Fold 5
+Training time: 1.6885
+Fold 6
+Training time: 1.7107
+
+
+
+Parameters (3G3IYZMLZX) 391/486  -  2021-08-10 20:10:05
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9783
+Fold 2
+Training time: 0.9863
+Fold 3
+Training time: 0.9391
+Fold 4
+Training time: 0.8993
+Fold 5
+Training time: 1.1080
+Fold 6
+Training time: 1.0159
+
+
+
+Parameters (GYA6IXYS8K) 392/486  -  2021-08-10 20:10:11
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6526
+Fold 2
+Training time: 1.6462
+Fold 3
+Training time: 1.5412
+Fold 4
+Training time: 1.5052
+Fold 5
+Training time: 1.5435
+Fold 6
+Training time: 1.6199
+
+
+
+Parameters (HLFQGTPMQE) 393/486  -  2021-08-10 20:10:21
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.2139
+Fold 2
+Training time: 1.1910
+Fold 3
+Training time: 1.2208
+Fold 4
+Training time: 1.1838
+Fold 5
+Training time: 1.2204
+Fold 6
+Training time: 1.2262
+
+
+
+Parameters (CAWA9U4S2O) 394/486  -  2021-08-10 20:10:29
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2219
+Fold 2
+Training time: 1.2205
+Fold 3
+Training time: 1.2342
+Fold 4
+Training time: 1.1914
+Fold 5
+Training time: 1.2207
+Fold 6
+Training time: 1.2161
+
+
+
+Parameters (2KY9BO8CQ4) 395/486  -  2021-08-10 20:10:36
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1393
+Fold 2
+Training time: 1.1856
+Fold 3
+Training time: 1.1907
+Fold 4
+Training time: 1.1211
+Fold 5
+Training time: 1.1901
+Fold 6
+Training time: 1.2038
+
+
+
+Parameters (KIL7T4QU63) 396/486  -  2021-08-10 20:10:44
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.4849
+Fold 2
+Training time: 1.4302
+Fold 3
+Training time: 1.4297
+Fold 4
+Training time: 1.3886
+Fold 5
+Training time: 1.4430
+Fold 6
+Training time: 1.4737
+
+
+
+Parameters (J1M53X4VAW) 397/486  -  2021-08-10 20:10:53
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1512
+Fold 2
+Training time: 1.1318
+Fold 3
+Training time: 1.1292
+Fold 4
+Training time: 1.1039
+Fold 5
+Training time: 1.1653
+Fold 6
+Training time: 1.1663
+
+
+
+Parameters (6UIZYT7S83) 398/486  -  2021-08-10 20:11:00
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6310
+Fold 2
+Training time: 1.6498
+Fold 3
+Training time: 1.5917
+Fold 4
+Training time: 1.5243
+Fold 5
+Training time: 1.5914
+Fold 6
+Training time: 1.6915
+
+
+
+Parameters (F5AVG65WQR) 399/486  -  2021-08-10 20:11:10
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6150
+Fold 2
+Training time: 1.6137
+Fold 3
+Training time: 1.5353
+Fold 4
+Training time: 1.5141
+Fold 5
+Training time: 1.5953
+Fold 6
+Training time: 1.6953
+
+
+
+Parameters (7MFSK3182S) 400/486  -  2021-08-10 20:11:20
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.8703
+Fold 2
+Training time: 1.6183
+Fold 3
+Training time: 1.6630
+Fold 4
+Training time: 1.5634
+Fold 5
+Training time: 1.6494
+Fold 6
+Training time: 1.6716
+
+
+
+Parameters (5M9JN4S1U8) 401/486  -  2021-08-10 20:11:30
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.9228
+Fold 2
+Training time: 1.0912
+Fold 3
+Training time: 0.8817
+Fold 4
+Training time: 0.8395
+Fold 5
+Training time: 0.8823
+Fold 6
+Training time: 0.9135
+
+
+
+Parameters (4DGGVE6Z6B) 402/486  -  2021-08-10 20:11:36
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6609
+Fold 2
+Training time: 1.6100
+Fold 3
+Training time: 1.5323
+Fold 4
+Training time: 1.4896
+Fold 5
+Training time: 1.5396
+Fold 6
+Training time: 1.6171
+
+
+
+Parameters (5EDASLS3KW) 403/486  -  2021-08-10 20:11:46
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.4916
+Fold 2
+Training time: 0.5464
+Fold 3
+Training time: 0.4794
+Fold 4
+Training time: 0.4828
+Fold 5
+Training time: 0.5304
+Fold 6
+Training time: 0.5044
+
+
+
+Parameters (03OXHALDQO) 404/486  -  2021-08-10 20:11:49
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 2.0398
+Fold 2
+Training time: 1.9479
+Fold 3
+Training time: 1.8795
+Fold 4
+Training time: 1.8241
+Fold 5
+Training time: 1.9416
+Fold 6
+Training time: 1.9610
+
+
+
+Parameters (7IRJ5GVX7T) 405/486  -  2021-08-10 20:12:01
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.8480
+Fold 2
+Training time: 1.8490
+Fold 3
+Training time: 1.9361
+Fold 4
+Training time: 1.7670
+Fold 5
+Training time: 1.9006
+Fold 6
+Training time: 1.8905
+
+
+
+Parameters (5U57C4S2MG) 406/486  -  2021-08-10 20:12:13
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3582
+Fold 2
+Training time: 1.4327
+Fold 3
+Training time: 1.5591
+Fold 4
+Training time: 1.3848
+Fold 5
+Training time: 1.4470
+Fold 6
+Training time: 1.4524
+
+
+
+Parameters (R7I16EZTWV) 407/486  -  2021-08-10 20:12:22
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1974
+Fold 2
+Training time: 1.2065
+Fold 3
+Training time: 1.2014
+Fold 4
+Training time: 1.1885
+Fold 5
+Training time: 1.2285
+Fold 6
+Training time: 1.2412
+
+
+
+Parameters (0TXX2OADAW) 408/486  -  2021-08-10 20:12:30
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1342
+Fold 2
+Training time: 1.0696
+Fold 3
+Training time: 1.0778
+Fold 4
+Training time: 1.0271
+Fold 5
+Training time: 1.1162
+Fold 6
+Training time: 1.1176
+
+
+
+Parameters (YBC16M9WGI) 409/486  -  2021-08-10 20:12:36
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8448
+Fold 2
+Training time: 0.7742
+Fold 3
+Training time: 0.8256
+Fold 4
+Training time: 0.7802
+Fold 5
+Training time: 0.7999
+Fold 6
+Training time: 0.8261
+
+
+
+Parameters (X3BC9VJ77W) 410/486  -  2021-08-10 20:12:42
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.9904
+Fold 2
+Training time: 0.9974
+Fold 3
+Training time: 0.9911
+Fold 4
+Training time: 0.9302
+Fold 5
+Training time: 1.0003
+Fold 6
+Training time: 1.0123
+
+
+
+Parameters (D3ANUWOY8M) 411/486  -  2021-08-10 20:12:48
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6421
+Fold 2
+Training time: 0.6865
+Fold 3
+Training time: 0.6534
+Fold 4
+Training time: 0.6419
+Fold 5
+Training time: 0.6521
+Fold 6
+Training time: 0.6585
+
+
+
+Parameters (AY19K6EGT4) 412/486  -  2021-08-10 20:12:52
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6760
+Fold 2
+Training time: 0.6491
+Fold 3
+Training time: 0.6527
+Fold 4
+Training time: 0.6126
+Fold 5
+Training time: 0.6884
+Fold 6
+Training time: 0.6497
+
+
+
+Parameters (I0LMDN2LG4) 413/486  -  2021-08-10 20:12:57
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5350
+Fold 2
+Training time: 0.5202
+Fold 3
+Training time: 0.5417
+Fold 4
+Training time: 0.5168
+Fold 5
+Training time: 0.5177
+Fold 6
+Training time: 0.5456
+
+
+
+Parameters (AAKOBKUI2M) 414/486  -  2021-08-10 20:13:00
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5005
+Fold 2
+Training time: 0.5221
+Fold 3
+Training time: 0.5102
+Fold 4
+Training time: 0.4818
+Fold 5
+Training time: 0.5207
+Fold 6
+Training time: 0.5381
+
+
+
+Parameters (X6Q0CDITWS) 415/486  -  2021-08-10 20:13:03
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.9998
+Fold 2
+Training time: 0.9895
+Fold 3
+Training time: 1.0289
+Fold 4
+Training time: 0.9551
+Fold 5
+Training time: 1.0177
+Fold 6
+Training time: 1.0478
+
+
+
+Parameters (QJJW5D24XI) 416/486  -  2021-08-10 20:13:10
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.1801
+Fold 2
+Training time: 1.2471
+Fold 3
+Training time: 1.1506
+Fold 4
+Training time: 1.0925
+Fold 5
+Training time: 1.1822
+Fold 6
+Training time: 1.2130
+
+
+
+Parameters (7FV2BDFTK4) 417/486  -  2021-08-10 20:13:17
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.7138
+Fold 2
+Training time: 1.6866
+Fold 3
+Training time: 1.6781
+Fold 4
+Training time: 1.6395
+Fold 5
+Training time: 1.6894
+Fold 6
+Training time: 1.7476
+
+
+
+Parameters (3G8BF4UVNM) 418/486  -  2021-08-10 20:13:28
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1522
+Fold 2
+Training time: 1.1502
+Fold 3
+Training time: 1.1260
+Fold 4
+Training time: 1.2763
+Fold 5
+Training time: 1.0929
+Fold 6
+Training time: 1.1443
+
+
+
+Parameters (J9DPMGHVT0) 419/486  -  2021-08-10 20:13:35
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0920
+Fold 2
+Training time: 1.1537
+Fold 3
+Training time: 1.0463
+Fold 4
+Training time: 1.0651
+Fold 5
+Training time: 1.1024
+Fold 6
+Training time: 1.1474
+
+
+
+Parameters (WXW3QAD1S1) 420/486  -  2021-08-10 20:13:42
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1519
+Fold 2
+Training time: 1.1676
+Fold 3
+Training time: 1.1204
+Fold 4
+Training time: 1.0984
+Fold 5
+Training time: 1.0966
+Fold 6
+Training time: 1.1534
+
+
+
+Parameters (3GL2EZMQRA) 421/486  -  2021-08-10 20:13:49
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.7012
+Fold 2
+Training time: 0.6587
+Fold 3
+Training time: 0.7033
+Fold 4
+Training time: 0.6237
+Fold 5
+Training time: 0.6619
+Fold 6
+Training time: 0.6605
+
+
+
+Parameters (S3AC4OQ5DI) 422/486  -  2021-08-10 20:13:54
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2432
+Fold 2
+Training time: 1.2163
+Fold 3
+Training time: 1.2004
+Fold 4
+Training time: 1.2246
+Fold 5
+Training time: 1.2605
+Fold 6
+Training time: 1.2527
+
+
+
+Parameters (P6HSIDR3ME) 423/486  -  2021-08-10 20:14:01
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.7032
+Fold 2
+Training time: 1.6629
+Fold 3
+Training time: 1.6779
+Fold 4
+Training time: 1.6129
+Fold 5
+Training time: 1.6843
+Fold 6
+Training time: 2.2174
+
+
+
+Parameters (6CPT0PMAGK) 424/486  -  2021-08-10 20:14:12
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0200
+Fold 2
+Training time: 0.9592
+Fold 3
+Training time: 1.0083
+Fold 4
+Training time: 1.0369
+Fold 5
+Training time: 0.9788
+Fold 6
+Training time: 1.0254
+
+
+
+Parameters (8R7PWHCV2S) 425/486  -  2021-08-10 20:14:19
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.9249
+Fold 2
+Training time: 0.8677
+Fold 3
+Training time: 0.9087
+Fold 4
+Training time: 0.8243
+Fold 5
+Training time: 0.8607
+Fold 6
+Training time: 4.0122
+
+
+
+Parameters (QQZPLQP7D3) 426/486  -  2021-08-10 20:14:28
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.3632
+Fold 2
+Training time: 1.3328
+Fold 3
+Training time: 1.3473
+Fold 4
+Training time: 1.2764
+Fold 5
+Training time: 1.3812
+Fold 6
+Training time: 1.5082
+
+
+
+Parameters (OHZ2GE6I81) 427/486  -  2021-08-10 20:14:36
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.7403
+Fold 2
+Training time: 0.6652
+Fold 3
+Training time: 0.7066
+Fold 4
+Training time: 0.6545
+Fold 5
+Training time: 0.7084
+Fold 6
+Training time: 0.7018
+
+
+
+Parameters (CX9JB4W2SJ) 428/486  -  2021-08-10 20:14:41
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5127
+Fold 2
+Training time: 0.5262
+Fold 3
+Training time: 0.5214
+Fold 4
+Training time: 0.5092
+Fold 5
+Training time: 0.5148
+Fold 6
+Training time: 0.5176
+
+
+
+Parameters (5MGNFU1985) 429/486  -  2021-08-10 20:14:44
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6876
+Fold 2
+Training time: 0.6535
+Fold 3
+Training time: 1.2073
+Fold 4
+Training time: 0.6241
+Fold 5
+Training time: 0.6561
+Fold 6
+Training time: 0.6964
+
+
+
+Parameters (XYB3USOLET) 430/486  -  2021-08-10 20:14:49
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8317
+Fold 2
+Training time: 0.8465
+Fold 3
+Training time: 0.8075
+Fold 4
+Training time: 0.8064
+Fold 5
+Training time: 0.8271
+Fold 6
+Training time: 0.8611
+
+
+
+Parameters (G3O6DNAEHQ) 431/486  -  2021-08-10 20:14:55
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6663
+Fold 2
+Training time: 0.6998
+Fold 3
+Training time: 0.6650
+Fold 4
+Training time: 0.6787
+Fold 5
+Training time: 0.6921
+Fold 6
+Training time: 0.7126
+
+
+
+Parameters (118C6Q9O5T) 432/486  -  2021-08-10 20:14:59
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6635
+Fold 2
+Training time: 0.6537
+Fold 3
+Training time: 0.6599
+Fold 4
+Training time: 0.6249
+Fold 5
+Training time: 0.6541
+Fold 6
+Training time: 0.6922
+
+
+
+Parameters (9VJXD76F0R) 433/486  -  2021-08-10 20:15:03
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8749
+Fold 2
+Training time: 0.9002
+Fold 3
+Training time: 0.8756
+Fold 4
+Training time: 0.8611
+Fold 5
+Training time: 0.9069
+Fold 6
+Training time: 0.8847
+
+
+
+Parameters (UJ6KY3SPLJ) 434/486  -  2021-08-10 20:15:09
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6906
+Fold 2
+Training time: 0.6608
+Fold 3
+Training time: 0.6881
+Fold 4
+Training time: 0.6167
+Fold 5
+Training time: 0.7122
+Fold 6
+Training time: 0.6705
+
+
+
+Parameters (107WLO4V8V) 435/486  -  2021-08-10 20:15:13
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1388
+Fold 2
+Training time: 1.1008
+Fold 3
+Training time: 1.1028
+Fold 4
+Training time: 1.0649
+Fold 5
+Training time: 1.1226
+Fold 6
+Training time: 1.1559
+
+
+
+Parameters (FK2KH9NSEJ) 436/486  -  2021-08-10 20:15:20
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3804
+Fold 2
+Training time: 1.3860
+Fold 3
+Training time: 1.4097
+Fold 4
+Training time: 1.3706
+Fold 5
+Training time: 1.4204
+Fold 6
+Training time: 1.3989
+
+
+
+Parameters (V8AK5RK2LW) 437/486  -  2021-08-10 20:15:29
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6162
+Fold 2
+Training time: 1.9085
+Fold 3
+Training time: 1.6835
+Fold 4
+Training time: 1.5719
+Fold 5
+Training time: 1.6569
+Fold 6
+Training time: 1.6937
+
+
+
+Parameters (MIT5PLOYWL) 438/486  -  2021-08-10 20:15:40
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1519
+Fold 2
+Training time: 1.1423
+Fold 3
+Training time: 1.0976
+Fold 4
+Training time: 1.0906
+Fold 5
+Training time: 1.1368
+Fold 6
+Training time: 1.1375
+
+
+
+Parameters (2JF5WEV4FV) 439/486  -  2021-08-10 20:15:47
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.3466
+Fold 2
+Training time: 1.3862
+Fold 3
+Training time: 1.3411
+Fold 4
+Training time: 1.2986
+Fold 5
+Training time: 1.3531
+Fold 6
+Training time: 1.4120
+
+
+
+Parameters (BU5GFEGX3H) 440/486  -  2021-08-10 20:15:55
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6526
+Fold 2
+Training time: 1.6359
+Fold 3
+Training time: 1.6352
+Fold 4
+Training time: 1.5388
+Fold 5
+Training time: 1.6115
+Fold 6
+Training time: 1.6456
+
+
+
+Parameters (SN1WCM6ND6) 441/486  -  2021-08-10 20:16:05
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3293
+Fold 2
+Training time: 1.3245
+Fold 3
+Training time: 1.3294
+Fold 4
+Training time: 1.2515
+Fold 5
+Training time: 1.3024
+Fold 6
+Training time: 1.3475
+
+
+
+Parameters (87JZUA3JAA) 442/486  -  2021-08-10 20:16:14
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7657
+Fold 2
+Training time: 0.8036
+Fold 3
+Training time: 0.8015
+Fold 4
+Training time: 0.7622
+Fold 5
+Training time: 0.7870
+Fold 6
+Training time: 0.8110
+
+
+
+Parameters (SPFEXP8FKP) 443/486  -  2021-08-10 20:16:19
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.3954
+Fold 2
+Training time: 1.5441
+Fold 3
+Training time: 1.8388
+Fold 4
+Training time: 1.3825
+Fold 5
+Training time: 1.4524
+Fold 6
+Training time: 1.4862
+
+
+
+Parameters (JGLO4ZZM5K) 444/486  -  2021-08-10 20:16:28
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1867
+Fold 2
+Training time: 1.1709
+Fold 3
+Training time: 1.2178
+Fold 4
+Training time: 1.1474
+Fold 5
+Training time: 1.2137
+Fold 6
+Training time: 1.2082
+
+
+
+Parameters (KVFKHATFQD) 445/486  -  2021-08-10 20:16:36
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 0, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8289
+Fold 2
+Training time: 0.8070
+Fold 3
+Training time: 0.8469
+Fold 4
+Training time: 0.7701
+Fold 5
+Training time: 0.8588
+Fold 6
+Training time: 0.8267
+
+
+
+Parameters (OU5N0PN1DO) 446/486  -  2021-08-10 20:16:41
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.7142
+Fold 2
+Training time: 0.6856
+Fold 3
+Training time: 0.6911
+Fold 4
+Training time: 0.6358
+Fold 5
+Training time: 0.6764
+Fold 6
+Training time: 0.6712
+
+
+
+Parameters (M7PVO78634) 447/486  -  2021-08-10 20:16:45
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.8767
+Fold 2
+Training time: 1.9104
+Fold 3
+Training time: 1.7978
+Fold 4
+Training time: 1.7790
+Fold 5
+Training time: 1.7530
+Fold 6
+Training time: 1.9043
+
+
+
+Parameters (B7UH1207E8) 448/486  -  2021-08-10 20:16:57
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.2321
+Fold 2
+Training time: 1.2217
+Fold 3
+Training time: 1.2443
+Fold 4
+Training time: 1.1885
+Fold 5
+Training time: 1.2142
+Fold 6
+Training time: 1.2114
+
+
+
+Parameters (GWK175S49W) 449/486  -  2021-08-10 20:17:04
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.7098
+Fold 2
+Training time: 1.6330
+Fold 3
+Training time: 1.6719
+Fold 4
+Training time: 1.6033
+Fold 5
+Training time: 2.1434
+Fold 6
+Training time: 1.6718
+
+
+
+Parameters (U6OUMGWDWS) 450/486  -  2021-08-10 20:17:15
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.9226
+Fold 2
+Training time: 0.8934
+Fold 3
+Training time: 0.8803
+Fold 4
+Training time: 0.8424
+Fold 5
+Training time: 0.8757
+Fold 6
+Training time: 0.9118
+
+
+
+Parameters (L12NS4TCTQ) 451/486  -  2021-08-10 20:17:21
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.3657
+Fold 2
+Training time: 1.3730
+Fold 3
+Training time: 1.3248
+Fold 4
+Training time: 1.3068
+Fold 5
+Training time: 1.2742
+Fold 6
+Training time: 1.3783
+
+
+
+Parameters (HNZGQU9BE1) 452/486  -  2021-08-10 20:17:29
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.5983
+Fold 2
+Training time: 1.8340
+Fold 3
+Training time: 1.5164
+Fold 4
+Training time: 1.4766
+Fold 5
+Training time: 1.5168
+Fold 6
+Training time: 1.6281
+
+
+
+Parameters (XQRC1GD6KN) 453/486  -  2021-08-10 20:17:39
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.6431
+Fold 2
+Training time: 1.6057
+Fold 3
+Training time: 1.5346
+Fold 4
+Training time: 1.5563
+Fold 5
+Training time: 1.5858
+Fold 6
+Training time: 1.6549
+
+
+
+Parameters (EMJM6QFXNE) 454/486  -  2021-08-10 20:17:49
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.9280
+Fold 2
+Training time: 1.9581
+Fold 3
+Training time: 1.9357
+Fold 4
+Training time: 1.9164
+Fold 5
+Training time: 1.9875
+Fold 6
+Training time: 1.9636
+
+
+
+Parameters (P863HI2EG4) 455/486  -  2021-08-10 20:18:01
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8549
+Fold 2
+Training time: 0.8669
+Fold 3
+Training time: 0.8548
+Fold 4
+Training time: 0.8110
+Fold 5
+Training time: 0.8684
+Fold 6
+Training time: 0.8767
+
+
+
+Parameters (O600KCHBLK) 456/486  -  2021-08-10 20:18:07
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7878
+Fold 2
+Training time: 0.7706
+Fold 3
+Training time: 0.8258
+Fold 4
+Training time: 0.7719
+Fold 5
+Training time: 0.7840
+Fold 6
+Training time: 0.8149
+
+
+
+Parameters (KZNBDLL0AF) 457/486  -  2021-08-10 20:18:12
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.9362
+Fold 2
+Training time: 1.9102
+Fold 3
+Training time: 1.9103
+Fold 4
+Training time: 1.9438
+Fold 5
+Training time: 1.9493
+Fold 6
+Training time: 1.9483
+
+
+
+Parameters (U87SYOSF48) 458/486  -  2021-08-10 20:18:24
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6981
+Fold 2
+Training time: 0.6712
+Fold 3
+Training time: 0.7027
+Fold 4
+Training time: 0.6538
+Fold 5
+Training time: 0.7283
+Fold 6
+Training time: 0.6681
+
+
+
+Parameters (YMUU5OQD74) 459/486  -  2021-08-10 20:18:28
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.1967
+Fold 2
+Training time: 1.1795
+Fold 3
+Training time: 1.1310
+Fold 4
+Training time: 1.0790
+Fold 5
+Training time: 1.1771
+Fold 6
+Training time: 1.2105
+
+
+
+Parameters (NSP9DO4MOC) 460/486  -  2021-08-10 20:18:36
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.1600
+Fold 2
+Training time: 1.1537
+Fold 3
+Training time: 1.2062
+Fold 4
+Training time: 1.0728
+Fold 5
+Training time: 1.1754
+Fold 6
+Training time: 1.2151
+
+
+
+Parameters (4S6XDLELSI) 461/486  -  2021-08-10 20:18:43
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.1206
+Fold 2
+Training time: 1.1476
+Fold 3
+Training time: 1.1270
+Fold 4
+Training time: 1.0946
+Fold 5
+Training time: 1.1132
+Fold 6
+Training time: 1.1453
+
+
+
+Parameters (F7R65RNK9L) 462/486  -  2021-08-10 20:18:50
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.3560
+Fold 2
+Training time: 1.3296
+Fold 3
+Training time: 1.2532
+Fold 4
+Training time: 1.2464
+Fold 5
+Training time: 1.3337
+Fold 6
+Training time: 1.3531
+
+
+
+Parameters (H7TYN3PN70) 463/486  -  2021-08-10 20:18:58
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6672
+Fold 2
+Training time: 0.6668
+Fold 3
+Training time: 0.6922
+Fold 4
+Training time: 0.6260
+Fold 5
+Training time: 0.6948
+Fold 6
+Training time: 0.6664
+
+
+
+Parameters (O84S54IZRG) 464/486  -  2021-08-10 20:19:03
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6315
+Fold 2
+Training time: 0.6005
+Fold 3
+Training time: 0.6164
+Fold 4
+Training time: 0.5771
+Fold 5
+Training time: 0.5942
+Fold 6
+Training time: 0.6313
+
+
+
+Parameters (4WBFUW5UX4) 465/486  -  2021-08-10 20:19:07
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6514
+Fold 2
+Training time: 0.6723
+Fold 3
+Training time: 0.6604
+Fold 4
+Training time: 0.6268
+Fold 5
+Training time: 0.6628
+Fold 6
+Training time: 0.7022
+
+
+
+Parameters (L9GLVYEEDK) 466/486  -  2021-08-10 20:19:11
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.9999
+Fold 2
+Training time: 1.0320
+Fold 3
+Training time: 1.0296
+Fold 4
+Training time: 0.9653
+Fold 5
+Training time: 1.0281
+Fold 6
+Training time: 1.0338
+
+
+
+Parameters (ON3WICFZ0C) 467/486  -  2021-08-10 20:19:18
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 2, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.0204
+Fold 2
+Training time: 0.9680
+Fold 3
+Training time: 1.0206
+Fold 4
+Training time: 0.9508
+Fold 5
+Training time: 0.9988
+Fold 6
+Training time: 1.0038
+
+
+
+Parameters (EYS5BDY3O0) 468/486  -  2021-08-10 20:19:24
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1038
+Fold 2
+Training time: 1.1384
+Fold 3
+Training time: 1.1471
+Fold 4
+Training time: 1.1168
+Fold 5
+Training time: 1.1279
+Fold 6
+Training time: 1.1241
+
+
+
+Parameters (JF5Q4QNCBG) 469/486  -  2021-08-10 20:19:31
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 0, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.2126
+Fold 2
+Training time: 1.3915
+Fold 3
+Training time: 1.2109
+Fold 4
+Training time: 1.1872
+Fold 5
+Training time: 1.2374
+Fold 6
+Training time: 1.2037
+
+
+
+Parameters (1QUARQ971W) 470/486  -  2021-08-10 20:19:39
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.005, 'lambda': 2, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 1.6919
+Fold 2
+Training time: 1.7144
+Fold 3
+Training time: 1.6771
+Fold 4
+Training time: 1.6394
+Fold 5
+Training time: 1.6904
+Fold 6
+Training time: 1.7263
+
+
+
+Parameters (0YHT2CHQZ2) 471/486  -  2021-08-10 20:19:49
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.8729
+Fold 2
+Training time: 0.8584
+Fold 3
+Training time: 0.8989
+Fold 4
+Training time: 0.7796
+Fold 5
+Training time: 0.8605
+Fold 6
+Training time: 0.9202
+
+
+
+Parameters (VRYNV7A8RJ) 472/486  -  2021-08-10 20:19:55
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.05, 'lambda': 0, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.6646
+Fold 2
+Training time: 0.6831
+Fold 3
+Training time: 0.6778
+Fold 4
+Training time: 0.6756
+Fold 5
+Training time: 0.6717
+Fold 6
+Training time: 0.7067
+
+
+
+Parameters (YU1BP1NLWC) 473/486  -  2021-08-10 20:19:59
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 2, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7869
+Fold 2
+Training time: 0.7875
+Fold 3
+Training time: 0.7640
+Fold 4
+Training time: 0.7736
+Fold 5
+Training time: 0.7633
+Fold 6
+Training time: 0.7862
+
+
+
+Parameters (AHWWS7590S) 474/486  -  2021-08-10 20:20:04
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.5938
+Fold 2
+Training time: 0.6303
+Fold 3
+Training time: 0.5678
+Fold 4
+Training time: 0.5706
+Fold 5
+Training time: 0.6032
+Fold 6
+Training time: 0.5952
+
+
+
+Parameters (TP586NIT00) 475/486  -  2021-08-10 20:20:08
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1681
+Fold 2
+Training time: 1.2431
+Fold 3
+Training time: 1.2190
+Fold 4
+Training time: 1.2765
+Fold 5
+Training time: 1.2269
+Fold 6
+Training time: 1.1889
+
+
+
+Parameters (1JBSRKS9PH) 476/486  -  2021-08-10 20:20:16
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.05, 'lambda': 1, 'max_depth': 6, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.0265
+Fold 2
+Training time: 1.0313
+Fold 3
+Training time: 1.0417
+Fold 4
+Training time: 0.9587
+Fold 5
+Training time: 1.0513
+Fold 6
+Training time: 1.0531
+
+
+
+Parameters (GUS3ZPUIXP) 477/486  -  2021-08-10 20:20:23
+{'booster': 'gbtree', 'eta': 0.3, 'gamma': 0.01, 'lambda': 0, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6587
+Fold 2
+Training time: 0.6874
+Fold 3
+Training time: 0.6572
+Fold 4
+Training time: 0.6269
+Fold 5
+Training time: 0.6740
+Fold 6
+Training time: 0.6695
+
+
+
+Parameters (8B62FDO4KN) 478/486  -  2021-08-10 20:20:27
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.2028
+Fold 2
+Training time: 1.1832
+Fold 3
+Training time: 1.2287
+Fold 4
+Training time: 1.1219
+Fold 5
+Training time: 1.2058
+Fold 6
+Training time: 1.2036
+
+
+
+Parameters (PSTOBSL0ZN) 479/486  -  2021-08-10 20:20:34
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 7, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 1.5985
+Fold 2
+Training time: 1.5829
+Fold 3
+Training time: 1.5640
+Fold 4
+Training time: 1.4446
+Fold 5
+Training time: 1.5932
+Fold 6
+Training time: 1.6474
+
+
+
+Parameters (YYQBWKYWTX) 480/486  -  2021-08-10 20:20:44
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 1, 'max_depth': 5, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.8554
+Fold 2
+Training time: 0.8393
+Fold 3
+Training time: 0.8081
+Fold 4
+Training time: 0.7787
+Fold 5
+Training time: 0.8171
+Fold 6
+Training time: 0.8562
+
+
+
+Parameters (4BIM7P9WR5) 481/486  -  2021-08-10 20:20:49
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.05, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6519
+Fold 2
+Training time: 0.6758
+Fold 3
+Training time: 0.6584
+Fold 4
+Training time: 0.6305
+Fold 5
+Training time: 0.6639
+Fold 6
+Training time: 0.6999
+
+
+
+Parameters (Z2TRW54ZLV) 482/486  -  2021-08-10 20:20:54
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.01, 'lambda': 1, 'max_depth': 4, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.7868
+Fold 2
+Training time: 0.8085
+Fold 3
+Training time: 0.7481
+Fold 4
+Training time: 0.7931
+Fold 5
+Training time: 0.8089
+Fold 6
+Training time: 0.7872
+
+
+
+Parameters (3SKRHO6JOB) 483/486  -  2021-08-10 20:20:59
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 1, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.75}
+Fold 1
+Training time: 0.6077
+Fold 2
+Training time: 0.6384
+Fold 3
+Training time: 0.5790
+Fold 4
+Training time: 0.5761
+Fold 5
+Training time: 0.6096
+Fold 6
+Training time: 0.5877
+
+
+
+Parameters (Z595R00G9O) 484/486  -  2021-08-10 20:21:03
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.005, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 0.5252
+Fold 2
+Training time: 0.5193
+Fold 3
+Training time: 0.5454
+Fold 4
+Training time: 0.4709
+Fold 5
+Training time: 0.5140
+Fold 6
+Training time: 0.5348
+
+
+
+Parameters (1BSTVRPKGC) 485/486  -  2021-08-10 20:21:06
+{'booster': 'gbtree', 'eta': 0.5, 'gamma': 0.005, 'lambda': 0, 'max_depth': 8, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 0.5}
+Fold 1
+Training time: 1.1964
+Fold 2
+Training time: 1.3162
+Fold 3
+Training time: 1.3093
+Fold 4
+Training time: 1.2205
+Fold 5
+Training time: 1.3041
+Fold 6
+Training time: 1.3525
+
+
+
+Parameters (WBX7MHKZ9Q) 486/486  -  2021-08-10 20:21:14
+{'booster': 'gbtree', 'eta': 0.4, 'gamma': 0.01, 'lambda': 2, 'max_depth': 3, 'nthread': 8, 'objective': 'reg:squarederror', 'seed': 0, 'subsample': 1}
+Fold 1
+Training time: 0.6651
+Fold 2
+Training time: 0.6875
+Fold 3
+Training time: 0.6634
+Fold 4
+Training time: 0.6366
+Fold 5
+Training time: 0.6536
+Fold 6
+Training time: 0.6970
+
+
+
