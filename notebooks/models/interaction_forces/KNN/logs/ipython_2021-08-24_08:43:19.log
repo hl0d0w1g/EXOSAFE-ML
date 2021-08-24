@@ -1,0 +1,1399 @@
+Model training with data: 0010_09082021
+Number of parameters combinations: 100
+2021-08-24 08:43:25
+Parameters (WTH58ZLCVI) 1/100
+{'n_neighbors': 950}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:43:44
+Parameters (U7E9G6L4YA) 2/100
+{'n_neighbors': 990}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:44:04
+Parameters (GX2YW9HKBC) 3/100
+{'n_neighbors': 700}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:44:18
+Parameters (35D97FGF79) 4/100
+{'n_neighbors': 410}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:44:27
+Parameters (RTTKIXWRVU) 5/100
+{'n_neighbors': 830}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:44:45
+Parameters (I2SLDYZJUI) 6/100
+{'n_neighbors': 450}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:44:55
+Parameters (O9W1O1ZRY6) 7/100
+{'n_neighbors': 460}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:45:06
+Parameters (F3YD125IGU) 8/100
+{'n_neighbors': 560}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:45:18
+Parameters (H56RASNWWT) 9/100
+{'n_neighbors': 120}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:45:22
+Parameters (BWNC61BMJA) 10/100
+{'n_neighbors': 220}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:45:27
+Parameters (W0BFGYN9IQ) 11/100
+{'n_neighbors': 620}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:45:41
+Parameters (P7VDP4SWBM) 12/100
+{'n_neighbors': 930}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:46:02
+Parameters (D6DVTR9362) 13/100
+{'n_neighbors': 360}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:46:10
+Parameters (3IH2CC96CC) 14/100
+{'n_neighbors': 760}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:46:27
+Parameters (GY79FVPYUH) 15/100
+{'n_neighbors': 20}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:46:28
+Parameters (4E3PNTI4II) 16/100
+{'n_neighbors': 310}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 08:46:36
+Parameters (JKD4N929UF) 17/100
+{'n_neighbors': 0}
+Fold 1
+Number of parameters combinations: 100
+2021-08-24 16:27:28
+Parameters (HEOZRBB669) 1/100
+{'n_neighbors': 671}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:27:56
+Parameters (TG1Y6ORGLB) 2/100
+{'n_neighbors': 121}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:28:03
+Parameters (24M8D43OTD) 3/100
+{'n_neighbors': 561}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:28:21
+Parameters (MZV75UP5YF) 4/100
+{'n_neighbors': 341}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:28:30
+Parameters (9OAHXGQ8MT) 5/100
+{'n_neighbors': 141}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:28:35
+Parameters (TD7B98GXY5) 6/100
+{'n_neighbors': 171}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:28:40
+Parameters (DN3EU4K8OM) 7/100
+{'n_neighbors': 821}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:29:02
+Parameters (0UJM1B06QQ) 8/100
+{'n_neighbors': 581}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:29:18
+Parameters (9FN884Z3ZF) 9/100
+{'n_neighbors': 101}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:29:20
+Parameters (J009JVNBXW) 10/100
+{'n_neighbors': 451}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:29:33
+Parameters (GS6D5G2RHI) 11/100
+{'n_neighbors': 871}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:29:58
+Parameters (6K7MZJU5A4) 12/100
+{'n_neighbors': 551}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:30:14
+Parameters (M4K1Q9UXMW) 13/100
+{'n_neighbors': 931}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:30:41
+Parameters (79RIBV5P5U) 14/100
+{'n_neighbors': 591}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:30:58
+Parameters (T2A29BO7WR) 15/100
+{'n_neighbors': 911}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:31:24
+Parameters (FHG7IBV6U1) 16/100
+{'n_neighbors': 831}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:31:45
+Parameters (IRKSJTWMKK) 17/100
+{'n_neighbors': 781}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:32:05
+Parameters (NYKONJ8SJK) 18/100
+{'n_neighbors': 681}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:32:23
+Parameters (RXAAMTZKU0) 19/100
+{'n_neighbors': 841}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:32:46
+Parameters (PDAM8KQ343) 20/100
+{'n_neighbors': 361}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:32:56
+Parameters (2MIUUVS1ZH) 21/100
+{'n_neighbors': 91}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:32:59
+Parameters (C2AY12CM5Y) 22/100
+{'n_neighbors': 411}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:33:09
+Parameters (B19OCZ7UJP) 23/100
+{'n_neighbors': 251}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:33:16
+Parameters (RGQP5NE8FS) 24/100
+{'n_neighbors': 351}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:33:27
+Parameters (CE16DDX7V6) 25/100
+{'n_neighbors': 331}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:33:37
+Parameters (8EBGA9ZUI8) 26/100
+{'n_neighbors': 371}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:33:48
+Parameters (O90ZV5SIT9) 27/100
+{'n_neighbors': 741}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:34:08
+Parameters (MVFY90M8EC) 28/100
+{'n_neighbors': 991}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:34:34
+Parameters (V7P4ATKQKK) 29/100
+{'n_neighbors': 131}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:34:39
+Parameters (R1ZGCC70L5) 30/100
+{'n_neighbors': 51}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:34:41
+Parameters (QWBV872JWP) 31/100
+{'n_neighbors': 421}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:34:53
+Parameters (6DOH0ELWB5) 32/100
+{'n_neighbors': 731}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:35:12
+Parameters (KAN4GS2WB8) 33/100
+{'n_neighbors': 521}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:35:26
+Parameters (DN5MFOK95F) 34/100
+{'n_neighbors': 461}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:35:38
+Parameters (8UJFHHYPYR) 35/100
+{'n_neighbors': 311}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:35:47
+Parameters (ZTIBFET9TV) 36/100
+{'n_neighbors': 761}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:36:06
+Parameters (SOC8R3T9MS) 37/100
+{'n_neighbors': 41}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:36:07
+Parameters (2CJAFJR68K) 38/100
+{'n_neighbors': 941}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:36:32
+Parameters (QP3WNIL0YX) 39/100
+{'n_neighbors': 621}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:36:50
+Parameters (X8YKMF0YTF) 40/100
+{'n_neighbors': 261}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:36:57
+Parameters (WW2TXSOLL7) 41/100
+{'n_neighbors': 431}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:37:10
+Parameters (WIVJD2PR9G) 42/100
+{'n_neighbors': 531}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:37:28
+Parameters (B7QEMRS063) 43/100
+{'n_neighbors': 401}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:37:42
+Parameters (R3SEBO7B52) 44/100
+{'n_neighbors': 631}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:38:02
+Parameters (AF4U9YR5YN) 45/100
+{'n_neighbors': 281}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:38:11
+Parameters (B6B6BYFLJX) 46/100
+{'n_neighbors': 161}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:38:17
+Parameters (TTL718WOCA) 47/100
+{'n_neighbors': 241}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:38:24
+Parameters (D700TM0XHM) 48/100
+{'n_neighbors': 861}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:38:50
+Parameters (QWRVQJYTB8) 49/100
+{'n_neighbors': 611}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:39:09
+Parameters (WS5DF3EGS8) 50/100
+{'n_neighbors': 661}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:39:30
+Parameters (4SNNDUCTRM) 51/100
+{'n_neighbors': 291}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:39:39
+Parameters (G7DN6WPBRL) 52/100
+{'n_neighbors': 81}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:39:43
+Parameters (D1KUL599EF) 53/100
+{'n_neighbors': 891}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:40:10
+Parameters (Z2CWYDI3PM) 54/100
+{'n_neighbors': 961}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:40:39
+Parameters (DN808YAMZV) 55/100
+{'n_neighbors': 1}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:40:40
+Parameters (1L6V53A015) 56/100
+{'n_neighbors': 61}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:40:42
+Parameters (5EZA1QHI2X) 57/100
+{'n_neighbors': 701}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:41:05
+Parameters (G33R6JGYU2) 58/100
+{'n_neighbors': 511}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:41:21
+Parameters (8VG7JGKBV2) 59/100
+{'n_neighbors': 11}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:41:22
+Parameters (CTODZSCOF9) 60/100
+{'n_neighbors': 271}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:41:30
+Parameters (M0P8UYAQWK) 61/100
+{'n_neighbors': 31}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:41:31
+Parameters (6IOFS7EWOK) 62/100
+{'n_neighbors': 391}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:41:43
+Parameters (176LOEAZDW) 63/100
+{'n_neighbors': 951}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:42:08
+Parameters (MO78750GLE) 64/100
+{'n_neighbors': 541}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:42:23
+Parameters (YJ9VMPKXB9) 65/100
+{'n_neighbors': 471}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:42:36
+Parameters (JICH2KN4X3) 66/100
+{'n_neighbors': 321}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:42:45
+Parameters (0NGIM8GBN7) 67/100
+{'n_neighbors': 481}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:42:58
+Parameters (X7RMBKSPTW) 68/100
+{'n_neighbors': 181}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:43:03
+Parameters (QW9KEB4S40) 69/100
+{'n_neighbors': 811}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:43:25
+Parameters (WIL620Z76C) 70/100
+{'n_neighbors': 221}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:43:32
+Parameters (4MN8LDPU9M) 71/100
+{'n_neighbors': 641}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:43:49
+Parameters (L4HVKVNJS6) 72/100
+{'n_neighbors': 981}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:44:15
+Parameters (NY498CF3LF) 73/100
+{'n_neighbors': 111}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:44:18
+Parameters (AL7TV1APJ9) 74/100
+{'n_neighbors': 301}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:44:26
+Parameters (ILSWBTDDAT) 75/100
+{'n_neighbors': 751}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:44:46
+Parameters (ISUXQBJXGS) 76/100
+{'n_neighbors': 971}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:45:11
+Parameters (R13F47VLPL) 77/100
+{'n_neighbors': 851}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:45:34
+Parameters (AIPRHHAGK0) 78/100
+{'n_neighbors': 201}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:45:39
+Parameters (1O2V27FD9C) 79/100
+{'n_neighbors': 71}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:45:42
+Parameters (V1EW9OFROT) 80/100
+{'n_neighbors': 691}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:46:01
+Parameters (8Z1U3M8YRA) 81/100
+{'n_neighbors': 901}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:46:26
+Parameters (RO5E4VJT31) 82/100
+{'n_neighbors': 771}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:46:46
+Parameters (3IOK8GNBMY) 83/100
+{'n_neighbors': 231}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:46:52
+Parameters (9EGBHPU95O) 84/100
+{'n_neighbors': 211}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:46:59
+Parameters (PTHAVAM31U) 85/100
+{'n_neighbors': 21}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:47:00
+Parameters (QNKYFOQWB4) 86/100
+{'n_neighbors': 801}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:47:22
+Parameters (HCJ6LRJU79) 87/100
+{'n_neighbors': 651}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:47:41
+Parameters (BFJOMOQTGG) 88/100
+{'n_neighbors': 501}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:47:55
+Parameters (I8ZOKX3NFI) 89/100
+{'n_neighbors': 151}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:48:00
+Parameters (CZFQZ0OXUI) 90/100
+{'n_neighbors': 601}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:48:17
+Parameters (1D5FG2ZXNC) 91/100
+{'n_neighbors': 721}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:48:37
+Parameters (E3G48Y3TWU) 92/100
+{'n_neighbors': 791}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:48:59
+Parameters (AKI2289918) 93/100
+{'n_neighbors': 491}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:49:13
+Parameters (HCAGGN9Q13) 94/100
+{'n_neighbors': 921}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:49:38
+Parameters (C45Z78WJSG) 95/100
+{'n_neighbors': 441}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:49:50
+Parameters (UD667AIRUT) 96/100
+{'n_neighbors': 711}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:50:10
+Parameters (BH4XO0GKXR) 97/100
+{'n_neighbors': 381}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:50:21
+Parameters (BPP17LME4J) 98/100
+{'n_neighbors': 571}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:50:36
+Parameters (C8OXDR187L) 99/100
+{'n_neighbors': 191}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
+2021-08-24 16:50:42
+Parameters (PV839T0O6K) 100/100
+{'n_neighbors': 881}
+Fold 1
+Fold 2
+Fold 3
+Fold 4
+Fold 5
+Fold 6
+
+
+
